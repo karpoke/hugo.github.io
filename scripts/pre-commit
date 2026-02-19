@@ -1,0 +1,29 @@
+#!/bin/bash
+# Pre-commit hook para validar el build de Hugo
+# Este hook se ejecuta antes de cada commit para asegurar que el sitio se puede generar
+
+echo "🔍 Pre-commit hook: Validando build de Hugo..."
+
+# Verificar que Hugo está instalado
+if ! command -v hugo &> /dev/null; then
+    echo "❌ Error: Hugo no está instalado"
+    echo "   Instala Hugo desde: https://gohugo.io/installation/"
+    exit 1
+fi
+
+# Ejecutar hugo build para validar
+if hugo --quiet --minify 2>&1 | tee /tmp/hugo-build.log; then
+    echo "✅ Build de Hugo exitoso"
+    # Limpiar archivos generados (no queremos commitearlos)
+    rm -rf public/ resources/
+    exit 0
+else
+    echo "❌ Error: El build de Hugo falló"
+    echo ""
+    echo "Errores encontrados:"
+    cat /tmp/hugo-build.log
+    echo ""
+    echo "Por favor, corrige los errores antes de hacer commit."
+    echo "Puedes ejecutar 'hugo --verbose' para más detalles."
+    exit 1
+fi

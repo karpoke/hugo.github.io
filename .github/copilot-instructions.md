@@ -245,6 +245,29 @@ core.sshCommand = ssh -i /home/hbxuser/karpoke/ssh/id_rsa -o IdentitiesOnly=yes
 
 **Nota**: Esta configuración es local y no se sube al repositorio.
 
+### Git Hooks
+El proyecto incluye un hook pre-commit que valida el build de Hugo:
+
+```bash
+# Instalar hooks
+make install-hooks
+
+# Ubicación del hook
+.git/hooks/pre-commit  # Hook activo (no se sube al repo)
+scripts/pre-commit     # Script fuente (se sube al repo)
+```
+
+**Qué hace el pre-commit hook:**
+- ✅ Valida que Hugo puede generar el sitio sin errores
+- ✅ Ejecuta `hugo --quiet --minify`
+- ✅ Limpia archivos generados automáticamente
+- ✅ Previene commits con errores de sintaxis
+
+**Saltar el hook (solo emergencias):**
+```bash
+git commit --no-verify -m "mensaje"
+```
+
 ## 🔐 Seguridad
 
 ### Información Sensible

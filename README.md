@@ -17,6 +17,7 @@ Migrado desde Pelican manteniendo URLs legacy para compatibilidad SEO.
 git clone https://github.com/USUARIO/hugo.github.io.git
 cd hugo.github.io
 git submodule update --init --recursive
+make install-hooks  # Instalar git hooks (recomendado)
 ```
 
 ### Ejecutar servidor local
@@ -98,6 +99,28 @@ make clean          # Limpiar archivos generados
 make deploy         # Build para producción
 make new-post       # Crear nuevo post
 make update-theme   # Actualizar tema PaperMod
+make install-hooks  # Instalar git hooks
+```
+
+## 🎣 Git Hooks
+
+El proyecto incluye un hook pre-commit que valida que Hugo puede generar el sitio antes de cada commit.
+
+### Instalación
+```bash
+make install-hooks
+```
+
+### ¿Qué hace?
+- Ejecuta `hugo --minify` antes de cada commit
+- Valida que no hay errores de build
+- Limpia automáticamente los archivos generados
+- Previene commits con errores de sintaxis o configuración
+
+### Saltar el hook (emergencia)
+Si necesitas hacer un commit urgente sin validación:
+```bash
+git commit --no-verify -m "mensaje"
 ```
 
 ## 🔍 Características

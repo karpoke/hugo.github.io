@@ -1,4 +1,4 @@
-.PHONY: help server build clean deploy new-post
+.PHONY: help server build clean deploy new-post update-theme init-submodules install-hooks
 
 help: ## Mostrar esta ayuda
 	@echo "Comandos disponibles:"
@@ -28,3 +28,6 @@ update-theme: ## Actualizar tema PaperMod
 
 init-submodules: ## Inicializar submódulos (útil después de clonar)
 	git submodule update --init --recursive
+
+install-hooks: ## Instalar git hooks del proyecto
+	@bash scripts/install-hooks.sh
