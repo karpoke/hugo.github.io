@@ -66,6 +66,12 @@ theme = 'PaperMod'
     weight = 20
 
   [[menu.main]]
+    identifier = "about"
+    name = "Sobre mí"
+    url = "/sobre-mi/"
+    weight = 25
+
+  [[menu.main]]
     identifier = "search"
     name = "Buscar"
     url = "/search/"
