@@ -348,16 +348,6 @@ Fix: Corrección de bug
 Docs: Documentación
 ```
 
-## 🚀 Roadmap Futuro
-
-Posibles mejoras a considerar:
-- [ ] Migración de contenido desde Pelican
-- [ ] Analytics (Google Analytics o alternativa)
-- [ ] Comentarios (Disqus, Utterances)
-- [ ] Newsletter
-- [ ] Categorías adicionales
-- [ ] Series de posts relacionados
-- [ ] Modo oscuro automático
 
 ---
 
