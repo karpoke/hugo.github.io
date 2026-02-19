@@ -1,0 +1,67 @@
+baseURL = 'https://hugo.github.io/'
+languageCode = 'es'
+title = 'Blog de Ignacio Cano'
+theme = 'PaperMod'
+
+# Permalinks en formato legacy de Pelican: /YYYY/MM/DD/slug/
+[permalinks]
+  posts = '/:year/:month/:day/:slug/'
+
+[params]
+  author = 'Ignacio Cano'
+  description = 'Blog técnico de Ignacio Cano'
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowWordCount = true
+  ShowRssButtonInSectionTermList = true
+  UseHugoToc = true
+  disableSpecial1stPost = false
+  disableScrollToTop = false
+  comments = false
+  hidemeta = false
+  hideSummary = false
+  showtoc = true
+  tocopen = false
+
+  # Búsqueda con Fuse.js
+  [params.fuseOpts]
+    isCaseSensitive = false
+    shouldSort = true
+    location = 0
+    distance = 1000
+    threshold = 0.4
+    minMatchCharLength = 0
+    keys = ["title", "permalink", "summary", "content"]
+
+[params.homeInfoParams]
+  Title = "Blog Técnico"
+  Content = "Artículos sobre programación, desarrollo web y tecnología"
+
+[[params.socialIcons]]
+  name = "rss"
+  url = "/index.xml"
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags/"
+    weight = 20
+
+  [[menu.main]]
+    identifier = "search"
+    name = "Buscar"
+    url = "/search/"
+    weight = 30
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
