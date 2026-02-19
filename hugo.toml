@@ -72,6 +72,12 @@ theme = 'PaperMod'
     weight = 25
 
   [[menu.main]]
+    identifier = "archives"
+    name = "Archivo"
+    url = "/archivo/"
+    weight = 28
+
+  [[menu.main]]
     identifier = "search"
     name = "Buscar"
     url = "/search/"
