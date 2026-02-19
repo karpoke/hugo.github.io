@@ -354,12 +354,43 @@ Verificar que incluye:
 - **Ramas git**: kebab-case (`feature/nueva-funcionalidad`)
 
 ### Commits
-Usar mensajes descriptivos:
+Usar semantic commit messages siguiendo el formato: `type(scope): description`
+
+**Tipos de commits permitidos:**
+- `feat:` - Nueva funcionalidad
+- `fix:` - Corrección de bug
+- `docs:` - Cambios en documentación
+- `style:` - Cambios de formato (espacios, comillas, etc.) sin afectar código
+- `refactor:` - Refactorización de código sin cambiar funcionalidad
+- `perf:` - Mejoras de performance
+- `test:` - Añadir o modificar tests
+- `chore:` - Cambios en herramientas de build, dependencias, etc.
+- `ci:` - Cambios en configuración de CI/CD
+
+**Scope (opcional pero recomendado):**
+- `hugo` - Configuración de Hugo
+- `post` - Artículos del blog
+- `theme` - Cambios en tema PaperMod
+- `hooks` - Git hooks
+- `workflow` - GitHub Actions
+
+**Ejemplos correctos:**
 ```
-Add: Nueva funcionalidad
-Update: Cambio en existente
-Fix: Corrección de bug
-Docs: Documentación
+feat(post): add new article about Docker Compose
+fix(hugo): correct date format in frontmatter
+docs(copilot-instructions): clarify semantic commit rules
+feat(theme): add custom CSS for syntax highlighting
+chore(deps): update PaperMod to latest version
+ci(workflow): update Hugo version to 0.156.0
+```
+
+**Formato completo:**
+```
+type(scope): description
+
+[cuerpo opcional - detalles adicionales si es necesario]
+
+[footer opcional - referencias a issues, breaking changes, etc.]
 ```
 
 
