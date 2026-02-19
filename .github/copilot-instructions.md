@@ -289,6 +289,25 @@ git diff archivo.txt
 git status
 ```
 
+### Compilación de Hugo y Servidor Local
+**IMPORTANTE**: Antes de ejecutar `hugo` para compilar el sitio:
+1. Verificar si el servidor local está en ejecución (`make server`)
+2. Si el servidor está activo, **NO ejecutar `hugo`** directamente
+3. Si el servidor está en ejecución, los cambios ya están compilados automáticamente en memoria
+4. Solo ejecutar `hugo` directamente cuando el servidor local NO esté corriendo
+
+**Comandos relacionados:**
+```bash
+# Verificar si el servidor está corriendo
+lsof -i :1313
+ps aux | grep "hugo server"
+
+# Si el servidor está corriendo, los cambios ya están compilados
+# Si necesitas generar el sitio estático, primero detén el servidor:
+# Ctrl+C en la ventana del servidor
+# Luego ejecuta: hugo
+```
+
 ### Comandos que Requieren Autorización Explícita del Usuario
 - `git commit` - NO hacer commit hasta que el usuario lo pida explícitamente
 - `git push` - NUNCA hacer push sin confirmación explícita del usuario
