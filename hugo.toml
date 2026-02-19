@@ -41,8 +41,8 @@ theme = 'PaperMod'
   Content = "Artículos sobre programación, desarrollo web y tecnología"
 
 [[params.socialIcons]]
-  name = "rss"
-  url = "/index.xml"
+  name = "github"
+  url = "https://github.com/karpoke/"
 
 [menu]
   [[menu.main]]
