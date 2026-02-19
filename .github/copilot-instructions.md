@@ -400,5 +400,5 @@ type(scope): description
 ---
 
 **Última actualización**: Febrero 2026  
-**Mantenedor**: Ignacio Cano (@karpoke)  
+**Mantenedor**: Nacho Cano (@karpoke)  
 **Repositorio**: https://github.com/karpoke/hugo.github.io

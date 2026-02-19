@@ -2,10 +2,10 @@
 title: "Sobre mí"
 layout: "page"
 url: "/sobre-mi/"
-summary: "Información sobre Ignacio Cano"
+summary: "Información sobre Nacho Cano"
 ---
 
-## Hola, soy Ignacio Cano 👋
+## Hola, soy Nacho Cano 👋
 
 Bienvenido a mi blog técnico.
 
