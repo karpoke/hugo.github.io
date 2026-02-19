@@ -10,7 +10,8 @@ Este documento contiene las directrices y contexto para que GitHub Copilot ayude
 - **Tema**: PaperMod (submódulo git)
 - **Deploy**: GitHub Pages con GitHub Actions
 - **Lenguaje**: Markdown para contenido, TOML para configuración
-
+- **Título del sitio**: Karpoke - Just Another Hugo Blog
+- **Dominio**: hugo.github.io (temporal), blog.ignaciocano.com (final)
 ### Estructura del Blog
 ```
 hugo.github.io/
@@ -171,13 +172,13 @@ make clean && make build
 
 ### Configuración PaperMod
 En `hugo.toml` bajo `[params]`:
-- Búsqueda habilitada
-- Botones de compartir
+- Búsqueda habilitada con Fuse.js
+- Botones de compartir en posts (X/Twitter, LinkedIn, Reddit, Facebook, WhatsApp, Telegram, HackerNews)
 - Código con botón copiar
 - TOC (tabla de contenidos)
 - Lectura estimada
 - Breadcrumbs
-
+- Icono social de GitHub en header apuntando a `https://github.com/karpoke/`
 ### Overrides
 Para personalizar el tema, crear archivos en:
 - `layouts/` - Para templates
@@ -277,7 +278,6 @@ Los siguientes comandos NO requieren confirmación previa, incluso si se ejecuta
 - `git diff` - Ver diferencias en archivos
 - `git log` - Ver historial de commits
 - `git status` - Ver estado del repositorio
-- `git commit` - Crear commits locales
 - `git check-ignore` - Verificar si archivos están ignorados
 - `git show` - Mostrar commits
 - `git reflog` - Ver historial de referencias
@@ -285,16 +285,19 @@ Los siguientes comandos NO requieren confirmación previa, incluso si se ejecuta
 Ejemplos que NO requieren confirmación:
 ```bash
 cd /ruta && git add archivo.txt
-cd /ruta && git commit -m "mensaje"
-git add archivo && git status
+git diff archivo.txt
+git status
 ```
 
-### Comandos que REQUIEREN Confirmación
+### Comandos que Requieren Autorización Explícita del Usuario
+- `git commit` - NO hacer commit hasta que el usuario lo pida explícitamente
 - `git push` - NUNCA hacer push sin confirmación explícita del usuario
 - `git push --force` - Comando peligroso, requiere confirmación
 - `git reset --hard` - Comando destructivo, requiere confirmación
 - `git rebase` - Comando que reescribe historia
 - `git force-push` - Variante de push --force
+
+**Importante**: Aunque los archivos estén en staging con `git add`, NO ejecutar `git commit` hasta que el usuario lo solicite específicamente.
 
 ### Actualización Automática de Instrucciones
 Cuando se detecten nuevas reglas o convenciones durante el trabajo:

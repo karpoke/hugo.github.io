@@ -1,6 +1,6 @@
 baseURL = 'https://hugo.github.io/'
 languageCode = 'es'
-title = 'Blog de Ignacio Cano'
+title = 'Karpoke - Just Another Hugo Blog'
 theme = 'PaperMod'
 
 # Permalinks en formato legacy de Pelican: /YYYY/MM/DD/slug/
