@@ -222,6 +222,29 @@ hugo --printPathWarnings
 - [ ] ✅ Tags correctos
 - [ ] ✅ Fecha en formato ISO
 
+## ⚙️ Configuración de Git
+
+### Pager desactivado
+El proyecto está configurado para NO usar pager en git (útil para scripting y CI/CD):
+
+```bash
+# Configuración aplicada en .git/config:
+core.pager = cat
+pager.branch = false
+pager.log = false
+pager.diff = false
+```
+
+Esto significa que comandos como `git log`, `git diff`, `git branch` mostrarán la salida directamente sin usar `less` o similar.
+
+### SSH personalizado
+El repositorio usa una clave SSH específica:
+```bash
+core.sshCommand = ssh -i /home/hbxuser/karpoke/ssh/id_rsa -o IdentitiesOnly=yes
+```
+
+**Nota**: Esta configuración es local y no se sube al repositorio.
+
 ## 🔐 Seguridad
 
 ### Información Sensible
