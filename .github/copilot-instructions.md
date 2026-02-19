@@ -270,17 +270,31 @@ git commit --no-verify -m "mensaje"
 
 ## 🎯 Reglas de Automatización
 
-### Comandos Git sin Confirmación
-Los siguientes comandos git NO requieren confirmación previa:
+### Comandos sin Confirmación
+Los siguientes comandos NO requieren confirmación previa, incluso si se ejecutan encadenados con `&&`:
+- `cd` - Cambiar de directorio
+- `git add` - Añadir archivos al staging
 - `git diff` - Ver diferencias en archivos
 - `git log` - Ver historial de commits
 - `git status` - Ver estado del repositorio
 - `git commit` - Crear commits locales
+- `git check-ignore` - Verificar si archivos están ignorados
+- `git show` - Mostrar commits
+- `git reflog` - Ver historial de referencias
 
-### Comandos Git que REQUIEREN Confirmación
+Ejemplos que NO requieren confirmación:
+```bash
+cd /ruta && git add archivo.txt
+cd /ruta && git commit -m "mensaje"
+git add archivo && git status
+```
+
+### Comandos que REQUIEREN Confirmación
 - `git push` - NUNCA hacer push sin confirmación explícita del usuario
 - `git push --force` - Comando peligroso, requiere confirmación
 - `git reset --hard` - Comando destructivo, requiere confirmación
+- `git rebase` - Comando que reescribe historia
+- `git force-push` - Variante de push --force
 
 ### Actualización Automática de Instrucciones
 Cuando se detecten nuevas reglas o convenciones durante el trabajo:
