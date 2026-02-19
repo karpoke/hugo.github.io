@@ -6,7 +6,7 @@ Este documento contiene las directrices y contexto para que GitHub Copilot ayude
 
 ### Tecnologías
 - **Framework**: Hugo (Static Site Generator)
-- **Versión Hugo**: 0.139.3 (extended)
+- **Versión Hugo**: 0.146.0 (extended)
 - **Tema**: PaperMod (submódulo git)
 - **Deploy**: GitHub Pages con GitHub Actions
 - **Lenguaje**: Markdown para contenido, TOML para configuración
@@ -164,7 +164,7 @@ make clean && make build
 
 ### Workflow
 - Archivo: `.github/workflows/hugo.yml`
-- Hugo version: 0.139.3
+- Hugo version: 0.146.0
 - Incluye: Dart Sass, optimizaciones, minify
 
 ## 🎨 Personalización del Tema
