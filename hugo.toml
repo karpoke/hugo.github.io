@@ -6,6 +6,7 @@ theme = 'PaperMod'
 # Permalinks en formato legacy de Pelican: /YYYY/MM/DD/slug/
 [permalinks]
   posts = '/:year/:month/:day/:slug/'
+  tags = '/etiquetas/:slug/'
 
 [params]
   author = 'Ignacio Cano'
@@ -54,7 +55,7 @@ theme = 'PaperMod'
   [[menu.main]]
     identifier = "tags"
     name = "Tags"
-    url = "/tags/"
+    url = "/etiquetas/"
     weight = 20
 
   [[menu.main]]
