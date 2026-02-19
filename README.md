@@ -1,4 +1,4 @@
-# Blog de Ignacio Cano
+# Blog de Nacho Cano
 
 Blog técnico construido con [Hugo](https://gohugo.io/) y el tema [PaperMod](https://github.com/adityatelange/hugo-PaperMod).
 
@@ -136,4 +136,4 @@ git commit --no-verify -m "mensaje"
 
 ## 📄 Licencia
 
-Contenido: Todos los derechos reservados © Ignacio Cano
+Contenido: Todos los derechos reservados © Nacho Cano

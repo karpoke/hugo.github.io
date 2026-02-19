@@ -10,8 +10,8 @@ theme = 'PaperMod'
   categories = '/categorias/:slug/'
 
 [params]
-  author = 'Ignacio Cano'
-  description = 'Blog técnico de Ignacio Cano'
+  author = 'Nacho Cano'
+  description = 'Blog técnico de Nacho Cano'
   ShowReadingTime = true
   ShowShareButtons = true
   ShowPostNavLinks = true
