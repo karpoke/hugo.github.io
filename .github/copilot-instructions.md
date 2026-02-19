@@ -268,6 +268,26 @@ scripts/pre-commit     # Script fuente (se sube al repo)
 git commit --no-verify -m "mensaje"
 ```
 
+## 🎯 Reglas de Automatización
+
+### Comandos Git sin Confirmación
+Los siguientes comandos git NO requieren confirmación previa:
+- `git diff` - Ver diferencias en archivos
+- `git log` - Ver historial de commits
+- `git status` - Ver estado del repositorio
+- `git commit` - Crear commits locales
+
+### Comandos Git que REQUIEREN Confirmación
+- `git push` - NUNCA hacer push sin confirmación explícita del usuario
+- `git push --force` - Comando peligroso, requiere confirmación
+- `git reset --hard` - Comando destructivo, requiere confirmación
+
+### Actualización Automática de Instrucciones
+Cuando se detecten nuevas reglas o convenciones durante el trabajo:
+- Actualizar este archivo automáticamente
+- Incluir en el mismo commit donde se aplique la regla
+- Documentar el cambio en la sección apropiada
+
 ## 🔐 Seguridad
 
 ### Información Sensible
