@@ -3,6 +3,7 @@ title: "Docker Compose para desarrollo: Mi setup definitivo"
 date: 2024-03-05T16:45:00+01:00
 draft: false
 tags: ["docker", "devops", "desarrollo", "postgresql", "redis"]
+categories: ["test"]
 slug: docker-compose-desarrollo
 description: "Un docker-compose.yml completo para desarrollo local con PostgreSQL, Redis, Nginx y más, listo para copiar y pegar."
 ---
@@ -299,3 +300,4 @@ Este setup me ha ahorrado **horas** de configuración en cada nuevo proyecto. Lo
 El archivo está en mi [GitHub](https://github.com) si quieres la versión completa con más servicios (Elasticsearch, RabbitMQ, etc.).
 
 ¿Usas Docker Compose? ¿Qué servicios incluyes en tu setup?
+

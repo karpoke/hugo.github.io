@@ -3,6 +3,7 @@ title: "Bienvenido al Blog Técnico"
 date: 2024-01-15T10:00:00+01:00
 draft: false
 tags: ["blog", "hugo", "programación"]
+categories: ["test"]
 slug: bienvenido-al-blog
 description: "Primer artículo del blog técnico. Exploramos las características de Hugo y lo que vendrá en futuros posts."
 ---

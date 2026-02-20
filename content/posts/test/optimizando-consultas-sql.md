@@ -3,6 +3,7 @@ title: "Optimizando consultas SQL: De 5 segundos a 50ms"
 date: 2024-02-10T14:30:00+01:00
 draft: false
 tags: ["sql", "bases-de-datos", "optimización", "performance"]
+categories: ["test"]
 slug: optimizando-consultas-sql
 description: "Cómo optimicé una consulta SQL que tardaba 5 segundos reduciéndola a 50ms usando índices y análisis de query plans."
 ---
