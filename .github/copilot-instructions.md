@@ -289,28 +289,6 @@ git diff archivo.txt
 git status
 ```
 
-### Compilación de Hugo y Servidor Local
-**IMPORTANTE**: Antes de ejecutar `hugo` para compilar el sitio:
-1. Verificar si el servidor local está en ejecución en el puerto 1313
-2. Si el servidor está activo, **NO ejecutar `hugo`** directamente
-3. Si el servidor está en ejecución, los cambios ya están compilados automáticamente en memoria
-4. Solo ejecutar `hugo` directamente cuando el servidor local NO esté corriendo
-
-**Procedimiento de verificación:**
-```bash
-# Verificar si el servidor está corriendo (la forma más confiable)
-lsof -i :1313
-
-# Si lsof devuelve un LISTEN en la salida, el servidor está activo
-# Ejemplo de salida cuando el servidor está corriendo:
-# COMMAND     PID    USER   FD   TYPE   DEVICE SIZE/OFF NODE NAME
-# hugo    3814903 hbxuser    3u  IPv6 24556464      0t0  TCP *:xtel (LISTEN)
-```
-
-**Acción recomendada:**
-- Si el servidor está corriendo: Asumir que los cambios ya están compilados automáticamente
-- Si el servidor NO está corriendo: Ejecutar `hugo` solo si es necesario generar el sitio estático (normalmente no es necesario durante desarrollo)
-
 ### Comandos que Requieren Autorización Explícita del Usuario
 - `git commit` - NO hacer commit hasta que el usuario lo pida explícitamente
 - `git push` - NUNCA hacer push sin confirmación explícita del usuario
@@ -380,6 +358,18 @@ Verificar que incluye:
 
 ### Commits
 Usar semantic commit messages siguiendo el formato: `type(scope): description`
+
+**Reglas de formato (importante):**
+- **La primera línea (título) debe tener como máximo 80 caracteres.**
+- Si necesitas añadir más contexto, usa un **cuerpo** separado por **una línea en blanco** tras el título.
+
+Ejemplo:
+```
+feat(hugo): add archives page using PaperMod layout
+
+- Create content/archivo.md with layout: archives
+- Add Archivo entry to main menu in hugo.toml
+```
 
 **Tipos de commits permitidos:**
 - `feat:` - Nueva funcionalidad
