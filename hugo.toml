@@ -2,6 +2,7 @@ baseURL = 'https://hugo.github.io/'
 languageCode = 'es'
 title = 'Karpoke - Just Another Hugo Blog'
 theme = 'PaperMod'
+enableRobotsTXT = true
 
 # Permalinks en formato legacy de Pelican: /YYYY/MM/DD/slug/
 [permalinks]
@@ -82,6 +83,6 @@ theme = 'PaperMod'
     weight = 35
 
 [outputs]
-  home = ["HTML", "RSS", "JSON"]
+  home = ["HTML", "RSS", "JSON", "Robots"]
   section = ["HTML", "RSS"]
   term = ["HTML", "RSS"]
