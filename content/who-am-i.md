@@ -1,8 +1,7 @@
 ---
-title: "Sobre mí"
+title: "Who am I?"
 layout: "page"
-url: "/sobre-mi/"
-summary: "Información sobre Nacho Cano"
+url: "/who-am-i/"
 ---
 
 ## Hola, soy Nacho Cano 👋
