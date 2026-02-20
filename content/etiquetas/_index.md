@@ -1,4 +1,0 @@
----
-title: "Etiquetas"
-layout: "tags"
----

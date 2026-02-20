@@ -297,7 +297,7 @@ git status
 - `git rebase` - Comando que reescribe historia
 - `git force-push` - Variante de push --force
 
-**Importante**: Aunque los archivos estén en staging con `git add`, NO ejecutar `git commit` hasta que el usuario lo solicite específicamente.
+**⛔ REGLA CRÍTICA**: NUNCA ejecutar `git commit` de forma proactiva, aunque los cambios estén listos y en staging. Esperar SIEMPRE a que el usuario diga explícitamente "commita", "haz commit" o similar. Esto aplica incluso al final de una tarea completada.
 
 ### Actualización Automática de Instrucciones
 Cuando se detecten nuevas reglas o convenciones durante el trabajo:

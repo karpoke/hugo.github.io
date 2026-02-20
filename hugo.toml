@@ -6,8 +6,6 @@ theme = 'PaperMod'
 # Permalinks en formato legacy de Pelican: /YYYY/MM/DD/slug/
 [permalinks]
   posts = '/:year/:month/:day/:slug/'
-  tags = '/etiquetas/:slug/'
-  categories = '/categorias/:slug/'
 
 [params]
   author = 'Nacho Cano'
@@ -55,33 +53,33 @@ theme = 'PaperMod'
 
   [[menu.main]]
     identifier = "categories"
-    name = "Categorías"
-    url = "/categorias/"
+    name = "Categories"
+    url = "/categories/"
     weight = 15
 
   [[menu.main]]
     identifier = "tags"
-    name = "Etiquetas"
-    url = "/etiquetas/"
+    name = "Tags"
+    url = "/tags/"
     weight = 20
 
   [[menu.main]]
-    identifier = "about"
-    name = "Sobre mí"
-    url = "/sobre-mi/"
+    identifier = "archives"
+    name = "Archives"
+    url = "/archives/"
     weight = 25
 
   [[menu.main]]
-    identifier = "archives"
-    name = "Archivo"
-    url = "/archivo/"
-    weight = 28
-
-  [[menu.main]]
     identifier = "search"
-    name = "Buscar"
+    name = "Search"
     url = "/search/"
     weight = 30
+
+  [[menu.main]]
+    identifier = "about"
+    name = "Who am I?"
+    url = "/who-am-i/"
+    weight = 35
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
