@@ -360,8 +360,13 @@ Verificar que incluye:
 Usar semantic commit messages siguiendo el formato: `type(scope): description`
 
 **Reglas de formato (importante):**
-- **La primera línea (título) debe tener como máximo 80 caracteres.**
-- Si necesitas añadir más contexto, usa un **cuerpo** separado por **una línea en blanco** tras el título.
+- **La primera línea (título) debe tener como máximo 50 caracteres.**
+- El cuerpo es **opcional** y solo se incluye cuando el título no es suficiente:
+  - Se han cambiado cosas diferentes que merecen explicación individual
+  - El motivo del cambio no es obvio y añade contexto relevante
+  - Si el título es claro y completo, **no añadir cuerpo**
+- Cuando se use cuerpo, separarlo del título con **una línea en blanco**
+- **Cada línea del cuerpo debe tener como máximo 72 caracteres.**
 
 Ejemplo:
 ```
