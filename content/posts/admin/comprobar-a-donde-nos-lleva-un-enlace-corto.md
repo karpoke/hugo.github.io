@@ -12,8 +12,6 @@ está limitado. Sin embargo, se pueden utilizar para engañarnos y
 llevarnos a una página que no queramos, o incluso que [distribuya
 _malware_][distribuya malware].
 
-![Firefox Seguridad Filtro Web](/images/firefox_seguridad_filtro_web.jpg)
-
 Para comprobar hacia dónde apunta un enlaces cortos podemos:
 
 -   utilizar un servicio como [urlxray][]
