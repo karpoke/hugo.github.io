@@ -1,0 +1,52 @@
+---
+title: "urlencode y urldecode"
+date: 2011-03-06T17:45:00+01:00
+draft: false
+categories: ["dev"]
+tags: ["alias", "ASCII", "escape", "perl", "rfc3986", "sed", "uri", "uri_escape", "url", "urldec", "urlenc"]
+slug: "urlencode-y-urldecode"
+---
+Los siguientes caracteres [son los únicos que se pueden utilizar][] en
+una URL:
+
+```
+[a-zA-Z0-9-._~]
+```
+
+El resto, se deben codificar usando el prefijo `%` seguido del valor
+ASCII hexadecimal del carácter. Por ejemplo:
+
+```
+( = %28
+) = %29
+/ = %2F
++ = %2B
+...
+```
+
+Para [codificar la URL][] podemos utilizar la función `uri_escape` del
+módulo `URI` de Perl.
+
+```
+alias urlenc='furlenc() { perl -MURI::Escape -e "print uri_escape(\"$1\").\"\n\";"; }; furlenc'
+```
+
+```
+$ urlenc http://www.google.com
+http%3A%2F%2Fwww.google.com
+```
+
+Para la [decodificación de la URL][], podemos hacer uso de `sed`:
+
+```
+alias urldec='furldec() { echo "$1" | sed -e'\''s/%\([0-9A-F][0-9A-F]\)/\\\\\x\1/g'\'' | xargs echo -e; }; furldec'
+```
+
+```
+$ urldec http%3A%2F%2Fwww.google.com
+http://www.google.com
+```
+
+  [son los únicos que se pueden utilizar]: http://tools.ietf.org/html/rfc3986#section-2.3
+  [codificar la URL]: http://stackoverflow.com/questions/296536/urlencode-from-a-bash-script/298258#298258
+  [decodificación de la URL]: http://www.commandlinefu.com/commands/view/2285/urldecoding

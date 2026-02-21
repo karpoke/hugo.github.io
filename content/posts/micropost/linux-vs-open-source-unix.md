@@ -1,0 +1,18 @@
+---
+title: "Linux VS open source UNIX"
+date: 2019-11-23T12:15:00+01:00
+draft: false
+categories: ["micropost"]
+tags: []
+slug: "linux-vs-open-source-unix"
+---
+> This is mainstream opinion. Linux is better than anything else and money is
+> poured in constantly, more than in other platforms. And aside this is not
+> true, this is not based in facts but on feelings. Most GNU/Linux
+> distributions are very average on many aspects. The fact they run on many
+> servers on this planet and many developers work on them, doesn’t make them
+> better than ‘X’. They are popular but that’s it.
+
+» Albert Valbuena | [adminbyaccident.com][]
+
+  [adminbyaccident.com]: https://www.adminbyaccident.com/politics/linux-vs-open-source-unix/

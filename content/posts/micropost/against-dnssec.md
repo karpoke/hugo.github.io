@@ -1,0 +1,18 @@
+---
+title: "Against DNSSEC"
+date: 2015-01-29T19:52:00+01:00
+draft: false
+categories: ["micropost"]
+tags: []
+slug: "against-dnssec"
+---
+> All secure crypto on the Internet assumes that the DNS lookup from
+> names to IP addresses are insecure. Securing those DNS lookups
+> therefore enables no meaningful security. DNSSEC does make some
+> attacks against insecure sites harder. But it doesn’t make those
+> attacks infeasible, so sites still need to adopt secure transports
+> like TLS. With TLS properly configured, DNSSEC adds nothing.
+
+» Thomas & Erin Ptacek | [sockpuppet.org][]
+
+  [sockpuppet.org]: http://sockpuppet.org/blog/2015/01/15/against-dnssec/

@@ -1,0 +1,22 @@
+---
+title: "Bobina de Tesla reproduce la melodía de Super Mario Bros"
+date: 2013-02-22T23:19:00+01:00
+draft: false
+categories: ["micropost"]
+tags: []
+slug: "bobina-de-tesla-reproduce-la-melodia-de-super-mario-bros"
+---
+> Estudiantes de ingeniería de la Universidad del Sur de Florida han
+> trabajado durante 2 años en un proyecto que les ha llevado a construir
+> una bobina de Tesla de 3 metros de altura capaz de producir corriente
+> alterna. Su creacíon tiene además la particularidad de que se puede
+> configurar para que reproduzca versiones de melodías famosas mediante
+> el tono de los grandes arcos eléctricos que genera. Para demostrarlo,
+> han hecho que imite el tema principal de Super Mario Bros. Este es el
+> resultado que han obtenido:
+
+[!embed](https://www.youtube.com/watch?v=1r_EgKLJFCs)
+
+» Jose | [abadiadigital.com][]
+
+  [abadiadigital.com]: http://www.abadiadigital.com/bobina-de-tesla-reproduce-la-melodia-de-super-mario-bros/

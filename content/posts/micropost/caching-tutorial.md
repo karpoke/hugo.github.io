@@ -1,0 +1,18 @@
+---
+title: "Caching Tutorial"
+date: 2012-05-23T00:14:00+01:00
+draft: false
+categories: ["micropost"]
+tags: []
+slug: "caching-tutorial"
+---
+> This is an informational document. Although technical in nature, it
+> attempts to make the concepts involved understandable and applicable
+> in real-world situations. Because of this, some aspects of the
+> material are simplified or omitted, for the sake of clarity. If you
+> are interested in the minutia of the subject, please explore the
+> References and Further Information at the end.
+
+» [mnot.net][]
+
+  [mnot.net]: http://www.mnot.net/cache_docs/

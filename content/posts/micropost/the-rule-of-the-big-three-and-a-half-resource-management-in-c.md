@@ -1,0 +1,20 @@
+---
+title: "The Rule of The Big Three (and a half) – Resource Management in C++"
+date: 2015-01-18T10:59:00+01:00
+draft: false
+categories: ["micropost"]
+tags: []
+slug: "the-rule-of-the-big-three-and-a-half-resource-management-in-c"
+---
+> The dynamic creation and destruction of objects was always one of the
+> bugbears of C. It required the programmer to (manually) control the
+> allocation of memory for the object, handle the object’s
+> initialisation then ensure that the object was safely cleaned-up after
+> use and its memory returned to the heap. Because many C programmers
+> weren’t educated in the potential problems (or were just plain lazy or
+> delinquent in their programming) C got a reputation in some quarters
+> for being an unsafe, memory-leaking language.
+
+» Glennan Carnie | [blog.feabhas.com][]
+
+  [blog.feabhas.com]: https://blog.feabhas.com/2014/12/the-rule-of-the-big-three-and-a-half-resource-management-in-c/

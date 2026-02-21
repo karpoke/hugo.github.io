@@ -1,0 +1,21 @@
+---
+title: "Why you should never use hash functions for message authentication"
+date: 2012-06-27T23:54:00+01:00
+draft: false
+categories: ["micropost"]
+tags: []
+slug: "why-you-should-never-use-hash-functions-for-message-authentication"
+---
+> The general thrust of this post is: use a MAC function like HMAC to
+> sign data, don’t use hash functions. Although not all hash functions
+> suffer from the problem I’m going to illustrate, in general using a
+> hash function for message authentication comes with a lot of potential
+> problems because those functions aren’t designed for this task. You
+> shouldn’t try to work around it by creatively processing the inputs or
+> inventing some fancy way of chaining hash functions. Just use the
+> functions that were designed for this task instead of inventing your
+> own crypto schemes.
+
+» [jcoglan.com][]
+
+  [jcoglan.com]: http://blog.jcoglan.com/2012/06/09/why-you-should-never-use-hash-functions-for-message-authentication/

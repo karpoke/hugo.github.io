@@ -1,0 +1,19 @@
+---
+title: "Was the Death Star Attack an Inside Job?"
+date: 2014-12-21T11:59:00+01:00
+draft: false
+categories: ["micropost"]
+tags: []
+slug: "was-the-death-star-attack-an-inside-job"
+---
+> We’ve all heard the ”official conspiracy theory” of the Death Star
+> attack. We all know about Luke Skywalker and his ragtag bunch of
+> rebels, how they mounted a foolhardy attack on the most powerful,
+> well-defended battle station ever built. And we’ve all seen the video
+> over, and over, and over, of the one-in-a-million shot that resulted
+> in a massive chain reaction that not just damaged, but completely
+> obliterated that massive technological wonder.
+
+» [debunking911.com][]
+
+  [debunking911.com]: http://www.debunking911.com/questions.htm
