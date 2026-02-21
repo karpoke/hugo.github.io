@@ -1,0 +1,56 @@
+---
+title: "Mostrando las cabeceras HTTP"
+date: 2010-10-07T10:35:00+01:00
+draft: false
+categories: ["admin"]
+tags: ["cabeceras HTTP", "curl", "HEAD", "lynx", "netcat", "telnet", "w3m", "wget"]
+slug: "mostrando-las-cabeceras-http"
+---
+Leyendo el artículo de [análisis de cabeceras][] de SbD y, en
+particular, lo relacionado con las cabeceras no estándar, es decir, las
+que comienzan por `X-`, se me ha ocurrido que estaría bien ver qué debe
+haber por el mundo:
+
+![HTTP Header]({static}/images/http_header.jpg)
+
+Suponiendo que el archivo [sites.txt][] contiene un listado de los
+sitios que queremos comprobar:
+
+```
+$ for url in $(cat sites.txt); do
+>   echo $url
+>   curl -sI $url | grep "^X-"
+>   done > headers.txt
+```
+
+Es cierto que se podría haber realizado de otras formas:
+
+```
+$ HEAD barrapunto.com
+```
+
+```
+$ nc barrapunto.com 80
+GET / HTTP/1.1
+```
+
+```
+$ telnet barrapunto.com 80
+GET / HTTP/1.1
+Host:barrapunto.com
+```
+
+```
+$ wget -qS barrapunto.com
+```
+
+```
+$ w3m -dump_head barrapunto.com
+```
+
+```
+$ lynx -head -dump "http://barrapunto.com"
+```
+
+  [análisis de cabeceras]: http://www.securitybydefault.com/2010/08/analizando-cabeceras-http-just-for-fun.html
+  [sites.txt]: http://terminus.ignaciocano.com/wp-uploads/linked/sites.txt

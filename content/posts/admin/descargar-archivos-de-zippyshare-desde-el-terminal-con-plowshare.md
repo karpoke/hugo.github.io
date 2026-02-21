@@ -1,0 +1,71 @@
+---
+title: "Descargar archivos de zippyshare desde el terminal con plowshare"
+date: 2016-11-26T23:56:00+01:00
+draft: false
+categories: ["admin"]
+tags: ["descargas", "zippyshare", "plowdown", "plowshare", "checkinstall"]
+slug: "descargar-archivos-de-zippyshare-desde-el-terminal-con-plowshare"
+---
+[plowshare][] es una herramienta diseñada para descargar y subir
+ficheros a los sitios de intercambio de ficheros más populares. Hace ya
+un tiempo la podíamos usar para [descargar archivos de Megaupload][].
+
+Instalación
+-----------
+
+Primero, instalamos las dependencias:
+
+```
+$ sudo aptitude install curl recode imagemagick tesseract-ocr-eng spidermonkey-bin rhino perlmagick aview
+```
+
+Podemos descargar el código fuente desde el repositorio Git y compilarlo:
+
+```
+$ git clone https://github.com/mcrapet/plowshare.git
+$ cd plowshare
+```
+
+Podemos instalarlo mediante `sudo make install`, o si no tenemos privilegios de
+root, podemos sobreescribir el prefijo `/usr` con
+`make install prefix=$home/local`.
+
+También podemos crear un paquete `.deb`:
+
+```
+$ sudo checkinstall
+```
+
+Instalamos los módulos externos mediante la herramienta para gestionar dichos
+módulos:
+
+```
+$ plowmod --install
+```
+
+Más adelante podremos actualizarlos ejecutando:
+
+```
+$ plowmod --update
+```
+
+Descargando
+-----------
+
+Para descargar un enlace de zippyshare, por ejemplo, escribimos:
+
+```
+$ plowdown http://www43.zippyshare.com/v/laVpgPTS/file.html
+```
+
+También podemos pasarle un fichero que contenga los enlaces:
+
+```
+$ plowdown links.txt
+```
+
+Si queremos que modifique el fichero para que comente los enlaces que se han
+descargado correctamente, no tenemos más que pasarle el argumento `-m`.
+
+  [plowshare]: https://github.com/mcrapet/plowshare
+  [descargar archivos de Megaupload]: {{< relref "/posts/admin/descargar-archivos-de-megaupload-desde-el-terminal-con-plowshare.md" >}}
