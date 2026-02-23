@@ -8,7 +8,7 @@ slug: "final-fantasy-vii-review-plot-spoilers"
 ---
 > My review of the 7th installment in the Final Fantasy series.
 
-[!embed](https://www.youtube.com/watch?v=veEn0k5u5Ko)
+{{< youtube veEn0k5u5Ko >}}
 
 » IsanWilshireIII | [youtube.com][]
 

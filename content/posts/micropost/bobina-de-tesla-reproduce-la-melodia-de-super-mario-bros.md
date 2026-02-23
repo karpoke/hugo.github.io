@@ -15,7 +15,7 @@ slug: "bobina-de-tesla-reproduce-la-melodia-de-super-mario-bros"
 > han hecho que imite el tema principal de Super Mario Bros. Este es el
 > resultado que han obtenido:
 
-[!embed](https://www.youtube.com/watch?v=1r_EgKLJFCs)
+{{< youtube 1r_EgKLJFCs >}}
 
 » Jose | [abadiadigital.com][]
 

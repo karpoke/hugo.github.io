@@ -11,7 +11,7 @@ slug: "un-universo-desde-la-nada"
 > desde la nada. Krauss es autor de muchos libros best seller sobre
 > física y cosmología, incluyendo ”Física de Star Trek.”
 
-[!embed](https://www.youtube.com/watch?v=Fs_MwYZHm7g)
+{{< youtube Fs_MwYZHm7g >}}
 
 » @polibioinexistente | [youtube.com][]
 

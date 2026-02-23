@@ -13,7 +13,7 @@ slug: "logran-que-un-cuadricoptero-sea-capaz-de-lanzar-y-equilibrar-un-pendulo-i
 > lanzamiento y de ’aterrizaje’ del péndulo, entre otros factores, y
 > deben tener la capacidad de aprender de sus errores.
 
-[!embed](https://www.youtube.com/watch?v=15DIidigArA)
+{{< youtube 15DIidigArA >}}
 
 » Guillermo del Palacio | [alt1040.com][]
 

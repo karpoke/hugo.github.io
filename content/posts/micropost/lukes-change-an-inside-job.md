@@ -14,7 +14,7 @@ slug: "lukes-change-an-inside-job"
 >  For those who don’t care for the obvious, this is a satirical spoof
 > of the 9/11 truther video Loose Change.
 
-[!embed](https://www.youtube.com/watch?v=2dvv-Yib1Xg)
+{{< youtube 2dvv-Yib1Xg >}}
 
 » Graham Putnam | [youtube.com][]
 

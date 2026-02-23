@@ -32,7 +32,7 @@ slug: "hackstory"
 > llamados crackers, se meten en sistemas para robar y destruir, pero la
 > mayoría de hackers están en esto por virtuosismo”.
 
-[!embed](https://www.youtube.com/watch?v=WgbpQ-iHmAI)
+{{< youtube WgbpQ-iHmAI >}}
 
 » [goteo.org][]
 

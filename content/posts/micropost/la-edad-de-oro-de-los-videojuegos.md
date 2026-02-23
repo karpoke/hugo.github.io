@@ -13,7 +13,7 @@ slug: "la-edad-de-oro-de-los-videojuegos"
 > mundo. Esta es la historia de esos programadores, compañías y entorno
 > que nos embelesó en los inicios de la informática.
 
-[!embed](https://www.youtube.com/watch?v=OQb0OCux5V4)
+{{< youtube OQb0OCux5V4 >}}
 
 » Litos NET | [youtube.com][]
 

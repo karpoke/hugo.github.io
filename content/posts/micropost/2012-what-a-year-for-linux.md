@@ -19,7 +19,7 @@ slug: "2012-what-a-year-for-linux"
 > - Amazon (Kindle)
 > - Google (Chromebook)
 
-[!embed](https://www.youtube.com/watch?v=Unfx2qCj6Ao)
+{{< youtube Unfx2qCj6Ao >}}
 
 » TheLinuxFoundation | [youtube.com][]
 

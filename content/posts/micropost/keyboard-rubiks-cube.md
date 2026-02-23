@@ -10,7 +10,7 @@ slug: "keyboard-rubiks-cube"
 > but you have toï’¿ consider the centers and positioning the right way
 > when you are solving the cube.
 
-[!embed](https://www.youtube.com/watch?v=eeOCuVbDmQk)
+{{< youtube eeOCuVbDmQk >}}
 
 » Miguel Alonso | [youtube.com][]
 

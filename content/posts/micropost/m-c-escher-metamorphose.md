@@ -21,7 +21,7 @@ slug: "m-c-escher-metamorphose"
 > conocimientos básicos de dibujo, y destacó sobremanera en la técnica
 > de grabado en madera, la cual llegó a dominar con gran maestría.
 
-[!embed](https://www.youtube.com/watch?v=tjboEi8p4o4)
+{{< youtube tjboEi8p4o4 >}}
 
 » @stanchinsky | [youtube.com][]
 

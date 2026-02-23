@@ -12,15 +12,15 @@ slug: "superman-vs-hulk-the-fight"
 > composited and edited in Adobe After Effects CS3. Music done with
 > Propellerhead Reason 5.
 
-[!embed](https://www.youtube.com/watch?v=L6dj7YCEKhw)
+{{< youtube L6dj7YCEKhw >}}
 
-[!embed](https://www.youtube.com/watch?v=BbizTBYs-rQ)
+{{< youtube BbizTBYs-rQ >}}
 
-[!embed](https://www.youtube.com/watch?v=CDBNB2hk5t0)
+{{< youtube CDBNB2hk5t0 >}}
 
-[!embed](https://www.youtube.com/watch?v=nvoWwY64S5w)
+{{< youtube nvoWwY64S5w >}}
 
-[!embed](https://www.youtube.com/watch?v=pBbsvavno8I)
+{{< youtube pBbsvavno8I >}}
 
 » Michael Habjan | [youtube.com][]
 

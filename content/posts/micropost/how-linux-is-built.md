@@ -16,7 +16,7 @@ slug: "how-linux-is-built"
 > Linux Foundation can be found at http://www.linuxfoundation.org and
 > http://www.linux.com
 
-[!embed](https://www.youtube.com/watch?v=yVpbFMhOAwE)
+{{< youtube yVpbFMhOAwE >}}
 
 » @TheLinuxFoundation | [youtube.com][]
 

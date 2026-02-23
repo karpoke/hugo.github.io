@@ -14,7 +14,7 @@ slug: "la-historia-del-sistema-operativo-unix-y-los-ordenadores-de-la-epoca-narr
 > recién nacido y trabajó con Ken Thompson y con Kernighan y Ritchie,
 > creadores del lenguaje C.
 
-[!embed](https://www.youtube.com/watch?v=_2NI6t2r_Hs)
+{{< youtube _2NI6t2r_Hs >}}
 
 » Microsiervos | [microsiervos.com][]
 

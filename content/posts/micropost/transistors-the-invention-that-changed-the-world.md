@@ -6,7 +6,7 @@ categories: ["micropost"]
 tags: ["transistor", "invento", "ENIAC", "microchip", "NPN", "puertas lógicas", "Ley de Moore"]
 slug: "transistors-the-invention-that-changed-the-world"
 ---
-[!embed](https://www.youtube.com/watch?v=OwS9aTE2Go4)
+{{< youtube OwS9aTE2Go4 >}}
 
 » Real Engineering | [youtube.com][]
 
