@@ -1,6 +1,6 @@
 baseURL = 'https://hugo.github.io/'
 languageCode = 'es'
-title = 'Karpoke - Just Another Hugo Blog'
+title = "Karpoke - Just Another Blog"
 theme = 'PaperMod'
 enableRobotsTXT = true
 
