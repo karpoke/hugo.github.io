@@ -1,7 +1,6 @@
 ---
 title: "The UNIX System: Making Computers More Productive"
 date: 2012-05-21T10:35:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "the-unix-system-making-computers-more-productive"

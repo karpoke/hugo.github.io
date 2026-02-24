@@ -1,7 +1,6 @@
 ---
 title: "Sonido a través de SSH"
 date: 2011-05-05T22:23:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["alsa", "alsamixer", "altavoz", "aplay", "arecord", "dd", "esd", "esddsp", "espeak", "festival", "micrófono", "mp3", "mplayer", "ogg", "ogv", "oss", "padsp", "pulseaudio", "sonido", "ssh", "text-to-speech", "tts"]
 slug: "sonido-a-traves-de-ssh"

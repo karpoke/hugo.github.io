@@ -1,7 +1,6 @@
 ---
 title: "Cómo montar una mini consola con Raspberry Pi"
 date: 2016-12-07T21:03:00+01:00
-draft: false
 categories: ["micropost"]
 tags: ["raspberry pi", "emuladores", "retropie", "retroarch", "Sega", "Nintendo", "NES", "SNES", "N64", "Gameboy", "DS", "Master System", "Mega Drive", "32X", "Saturn", "Dreamcast", "MAME", "ScummVM", "DosBOX", "PSX", "PSP", "Amstrad", "Amiga", "Commodore", "Atari", "Spectrum", "Kodi"]
 slug: "como-montar-una-mini-consola-con-raspberry-pi"

@@ -1,7 +1,6 @@
 ---
 title: "10 alternativas al software Nmap disponibles para Linux y otros sistemas operativos"
 date: 2018-01-25T17:14:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "10-alternativas-al-software-nmap-disponibles-para-linux-y-otros-sistemas-operativos"

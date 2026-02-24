@@ -1,7 +1,6 @@
 ---
 title: "Learn to speak vim – verbs, nouns, and modifiers!"
 date: 2012-05-14T15:03:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "learn-to-speak-vim-verbs-nouns-and-modifiers"

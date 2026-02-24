@@ -1,7 +1,6 @@
 ---
 title: "Levels of aspiration"
 date: 2012-07-15T17:20:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "levels-of-aspiration"

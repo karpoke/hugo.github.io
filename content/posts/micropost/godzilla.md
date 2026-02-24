@@ -1,7 +1,6 @@
 ---
 title: "Godzilla"
 date: 2013-03-09T11:28:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "godzilla"

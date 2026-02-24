@@ -1,7 +1,6 @@
 ---
 title: 'Solucionado el error "No se pudo abrir el fichero de bloqueo «/var/lock/aptitude»" al actualizar Raspbmc'
 date: 2012-09-06T13:44:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["aptitude", "fichero de bloqueo", "raspberry pi", "raspbmc"]
 slug: "solucionado-el-error-no-se-pudo-abrir-el-fichero-de-bloqueo-varlockaptitude-al-actualizar-raspbmc"

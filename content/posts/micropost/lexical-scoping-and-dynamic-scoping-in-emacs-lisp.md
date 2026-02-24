@@ -1,7 +1,6 @@
 ---
 title: "lexical scoping and dynamic scoping in Emacs Lisp"
 date: 2012-06-26T12:39:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "lexical-scoping-and-dynamic-scoping-in-emacs-lisp"

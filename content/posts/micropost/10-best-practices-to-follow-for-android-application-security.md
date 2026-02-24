@@ -1,7 +1,6 @@
 ---
 title: "10 Best Practices to Follow for Android Application Security"
 date: 2018-02-23T09:56:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "10-best-practices-to-follow-for-android-application-security"

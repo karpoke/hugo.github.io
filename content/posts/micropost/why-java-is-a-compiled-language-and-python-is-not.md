@@ -1,7 +1,6 @@
 ---
 title: "Why Java is a compiled language and Python is not"
 date: 2014-05-24T07:36:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "why-java-is-a-compiled-language-and-python-is-not"

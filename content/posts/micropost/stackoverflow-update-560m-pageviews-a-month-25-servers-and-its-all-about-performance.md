@@ -1,7 +1,6 @@
 ---
 title: "StackOverflow Update: 560M Pageviews A Month, 25 Servers, And It’s All About Performance"
 date: 2014-07-21T17:38:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "stackoverflow-update-560m-pageviews-a-month-25-servers-and-its-all-about-performance"

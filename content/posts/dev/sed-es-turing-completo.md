@@ -1,7 +1,6 @@
 ---
 title: "sed es Turing completo"
 date: 2012-04-22T00:32:00+01:00
-draft: false
 categories: ["dev"]
 tags: ["máquina de turing", "sed", "turing completo"]
 slug: "sed-es-turing-completo"

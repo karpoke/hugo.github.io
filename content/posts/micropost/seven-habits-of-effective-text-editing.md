@@ -1,7 +1,6 @@
 ---
 title: "Seven habits of effective text editing"
 date: 2012-05-20T03:46:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "seven-habits-of-effective-text-editing"

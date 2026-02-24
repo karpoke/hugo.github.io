@@ -1,7 +1,6 @@
 ---
 title: "Conseguir la lista actualizada de medios AEDE para bloquearlos"
 date: 2014-07-27T11:28:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["aede", "awk", "boycott", "chrome", "curl", "firefox", "greasemonkey", "hosts", "lynx", "plugin", "script", "sed", "sort", "uniq", "wordpress"]
 slug: "conseguir-la-lista-actualizada-de-medios-aede-para-bloquearlos"

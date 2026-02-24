@@ -1,7 +1,6 @@
 ---
 title: "How two volunteers built the Raspberry Pi’s operating system"
 date: 2013-04-06T18:02:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "how-two-volunteers-built-the-raspberry-pis-operating-system"

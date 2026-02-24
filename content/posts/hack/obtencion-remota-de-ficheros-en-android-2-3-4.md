@@ -1,7 +1,6 @@
 ---
 title: "Obtención remota de ficheros en Android < 2.3.4"
 date: 2011-11-28T14:54:00+01:00
-draft: false
 categories: ["hack"]
 tags: ["android", "base64", "exploit", "robo de información", "script"]
 slug: "obtencion-remota-de-ficheros-en-android-2-3-4"

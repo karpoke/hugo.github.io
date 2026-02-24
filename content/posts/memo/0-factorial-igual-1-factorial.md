@@ -1,7 +1,6 @@
 ---
 title: "0!=1!"
 date: 2011-05-18T14:07:00+01:00
-draft: false
 categories: ["memo"]
 tags: ["factorial", "latex"]
 slug: "0-factorial-igual-1-factorial"

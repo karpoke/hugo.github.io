@@ -1,7 +1,6 @@
 ---
 title: "How to Argue on the Internet Without Becoming a Troll"
 date: 2012-09-15T10:56:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "how-to-argue-on-the-internet-without-becoming-a-troll"

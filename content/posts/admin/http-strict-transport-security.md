@@ -1,7 +1,6 @@
 ---
 title: "HTTP Strict Transport Security"
 date: 2011-09-11T17:37:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["apache", "cabeceras HTTP", "hsts", "http", "https", "man in the middle", "mitm", "mod_headers", "robo de sesión", "ssl"]
 slug: "http-strict-transport-security"

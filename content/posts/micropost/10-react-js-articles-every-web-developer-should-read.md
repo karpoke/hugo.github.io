@@ -1,7 +1,6 @@
 ---
 title: "10 React JS Articles Every Web Developer Should Read"
 date: 2018-10-06T09:10:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "10-react-js-articles-every-web-developer-should-read"

@@ -1,7 +1,6 @@
 ---
 title: "How We Teach Computers to Understand Pictures"
 date: 2016-06-29T01:33:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "how-we-teach-computers-to-understand-pictures"

@@ -1,7 +1,6 @@
 ---
 title: "Kbuild: the Linux Kernel Build System"
 date: 2012-12-30T14:34:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "kbuild-the-linux-kernel-build-system"

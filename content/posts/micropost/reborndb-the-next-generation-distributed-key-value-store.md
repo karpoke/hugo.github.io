@@ -1,7 +1,6 @@
 ---
 title: "RebornDB: The next generation distributed key-value store"
 date: 2015-07-08T21:34:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "reborndb-the-next-generation-distributed-key-value-store"

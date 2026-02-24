@@ -1,7 +1,6 @@
 ---
 title: "Moving persistent data out of Redis"
 date: 2017-01-14T14:36:00+01:00
-draft: false
 categories: ["micropost"]
 tags: ["caché", "LRU", "Redis", "datos persistentes", "datos temporales"]
 slug: "moving-persistent-data-out-of-redis"

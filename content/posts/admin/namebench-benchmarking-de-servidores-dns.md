@@ -1,7 +1,6 @@
 ---
 title: "namebench, benchmarking de servidores DNS"
 date: 2011-08-01T19:40:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["API", "benchmarking", "dns", "google", "google chart api"]
 slug: "namebench-benchmarking-de-servidores-dns"

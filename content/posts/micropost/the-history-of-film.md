@@ -1,7 +1,6 @@
 ---
 title: "The History of Film"
 date: 2012-10-15T20:37:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "the-history-of-film"

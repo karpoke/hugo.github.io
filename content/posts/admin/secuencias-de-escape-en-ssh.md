@@ -1,7 +1,6 @@
 ---
 title: "Secuencias de escape en SSH"
 date: 2011-06-18T19:44:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["ssh"]
 slug: "secuencias-de-escape-en-ssh"

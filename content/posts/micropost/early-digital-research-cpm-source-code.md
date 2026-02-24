@@ -1,7 +1,6 @@
 ---
 title: "Early Digital Research CP/M Source Code"
 date: 2014-11-03T09:57:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "early-digital-research-cpm-source-code"

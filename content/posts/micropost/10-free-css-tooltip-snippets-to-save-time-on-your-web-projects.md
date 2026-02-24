@@ -1,7 +1,6 @@
 ---
 title: "10 Free CSS Tooltip Snippets To Save Time On Your Web Projects"
 date: 2017-11-21T06:10:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "10-free-css-tooltip-snippets-to-save-time-on-your-web-projects"

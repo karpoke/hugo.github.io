@@ -1,7 +1,6 @@
 ---
 title: "M.C. Escher - Metamorphose"
 date: 2012-06-25T10:40:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "m-c-escher-metamorphose"

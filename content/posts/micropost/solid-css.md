@@ -1,7 +1,6 @@
 ---
 title: "SOLID CSS"
 date: 2012-10-09T21:02:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "solid-css"

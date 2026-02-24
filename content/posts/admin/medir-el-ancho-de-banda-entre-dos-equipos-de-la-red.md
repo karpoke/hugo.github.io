@@ -1,7 +1,6 @@
 ---
 title: "Medir el ancho de banda entre dos equipos de la red"
 date: 2012-04-08T13:27:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["ancho de banda", "iperf", "rendimiento", "ufw"]
 slug: "medir-el-ancho-de-banda-entre-dos-equipos-de-la-red"

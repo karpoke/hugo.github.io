@@ -1,7 +1,6 @@
 ---
 title: "A Turing Complete Puzzle Game"
 date: 2012-07-17T13:08:00+01:00
-draft: false
 categories: ["micropost"]
 tags: ["Alan Turing", "puzzle", "Google code", "máquina de Turing"]
 slug: "a-turing-complete-puzzle-game"

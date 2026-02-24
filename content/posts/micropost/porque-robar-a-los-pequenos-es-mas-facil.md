@@ -1,7 +1,6 @@
 ---
 title: "Porque robar a los pequeños es más fácil"
 date: 2012-06-04T00:28:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "porque-robar-a-los-pequenos-es-mas-facil"

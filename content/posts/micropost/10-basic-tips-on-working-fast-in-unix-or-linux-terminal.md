@@ -1,7 +1,6 @@
 ---
 title: "10 Basic Tips on Working Fast in UNIX or Linux Terminal"
 date: 2018-10-18T04:21:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "10-basic-tips-on-working-fast-in-unix-or-linux-terminal"

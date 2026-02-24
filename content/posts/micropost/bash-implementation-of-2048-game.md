@@ -1,7 +1,6 @@
 ---
 title: "Bash implementation of 2048 game"
 date: 2014-05-24T17:43:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "bash-implementation-of-2048-game"

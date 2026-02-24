@@ -1,7 +1,6 @@
 ---
 title: "What every beginner absolutely needs to know about the journey ahead"
 date: 2015-02-08T19:37:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "what-every-beginner-absolutely-needs-to-know-about-the-journey-ahead"

@@ -1,7 +1,6 @@
 ---
 title: "Can’t Get Into Preprocessors? Try Zen Coding"
 date: 2012-05-23T00:08:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "cant-get-into-preprocessors-try-zen-coding"

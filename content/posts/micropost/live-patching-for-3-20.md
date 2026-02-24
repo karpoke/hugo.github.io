@@ -1,7 +1,6 @@
 ---
 title: "Live patching for 3.20"
 date: 2015-02-23T21:28:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "live-patching-for-3-20"

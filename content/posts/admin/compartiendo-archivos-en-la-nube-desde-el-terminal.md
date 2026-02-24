@@ -1,7 +1,6 @@
 ---
 title: "Compartiendo archivos en la nube desde el terminal"
 date: 2014-09-06T17:45:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["compartir", "curl", "gpg", "phantomjs", "webkit"]
 slug: "compartiendo-archivos-en-la-nube-desde-el-terminal"

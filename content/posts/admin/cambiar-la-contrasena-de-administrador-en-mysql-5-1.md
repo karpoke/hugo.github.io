@@ -1,7 +1,6 @@
 ---
 title: "Cambiar la contraseña de administrador en MySQL 5.1"
 date: 2011-07-08T04:10:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["apparmor", "cambiar contraseña", "mysql", "mysqld", "mysqld_safe", "root", "syslog", "ubuntu"]
 slug: "cambiar-la-contrasena-de-administrador-en-mysql-5-1"

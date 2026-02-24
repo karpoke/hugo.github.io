@@ -1,7 +1,6 @@
 ---
 title: "RoboCop (1987) Is an Almost Perfectly Symmetrical Film"
 date: 2015-01-21T21:13:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "robocop-1987-is-an-almost-perfectly-symmetrical-film"

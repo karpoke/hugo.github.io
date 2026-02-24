@@ -1,7 +1,6 @@
 ---
 title: "Why NULL points to 0?"
 date: 2012-06-26T02:40:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "why-null-points-to-0"

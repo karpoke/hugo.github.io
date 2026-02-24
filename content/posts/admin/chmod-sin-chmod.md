@@ -1,7 +1,6 @@
 ---
 title: "chmod sin chmod"
 date: 2014-11-08T19:54:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["chmod"]
 slug: "chmod-sin-chmod"

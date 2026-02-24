@@ -1,7 +1,6 @@
 ---
 title: "Los tres monos sabios de WhatsApp"
 date: 2014-06-15T09:18:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "los-tres-monos-sabios-de-whatsapp"

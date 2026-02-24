@@ -1,7 +1,6 @@
 ---
 title: "Improve your photographic composition by following these guidelines"
 date: 2016-09-29T00:16:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "improve-your-photographic-composition-by-following-these-guidelines"

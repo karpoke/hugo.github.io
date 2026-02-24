@@ -1,7 +1,6 @@
 ---
 title: "What Every App Developer Should Know About Android"
 date: 2014-11-02T10:59:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "what-every-app-developer-should-know-about-android"

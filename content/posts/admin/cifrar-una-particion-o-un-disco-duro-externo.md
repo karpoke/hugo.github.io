@@ -1,7 +1,6 @@
 ---
 title: "Cifrar una partición o un disco duro externo"
 date: 2011-07-08T02:48:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["AES", "badblocks", "cifrado", "cryptsetup", "dd", "disco duro", "luks", "mount", "partición", "sha-256", "shred", "tamaño de bloque", "tune2fs", "umount"]
 slug: "cifrar-una-particion-o-un-disco-duro-externo"

@@ -1,7 +1,6 @@
 ---
 title: "POODLE attacks on SSLv3"
 date: 2014-11-14T15:24:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "poodle-attacks-on-sslv3"

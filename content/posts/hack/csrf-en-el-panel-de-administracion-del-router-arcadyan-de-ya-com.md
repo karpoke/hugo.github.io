@@ -1,7 +1,6 @@
 ---
 title: "CSRF en el panel de administración del router Arcadyan de ya.com"
 date: 2011-01-01T18:46:00+01:00
-draft: false
 categories: ["hack"]
 tags: ["arcadyan", "avr4518pw", "csrf", "router", "ya.com"]
 slug: "csrf-en-el-panel-de-administracion-del-router-arcadyan-de-ya-com"

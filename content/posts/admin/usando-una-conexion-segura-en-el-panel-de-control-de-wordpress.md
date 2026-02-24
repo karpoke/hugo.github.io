@@ -1,7 +1,6 @@
 ---
 title: "Usando una conexión segura en el panel de control de Wordpress"
 date: 2011-06-14T14:17:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["apache", "https", "inicio de sesión", "php", "plugin", "ssl", "ssl for logged in users", "wordpress"]
 slug: "usando-una-conexion-segura-en-el-panel-de-control-de-wordpress"

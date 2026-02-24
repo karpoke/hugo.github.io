@@ -1,7 +1,6 @@
 ---
 title: "Las matemáticas explican por qué no puedes ganar al Tetris hagas lo que hagas"
 date: 2015-05-05T22:13:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "las-matematicas-explican-por-que-no-puedes-ganar-al-tetris-hagas-lo-que-hagas"

@@ -1,7 +1,6 @@
 ---
 title: "High Resolution Time"
 date: 2012-10-28T13:05:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "high-resolution-time"

@@ -1,7 +1,6 @@
 ---
 title: "Who invented pointers, amortized complexity, and more?"
 date: 2014-09-09T22:03:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "who-invented-pointers-amortized-complexity-and-more"

@@ -1,7 +1,6 @@
 ---
 title: "Locking Down Your Website Scripts with CSP, Hashes, Nonces and Report URI"
 date: 2017-11-15T09:50:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "locking-down-your-website-scripts-with-csp-hashes-nonces-and-report-uri"

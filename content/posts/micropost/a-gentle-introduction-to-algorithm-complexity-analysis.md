@@ -1,7 +1,6 @@
 ---
 title: "A Gentle Introduction to Algorithm Complexity Analysis"
 date: 2012-07-05T18:17:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "a-gentle-introduction-to-algorithm-complexity-analysis"

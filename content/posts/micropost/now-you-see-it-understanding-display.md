@@ -1,7 +1,6 @@
 ---
 title: "Now You See It: Understanding Display"
 date: 2019-12-16T23:29:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "now-you-see-it-understanding-display"

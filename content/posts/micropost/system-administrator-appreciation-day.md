@@ -1,7 +1,6 @@
 ---
 title: "System Administrator Appreciation Day"
 date: 2012-07-26T18:19:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "system-administrator-appreciation-day"

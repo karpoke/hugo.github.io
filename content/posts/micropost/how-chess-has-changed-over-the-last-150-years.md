@@ -1,7 +1,6 @@
 ---
 title: "How Chess Has Changed Over The Last 150 Years"
 date: 2015-05-29T18:45:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "how-chess-has-changed-over-the-last-150-years"

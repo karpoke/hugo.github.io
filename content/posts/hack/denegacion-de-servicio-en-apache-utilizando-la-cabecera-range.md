@@ -1,7 +1,6 @@
 ---
 title: "Denegación de servicio en Apache utilizando la cabecera Range"
 date: 2011-08-31T14:19:00+01:00
-draft: false
 categories: ["hack"]
 tags: ["2.2.17", "apache", "cabeceras HTTP", "denegación de servicio", "dos", "mod_headers", "mod_rewrite", "perl", "range", "requestheader", "script", "telnet"]
 slug: "denegacion-de-servicio-en-apache-utilizando-la-cabecera-range"

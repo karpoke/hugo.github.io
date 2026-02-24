@@ -1,7 +1,6 @@
 ---
 title: "With great power comes great responsibility"
 date: 2011-03-07T22:40:00+01:00
-draft: false
 categories: ["memo"]
 tags: ["sudo", "sudo rm -fr"]
 slug: "with-great-power-comes-great-responsibility"

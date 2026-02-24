@@ -1,7 +1,6 @@
 ---
 title: "Luke’s Change: an Inside Job"
 date: 2013-05-01T15:13:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "lukes-change-an-inside-job"

@@ -1,7 +1,6 @@
 ---
 title: "Programming Sucks"
 date: 2014-05-31T17:30:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "programming-sucks"

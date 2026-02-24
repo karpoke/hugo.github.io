@@ -1,7 +1,6 @@
 ---
 title: "DRM en HTML: la guerra por poseer la Web"
 date: 2013-03-30T20:02:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "drm-en-html-la-guerra-por-poseer-la-web"

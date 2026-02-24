@@ -1,7 +1,6 @@
 ---
 title: "tl;drLegal"
 date: 2012-07-04T00:44:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "tldrlegal"

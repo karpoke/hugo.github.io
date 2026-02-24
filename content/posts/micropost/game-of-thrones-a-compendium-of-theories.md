@@ -1,7 +1,6 @@
 ---
 title: "Game of thrones: A Compendium of Theories"
 date: 2014-09-06T13:33:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "game-of-thrones-a-compendium-of-theories"

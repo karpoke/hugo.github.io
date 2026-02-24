@@ -1,7 +1,6 @@
 ---
 title: "5 open source tools for container security"
 date: 2018-08-23T09:07:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "5-open-source-tools-for-container-security"

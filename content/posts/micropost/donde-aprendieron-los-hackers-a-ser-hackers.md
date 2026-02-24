@@ -1,7 +1,6 @@
 ---
 title: "¿Dónde aprendieron los 'hackers' a ser ’hackers’?"
 date: 2014-12-07T10:06:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "donde-aprendieron-los-hackers-a-ser-hackers"

@@ -1,7 +1,6 @@
 ---
 title: "Limitando el número de procesos por usuario"
 date: 2011-08-01T19:23:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["bash", "bomba fork", "c", "limits.conf", "perl", "python", "ubuntu", "ulimit"]
 slug: "limitando-el-numero-de-procesos-por-usuario"

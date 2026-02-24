@@ -1,7 +1,6 @@
 ---
 title: "The Man Who Made ’Tetris’"
 date: 2014-11-23T12:30:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "the-man-who-made-tetris"

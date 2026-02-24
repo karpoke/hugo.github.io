@@ -1,7 +1,6 @@
 ---
 title: "Apache2 y mod_security en Ubuntu Lucid Lynx 10.04"
 date: 2012-04-12T22:34:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["10.04", "12.04", "2.2.5", "apache2", "core rules set", "crs", "mod_security", "OWASP", "reglas", "rules-updater.pl", "ubuntu lucid lynx"]
 slug: "apache2-y-mod_security-en-ubuntu-lucid-lynx-10-04"

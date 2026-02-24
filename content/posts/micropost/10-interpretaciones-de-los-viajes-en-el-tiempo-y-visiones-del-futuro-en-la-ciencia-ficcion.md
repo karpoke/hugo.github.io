@@ -1,7 +1,6 @@
 ---
 title: "10 interpretaciones de los viajes en el tiempo y visiones del futuro en la ciencia ficción"
 date: 2012-12-19T00:35:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "10-interpretaciones-de-los-viajes-en-el-tiempo-y-visiones-del-futuro-en-la-ciencia-ficcion"

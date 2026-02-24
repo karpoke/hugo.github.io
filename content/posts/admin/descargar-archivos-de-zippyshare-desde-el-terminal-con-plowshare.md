@@ -1,7 +1,6 @@
 ---
 title: "Descargar archivos de zippyshare desde el terminal con plowshare"
 date: 2016-11-26T23:56:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["descargas", "zippyshare", "plowdown", "plowshare", "checkinstall"]
 slug: "descargar-archivos-de-zippyshare-desde-el-terminal-con-plowshare"

@@ -1,7 +1,6 @@
 ---
 title: "Editor wars: the revenge of vim"
 date: 2016-09-11T13:42:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "editor-wars-the-revenge-of-vim"

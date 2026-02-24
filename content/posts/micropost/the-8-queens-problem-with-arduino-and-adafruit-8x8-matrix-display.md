@@ -1,7 +1,6 @@
 ---
 title: "The 8 Queens Problem with Arduino and Adafruit 8x8 Matrix display"
 date: 2012-06-21T03:47:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "the-8-queens-problem-with-arduino-and-adafruit-8x8-matrix-display"

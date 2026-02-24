@@ -1,7 +1,6 @@
 ---
 title: "Lo que sucede cuando un software se convierte en un agujero negro"
 date: 2015-11-07T13:35:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "lo-que-sucede-cuando-un-software-se-convierte-en-un-agujero-negro"

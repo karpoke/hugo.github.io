@@ -1,7 +1,6 @@
 ---
 title: "Motivos por los que recomiendo usar la distribución Debian en Linux"
 date: 2016-08-14T13:29:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "motivos-por-los-que-recomiendo-usar-la-distribucion-debian-en-linux"

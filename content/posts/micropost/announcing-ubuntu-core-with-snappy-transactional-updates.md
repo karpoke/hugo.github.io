@@ -1,7 +1,6 @@
 ---
 title: "Announcing Ubuntu Core, with snappy transactional updates!"
 date: 2014-12-09T23:57:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "announcing-ubuntu-core-with-snappy-transactional-updates"

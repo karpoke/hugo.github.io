@@ -1,7 +1,6 @@
 ---
 title: "Solucionado el error «ImportError: cannot import name IncompleteRead» al ejecutar pip en Ubuntu Trusty Tahr 14.04"
 date: 2015-01-02T13:02:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["14.04", "IncompleteRead", "pip", "requests", "ubuntu trusty tahr"]
 slug: "solucionado-el-error-importerror-cannot-import-name-incompleteread-al-ejecutar-pip-en-ubuntu-trusty-tahr-14-04"

@@ -1,7 +1,6 @@
 ---
 title: "10 PRINT CHR$(205.5+RND(1)); : GOTO 10"
 date: 2012-12-18T16:50:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "10-print-chr205-5rnd1-goto-10"

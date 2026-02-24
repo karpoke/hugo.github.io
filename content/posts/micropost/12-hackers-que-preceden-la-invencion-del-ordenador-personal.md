@@ -1,7 +1,6 @@
 ---
 title: "12 hackers que preceden la invención del ordenador personal"
 date: 2018-05-17T18:02:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "12-hackers-que-preceden-la-invencion-del-ordenador-personal"

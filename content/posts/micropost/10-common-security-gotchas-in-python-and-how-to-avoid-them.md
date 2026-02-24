@@ -1,7 +1,6 @@
 ---
 title: "10 common security gotchas in Python and how to avoid them"
 date: 2018-06-19T18:39:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "10-common-security-gotchas-in-python-and-how-to-avoid-them"

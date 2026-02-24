@@ -1,7 +1,6 @@
 ---
 title: "Every Time Travel Movie Ever, Ranked"
 date: 2015-01-29T23:32:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "every-time-travel-movie-ever-ranked"

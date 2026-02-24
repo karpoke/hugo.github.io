@@ -1,7 +1,6 @@
 ---
 title: "Debian and I"
 date: 2012-08-25T12:39:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "debian-and-i"

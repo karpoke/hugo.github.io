@@ -1,7 +1,6 @@
 ---
 title: "Solución de problemas con Plymouth y ATI en Ubuntu Maverick Meerkat"
 date: 2011-01-18T06:23:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["10.10", "arranque gráfico del sistema", "ati", "hwinfo", "lspci", "plymouth", "tee", "ubuntu maverick meerkat", "update-grub2", "update-initramfs", "vga=769 deprecated"]
 slug: "solucion-de-problemas-con-plymouth-y-ati-en-ubuntu-maverick-meerkat"

@@ -1,7 +1,6 @@
 ---
 title: "Exclusión de URLs cuando usamos django-debug-toolbar"
 date: 2014-05-15T20:10:00+01:00
-draft: false
 categories: ["dev"]
 tags: ["django", "django-debug-toolbar"]
 slug: "exclusion-de-urls-cuando-usamos-django-debug-toolbar"

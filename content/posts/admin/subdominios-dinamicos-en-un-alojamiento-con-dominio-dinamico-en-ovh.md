@@ -1,7 +1,6 @@
 ---
 title: "Subdominios dinámicos en un alojamiento con dominio dinámico en OVH"
 date: 2012-12-15T01:05:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["apache", "apache2", "certificado", "cname", "dns", "dominio dinámico", "dyndns", "dynhost", "https", "mod_rewrite", "nginx", "no-ip", "ovh", "ssl", "tls", "vhost_alias", "wildcard"]
 slug: "subdominios-dinamicos-en-un-alojamiento-con-dominio-dinamico-en-ovh"

@@ -1,7 +1,6 @@
 ---
 title: "Propiedad intelectual: Preguntas frecuentes sobre la Ley Lasalle"
 date: 2013-03-19T00:48:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "propiedad-intelectual-preguntas-frecuentes-sobre-la-ley-lasalle"

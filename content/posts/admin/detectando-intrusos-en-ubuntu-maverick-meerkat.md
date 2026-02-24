@@ -1,7 +1,6 @@
 ---
 title: "Detectando intrusos en Ubuntu Maverick Meerkat"
 date: 2011-03-07T22:11:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["10.10", "denyhosts", "detección de intrusos", "fail2ban", "firewall", "http", "https", "log", "logcheck", "logwatch", "psad", "ssh", "tiger", "ufw"]
 slug: "detectando-intrusos-en-ubuntu-maverick-meerkat"

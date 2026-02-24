@@ -1,7 +1,6 @@
 ---
 title: "Recuperar un disco corrupto"
 date: 2018-01-30T20:36:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["copia de seguridad", "recuperación de datos", "dd", "pv", "ddrescue", "gddrescue"]
 slug: "recuperar-un-disco-corrupto"

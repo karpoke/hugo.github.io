@@ -1,7 +1,6 @@
 ---
 title: "Tales Of A First Time Driver Developer"
 date: 2012-08-26T15:25:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "tales-of-a-first-time-driver-developer"

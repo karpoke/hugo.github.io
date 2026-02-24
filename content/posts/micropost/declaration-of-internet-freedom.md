@@ -1,7 +1,6 @@
 ---
 title: "Declaration of Internet freedom"
 date: 2012-07-05T18:52:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "declaration-of-internet-freedom"

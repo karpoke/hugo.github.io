@@ -1,7 +1,6 @@
 ---
 title: "Crear un repositorio de paquetes local"
 date: 2014-11-12T18:57:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["apt", "apt-cdrom", "aptitude", "dpkg-dev", "dpkg-scanpackages", "sources.list"]
 slug: "crear-un-repositorio-de-paquetes-local"

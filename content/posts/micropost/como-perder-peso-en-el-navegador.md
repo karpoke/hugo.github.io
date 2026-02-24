@@ -1,7 +1,6 @@
 ---
 title: "Cómo perder peso (en el navegador)"
 date: 2013-04-02T22:39:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "como-perder-peso-en-el-navegador"

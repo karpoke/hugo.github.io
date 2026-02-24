@@ -1,7 +1,6 @@
 ---
 title: "0.999...=1"
 date: 2011-05-18T14:21:00+01:00
-draft: false
 categories: ["memo"]
 tags: ["latex"]
 slug: "0-coma-9-periodo-igual-1"

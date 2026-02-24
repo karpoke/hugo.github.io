@@ -1,7 +1,6 @@
 ---
 title: "Merge branch ’x86-nuke386-for-linus’"
 date: 2012-12-16T13:41:00+01:00
-draft: false
 categories: ["micropost"]
 tags: ["Linux", "386"]
 slug: "merge-branch-x86-nuke386-for-linus"

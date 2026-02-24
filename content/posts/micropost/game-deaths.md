@@ -1,7 +1,6 @@
 ---
 title: "Game deaths"
 date: 2012-08-15T18:09:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "game-deaths"

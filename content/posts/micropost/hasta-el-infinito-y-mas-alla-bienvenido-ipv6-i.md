@@ -1,7 +1,6 @@
 ---
 title: "Hasta el infinito y más allá. Bienvenido IPv6 (I)"
 date: 2016-11-25T18:33:00+01:00
-draft: false
 categories: ["micropost"]
 tags: ["IPv6", "adopción", "ventajas", "desventajas"]
 slug: "hasta-el-infinito-y-mas-alla-bienvenido-ipv6-i"

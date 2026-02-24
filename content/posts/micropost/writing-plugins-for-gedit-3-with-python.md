@@ -1,7 +1,6 @@
 ---
 title: "Writing Plugins for gedit 3 with Python"
 date: 2012-05-23T00:03:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "writing-plugins-for-gedit-3-with-python"

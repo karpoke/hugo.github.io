@@ -1,7 +1,6 @@
 ---
 title: "Python internals: adding a new statement to Python"
 date: 2013-03-01T10:44:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "python-internals-adding-a-new-statement-to-python"

@@ -1,7 +1,6 @@
 ---
 title: "The history of Android: The endless iterations of Google’s mobile OS"
 date: 2014-06-17T20:14:00+01:00
-draft: false
 categories: ["micropost"]
 tags: ["android", "google", "diseño", "historia de android"]
 slug: "the-history-of-android-the-endless-iterations-of-googles-mobile-os"

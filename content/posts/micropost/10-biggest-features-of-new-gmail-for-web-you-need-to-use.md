@@ -1,7 +1,6 @@
 ---
 title: "10 Biggest Features Of New Gmail For Web You Need To Use"
 date: 2018-04-30T08:28:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "10-biggest-features-of-new-gmail-for-web-you-need-to-use"

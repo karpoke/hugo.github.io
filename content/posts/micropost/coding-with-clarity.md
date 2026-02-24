@@ -1,7 +1,6 @@
 ---
 title: "Coding with clarity"
 date: 2017-10-28T16:42:00+01:00
-draft: false
 categories: ["micropost"]
 tags: ["buenas prácticas", "principio de responsabilidad única", "separación de comandos y consultas", "bajo acoplamiento", "alta cohesión"]
 slug: "coding-with-clarity"

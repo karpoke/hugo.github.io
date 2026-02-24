@@ -1,7 +1,6 @@
 ---
 title: "How To Make Your Own Text Adventure On A Computer"
 date: 2012-05-14T13:34:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "how-to-make-your-own-text-adventure-on-a-computer"

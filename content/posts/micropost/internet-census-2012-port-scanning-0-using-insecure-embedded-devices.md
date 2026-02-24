@@ -1,7 +1,6 @@
 ---
 title: "Internet Census 2012: Port scanning /0 using insecure embedded devices"
 date: 2013-04-01T00:50:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "internet-census-2012-port-scanning-0-using-insecure-embedded-devices"

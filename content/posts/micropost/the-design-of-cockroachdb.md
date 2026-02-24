@@ -1,7 +1,6 @@
 ---
 title: "The design of CockroachDB"
 date: 2016-10-02T14:42:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "the-design-of-cockroachdb"

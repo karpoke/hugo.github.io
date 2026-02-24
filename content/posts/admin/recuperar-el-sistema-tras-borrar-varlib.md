@@ -1,7 +1,6 @@
 ---
 title: "Recuperar el sistema tras borrar «/var/lib»"
 date: 2014-12-26T21:37:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["14.04", "apt-get", "aptitude", "copias de seguridad", "dpkg", "jerarquía de directorios", "mysql", "nc", "ssh", "ubuntu trusty tahr", "ufw", "virtualbox"]
 slug: "recuperar-el-sistema-tras-borrar-varlib"

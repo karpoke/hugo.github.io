@@ -1,7 +1,6 @@
 ---
 title: "Final Fantasy VII Review (Plot Spoilers)"
 date: 2013-03-18T00:37:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "final-fantasy-vii-review-plot-spoilers"

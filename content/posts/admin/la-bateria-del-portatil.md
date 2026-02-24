@@ -1,7 +1,6 @@
 ---
 title: "La batería del portátil"
 date: 2010-09-26T00:10:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["acpi", "acpitool", "awk", "capacidad de la bateria", "cron", "notify-send", "script", "temperatura", "vida de la batería"]
 slug: "la-bateria-del-portatil"

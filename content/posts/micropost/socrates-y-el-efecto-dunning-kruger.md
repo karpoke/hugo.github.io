@@ -1,7 +1,6 @@
 ---
 title: "Sócrates y el efecto Dunning-Kruger"
 date: 2012-06-14T12:38:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "socrates-y-el-efecto-dunning-kruger"

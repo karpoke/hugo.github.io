@@ -1,7 +1,6 @@
 ---
 title: "Ubuntu Manual Project"
 date: 2012-07-04T00:03:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "ubuntu-manual-project"

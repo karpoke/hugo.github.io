@@ -1,7 +1,6 @@
 ---
 title: "Reverse debugging for Python"
 date: 2016-09-11T14:06:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "reverse-debugging-for-python"

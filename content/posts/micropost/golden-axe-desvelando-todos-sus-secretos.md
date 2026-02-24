@@ -1,7 +1,6 @@
 ---
 title: "Golden Axe - Desvelando todos sus secretos"
 date: 2012-06-26T02:00:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "golden-axe-desvelando-todos-sus-secretos"

@@ -1,7 +1,6 @@
 ---
 title: "Volcado de memoria #RAM en #Linux - #LiME"
 date: 2016-09-17T14:54:00+01:00
-draft: false
 categories: ["micropost"]
 tags: ["volcado de memoria", "análisis forense", "recolección de evidencias", "LiME"]
 slug: "volcado-de-memoria-ram-en-linux-lime"

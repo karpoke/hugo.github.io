@@ -1,7 +1,6 @@
 ---
 title: "Evitando el hotlinking"
 date: 2011-08-16T14:05:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["apache", "hotlinking", "HTTP_REFERER", "mod_rewrite"]
 slug: "evitando-el-hotlinking"

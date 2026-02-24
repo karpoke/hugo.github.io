@@ -1,7 +1,6 @@
 ---
 title: "Prince of persia code review"
 date: 2013-06-15T23:06:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "prince-of-persia-code-review"

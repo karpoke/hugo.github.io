@@ -1,7 +1,6 @@
 ---
 title: "Se vende censor de desnudos: de compras por un mercadillo de algoritmos"
 date: 2016-12-07T20:36:00+01:00
-draft: false
 categories: ["micropost"]
 tags: ["algoritmia", "algoritmos", "pago por uso", "inteligencia artificial", "visión por ordenador", "aprendizaje automático"]
 slug: "se-vende-censor-de-desnudos-de-compras-por-un-mercadillo-de-algoritmos"

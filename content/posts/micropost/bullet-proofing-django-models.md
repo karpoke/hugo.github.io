@@ -1,7 +1,6 @@
 ---
 title: "Bullet proofing Django models"
 date: 2016-11-07T01:17:00+01:00
-draft: false
 categories: ["micropost"]
 tags: ["django", "buenas prácticas", "DRY", "bajo acoplamiento", "concurrencia", "atomicidad", "validación", "testeo"]
 slug: "bullet-proofing-django-models"

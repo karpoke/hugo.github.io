@@ -1,7 +1,6 @@
 ---
 title: "The Twelve-Factor App"
 date: 2015-05-18T22:06:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "the-twelve-factor-app"

@@ -1,7 +1,6 @@
 ---
 title: "An OAuth 2.0 introduction for beginners"
 date: 2019-12-16T23:48:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "an-oauth-2-0-introduction-for-beginners"

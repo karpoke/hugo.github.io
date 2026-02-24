@@ -1,7 +1,6 @@
 ---
 title: "The Linux Graphics Stack"
 date: 2012-06-22T17:04:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "the-linux-graphics-stack"

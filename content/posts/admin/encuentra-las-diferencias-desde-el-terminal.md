@@ -1,7 +1,6 @@
 ---
 title: "Encuentra las diferencias... desde el terminal"
 date: 2011-03-29T22:08:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["compose difference", "composite", "convert", "crop", "imagemagick"]
 slug: "encuentra-las-diferencias-desde-el-terminal"

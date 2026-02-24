@@ -1,7 +1,6 @@
 ---
 title: "El código Asimov"
 date: 2013-03-24T21:55:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "el-codigo-asimov"

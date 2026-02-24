@@ -1,7 +1,6 @@
 ---
 title: "Recuperando archivos del USB"
 date: 2010-10-27T11:57:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["dd", "file", "icat", "ils", "informática forense", "pérdida de información", "recuperación de información", "sleuthkit"]
 slug: "recuperando-archivos-del-usb"

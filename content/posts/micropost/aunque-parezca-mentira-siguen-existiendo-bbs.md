@@ -1,7 +1,6 @@
 ---
 title: "Aunque parezca mentira, siguen existiendo BBS"
 date: 2014-05-24T16:42:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "aunque-parezca-mentira-siguen-existiendo-bbs"

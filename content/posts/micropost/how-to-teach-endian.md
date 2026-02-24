@@ -1,7 +1,6 @@
 ---
 title: "How to teach endian"
 date: 2016-12-07T20:26:00+01:00
-draft: false
 categories: ["micropost"]
 tags: ["endian", "little-endian", "big-endian", "bytes", "nibbles", "parsear", "formatear"]
 slug: "how-to-teach-endian"

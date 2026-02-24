@@ -1,7 +1,6 @@
 ---
 title: "Copiar un directorio excluyendo los archivos de una clase"
 date: 2011-05-11T21:09:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["dropbox", "rsync", "svn"]
 slug: "copiar-un-directorio-excluyendo-los-archivos-de-una-clase"

@@ -1,7 +1,6 @@
 ---
 title: "Buscando rootkits y troyanos"
 date: 2010-12-17T03:04:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["/dev/.initramfs", "/dev/.udev", "12.04", "13.10", "ALLOWHIDDENFILE", "antirootkit", "chkconfig", "chkrootkit", "e2fsprogs", "ext2", "ext3", "ext4", "lsattr", "python", "reiserfs", "rkhunter", "rootkit", "script", "symlink", "tiger", "troyano", "ubuntu", "unhide", "xfs", "zeppoo"]
 slug: "buscando-rootkits-y-troyanos"

@@ -1,7 +1,6 @@
 ---
 title: "4 open source monitoring tools"
 date: 2018-08-30T09:16:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "4-open-source-monitoring-tools"

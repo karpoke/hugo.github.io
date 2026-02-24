@@ -1,7 +1,6 @@
 ---
 title: "Lo posible de lo imposible: la física de un tsunami"
 date: 2014-12-01T22:11:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "lo-posible-de-lo-imposible-la-fisica-de-un-tsunami"

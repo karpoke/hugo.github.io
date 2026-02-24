@@ -1,7 +1,6 @@
 ---
 title: "A repository with 44 years of Unix evolution"
 date: 2015-06-06T09:31:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "a-repository-with-44-years-of-unix-evolution"

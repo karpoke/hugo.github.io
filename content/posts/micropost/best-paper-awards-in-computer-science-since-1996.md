@@ -1,7 +1,6 @@
 ---
 title: "Best Paper Awards in Computer Science (since 1996)"
 date: 2012-08-15T17:30:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "best-paper-awards-in-computer-science-since-1996"

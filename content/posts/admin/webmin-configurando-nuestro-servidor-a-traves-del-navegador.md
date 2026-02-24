@@ -1,7 +1,6 @@
 ---
 title: "webmin, configurando nuestro servidor a través del navegador"
 date: 2012-06-12T20:05:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["firewall", "ubuntu", "ufw", "webmin"]
 slug: "webmin-configurando-nuestro-servidor-a-traves-del-navegador"

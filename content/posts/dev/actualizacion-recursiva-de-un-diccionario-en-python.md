@@ -1,7 +1,6 @@
 ---
 title: "Actualización recursiva de un diccionario en Python"
 date: 2010-09-28T13:50:00+01:00
-draft: false
 categories: ["dev"]
 tags: ["diccionario de datos", "django", "python", "recursividad"]
 slug: "actualizacion-recursiva-de-un-diccionario-en-python"

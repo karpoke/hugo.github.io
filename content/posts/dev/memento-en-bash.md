@@ -1,7 +1,6 @@
 ---
 title: "Memento en Bash"
 date: 2010-09-26T16:01:00+01:00
-draft: false
 categories: ["dev"]
 tags: ["alias", "byobu", "ficheros ocultos", "lista de cosas por hacer", "lorem ipsum", "memento", "post-it", "screen", "script", "terminator"]
 slug: "memento-en-bash"

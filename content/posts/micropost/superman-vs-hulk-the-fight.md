@@ -1,7 +1,6 @@
 ---
 title: "Superman vs Hulk - The Fight"
 date: 2013-02-24T23:58:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "superman-vs-hulk-the-fight"

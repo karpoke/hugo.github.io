@@ -1,7 +1,6 @@
 ---
 title: "Extraer un archivo de un archivo comprimido, desde el terminal"
 date: 2011-06-30T20:36:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["copia de seguridad", "ssh", "sudo", "tar", "tee", "vim", "wtf"]
 slug: "extraer-un-archivo-de-un-archivo-comprimido-desde-el-terminal"

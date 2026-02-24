@@ -1,7 +1,6 @@
 ---
 title: "Descifrando al César en Bash"
 date: 2011-02-16T04:26:00+01:00
-draft: false
 categories: ["dev"]
 tags: ["cifrado césar", "rot13", "rot47", "sed", "tr", "bsdgames"]
 slug: "descifrando-al-cesar-en-bash"

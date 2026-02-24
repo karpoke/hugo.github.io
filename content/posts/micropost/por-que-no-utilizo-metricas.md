@@ -1,7 +1,6 @@
 ---
 title: "Por qué no utilizo métricas"
 date: 2016-09-25T12:48:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "por-que-no-utilizo-metricas"

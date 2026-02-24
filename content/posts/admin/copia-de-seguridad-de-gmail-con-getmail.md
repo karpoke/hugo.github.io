@@ -1,7 +1,6 @@
 ---
 title: "Copia de seguridad de GMail con getmail"
 date: 2011-07-08T15:52:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["copia de seguridad", "getmail", "gmail", "google", "maildir", "mbox"]
 slug: "copia-de-seguridad-de-gmail-con-getmail"

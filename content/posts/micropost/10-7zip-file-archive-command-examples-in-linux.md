@@ -1,7 +1,6 @@
 ---
 title: "10 7zip (File Archive) Command Examples in Linux"
 date: 2018-05-31T12:47:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "10-7zip-file-archive-command-examples-in-linux"

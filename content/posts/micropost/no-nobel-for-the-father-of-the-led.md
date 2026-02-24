@@ -1,7 +1,6 @@
 ---
 title: "No Nobel for the Father of the LED"
 date: 2014-10-08T19:21:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "no-nobel-for-the-father-of-the-led"

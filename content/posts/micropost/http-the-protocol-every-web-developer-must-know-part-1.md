@@ -1,7 +1,6 @@
 ---
 title: "HTTP: The Protocol Every Web Developer Must Know – Part 1"
 date: 2013-04-30T00:12:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "http-the-protocol-every-web-developer-must-know-part-1"

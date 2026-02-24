@@ -1,7 +1,6 @@
 ---
 title: "¿Es posible tener un smartphone completamente libre?"
 date: 2012-08-24T23:51:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "es-posible-tener-un-smartphone-completamente-libre"

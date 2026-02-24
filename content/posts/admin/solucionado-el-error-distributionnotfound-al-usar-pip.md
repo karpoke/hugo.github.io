@@ -1,7 +1,6 @@
 ---
 title: "Solucionado el error «DistributionNotFound» al usar pip"
 date: 2013-07-28T13:52:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["distributionerror", "easy_install", "pip"]
 slug: "solucionado-el-error-distributionnotfound-al-usar-pip"

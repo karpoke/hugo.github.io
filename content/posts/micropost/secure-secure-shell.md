@@ -1,7 +1,6 @@
 ---
 title: "Secure Secure Shell"
 date: 2015-01-06T19:09:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "secure-secure-shell"

@@ -1,7 +1,6 @@
 ---
 title: "The 8085’s register file reverse engineered"
 date: 2013-03-31T20:28:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "the-8085s-register-file-reverse-engineered"

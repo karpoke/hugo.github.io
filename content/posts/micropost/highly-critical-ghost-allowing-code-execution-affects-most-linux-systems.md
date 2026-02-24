@@ -1,7 +1,6 @@
 ---
 title: "Highly critical “Ghost” allowing code execution affects most Linux systems"
 date: 2015-02-06T16:11:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "highly-critical-ghost-allowing-code-execution-affects-most-linux-systems"

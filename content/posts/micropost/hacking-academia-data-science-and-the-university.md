@@ -1,7 +1,6 @@
 ---
 title: "Hacking Academia: Data Science and the University"
 date: 2014-09-21T14:48:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "hacking-academia-data-science-and-the-university"

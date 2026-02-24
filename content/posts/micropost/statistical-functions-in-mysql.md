@@ -1,7 +1,6 @@
 ---
 title: "Statistical functions in MySQL"
 date: 2012-07-14T19:38:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "statistical-functions-in-mysql"

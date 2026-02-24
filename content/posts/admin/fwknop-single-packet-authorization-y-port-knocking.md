@@ -1,7 +1,6 @@
 ---
 title: "fwknop: Single Packet Authorization y port knocking"
 date: 2011-09-18T00:49:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["cifrado", "cifrado asimétrico", "clave pública", "dsa", "fwknop", "fwknop-client", "fwknop-server", "generar entropía", "gnupg", "gnupg-agent", "gpg", "iptables", "port knocking", "random", "Rijndael", "rng-tools", "rsa", "scp", "single packet authorization", "spa", "ssh", "ubuntu", "ufw"]
 slug: "fwknop-single-packet-authorization-y-port-knocking"

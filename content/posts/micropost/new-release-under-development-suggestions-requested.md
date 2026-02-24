@@ -1,7 +1,6 @@
 ---
 title: "New release under development; suggestions requested"
 date: 2012-08-17T12:29:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "new-release-under-development-suggestions-requested"

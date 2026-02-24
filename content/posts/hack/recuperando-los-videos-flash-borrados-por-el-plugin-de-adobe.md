@@ -1,7 +1,6 @@
 ---
 title: "Recuperando los vídeos Flash borrados por el plugin de Adobe"
 date: 2011-03-04T18:58:00+01:00
-draft: false
 categories: ["hack"]
 tags: ["adobe", "chromium", "copiar vídeos de youtube", "cut", "find", "firefox", "flashplayer", "readlink", "recuperación de información"]
 slug: "recuperando-los-videos-flash-borrados-por-el-plugin-de-adobe"

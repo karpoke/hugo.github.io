@@ -1,7 +1,6 @@
 ---
 title: "La red resiste"
 date: 2011-12-02T12:02:00+01:00
-draft: false
 categories: ["memo"]
 tags: ["canon", "internet", "ley sinde", "libertad", "neutralidad", "propiedad intelectual", "regulación", "sgae"]
 slug: "la-red-resiste"

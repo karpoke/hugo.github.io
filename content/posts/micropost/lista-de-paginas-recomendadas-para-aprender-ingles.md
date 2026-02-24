@@ -1,7 +1,6 @@
 ---
 title: "Lista de páginas recomendadas para aprender inglés"
 date: 2012-12-12T13:36:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "lista-de-paginas-recomendadas-para-aprender-ingles"

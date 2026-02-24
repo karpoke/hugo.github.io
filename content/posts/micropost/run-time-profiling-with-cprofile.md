@@ -1,7 +1,6 @@
 ---
 title: "Run time profiling with cProfile"
 date: 2013-03-27T21:03:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "run-time-profiling-with-cprofile"

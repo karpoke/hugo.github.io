@@ -1,7 +1,6 @@
 ---
 title: "¿Cuál es el origen de “Hello world”?"
 date: 2016-02-07T14:55:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "cual-es-el-origen-de-hello-world"

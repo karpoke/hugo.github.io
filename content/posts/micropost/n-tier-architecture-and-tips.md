@@ -1,7 +1,6 @@
 ---
 title: "N-Tier Architecture And Tips"
 date: 2012-07-31T14:54:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "n-tier-architecture-and-tips"

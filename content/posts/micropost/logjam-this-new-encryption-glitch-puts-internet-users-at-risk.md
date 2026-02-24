@@ -1,7 +1,6 @@
 ---
 title: "LogJam — This new encryption glitch puts Internet users at risk"
 date: 2015-05-20T18:54:00+01:00
-draft: false
 categories: ["micropost"]
 tags: ["LogJam", "FREAK", "MitM", "intercambio de claves Diffie-Hellman", "DHE"]
 slug: "logjam-this-new-encryption-glitch-puts-internet-users-at-risk"

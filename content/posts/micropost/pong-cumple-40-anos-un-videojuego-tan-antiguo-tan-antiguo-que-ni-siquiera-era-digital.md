@@ -1,7 +1,6 @@
 ---
 title: "Pong cumple 40 años: un videojuego tan antiguo, tan antiguo que ni siquiera era digital"
 date: 2012-12-16T13:17:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "pong-cumple-40-anos-un-videojuego-tan-antiguo-tan-antiguo-que-ni-siquiera-era-digital"

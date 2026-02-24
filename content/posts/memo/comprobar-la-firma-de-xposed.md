@@ -1,7 +1,6 @@
 ---
 title: "Comprobar la firma de Xposed"
 date: 2016-11-25T22:26:00+01:00
-draft: false
 categories: ["memo"]
 tags: ["xposed", "gpg", "comprobación de firma", "cyanogenmod"]
 slug: "comprobar-la-firma-de-xposed"

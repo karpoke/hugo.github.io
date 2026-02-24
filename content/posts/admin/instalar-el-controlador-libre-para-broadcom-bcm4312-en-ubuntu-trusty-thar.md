@@ -1,7 +1,6 @@
 ---
 title: "Instalar el controlador libre para Broadcom BCM4312 en Ubuntu Trusty Thar"
 date: 2014-11-07T19:28:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["14.04", "b43", "bcm4312", "broadcom", "controladores libres", "lspci", "ubuntu trusty thar", "wifi", "wireless"]
 slug: "instalar-el-controlador-libre-para-broadcom-bcm4312-en-ubuntu-trusty-thar"

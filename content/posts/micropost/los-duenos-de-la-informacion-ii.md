@@ -1,7 +1,6 @@
 ---
 title: "Los dueños de la información II"
 date: 2012-08-31T18:43:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "los-duenos-de-la-informacion-ii"

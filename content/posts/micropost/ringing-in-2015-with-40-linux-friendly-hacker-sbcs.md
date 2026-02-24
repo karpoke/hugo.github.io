@@ -1,7 +1,6 @@
 ---
 title: "Ringing in 2015 with 40 Linux-friendly hacker SBCs"
 date: 2015-01-01T11:36:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "ringing-in-2015-with-40-linux-friendly-hacker-sbcs"

@@ -1,7 +1,6 @@
 ---
 title: "Transformada de Fourier discreta en Python con SciPy"
 date: 2012-10-29T10:00:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "transformada-de-fourier-discreta-en-python-con-scipy"

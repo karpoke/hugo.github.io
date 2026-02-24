@@ -1,7 +1,6 @@
 ---
 title: "Lepton image compression: saving 22% losslessly from images at 15MB/s"
 date: 2016-07-17T23:48:00+01:00
-draft: false
 categories: ["micropost"]
 tags: ["compresión de imágenes", "Letpon", "sin pérdida de calidad", "Dropbox"]
 slug: "lepton-image-compression-saving-22-percent-losslessly-from-images-at-15mbps"

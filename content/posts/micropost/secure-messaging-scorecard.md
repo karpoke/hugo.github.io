@@ -1,7 +1,6 @@
 ---
 title: "Secure messaging scorecard"
 date: 2014-11-07T09:07:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "secure-messaging-scorecard"

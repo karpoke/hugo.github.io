@@ -1,7 +1,6 @@
 ---
 title: "Code rot & OpenBSD"
 date: 2015-01-06T19:14:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "code-rot-openbsd"

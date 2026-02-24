@@ -1,7 +1,6 @@
 ---
 title: "The TTY demystified"
 date: 2012-07-09T20:09:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "the-tty-demystified"

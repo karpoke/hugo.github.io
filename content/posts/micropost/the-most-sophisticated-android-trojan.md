@@ -1,7 +1,6 @@
 ---
 title: "The most sophisticated Android Trojan"
 date: 2013-06-09T23:06:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "the-most-sophisticated-android-trojan"

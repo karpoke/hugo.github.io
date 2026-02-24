@@ -1,7 +1,6 @@
 ---
 title: "JABH - Just Another Bash Hacker"
 date: 2010-07-28T14:03:00+01:00
-draft: false
 categories: ["dev"]
 tags: ["jabh", "japh", "just another bash hacker"]
 slug: "jabh"

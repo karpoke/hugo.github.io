@@ -1,7 +1,6 @@
 ---
 title: "Últimos paquetes instalados"
 date: 2011-08-27T18:14:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["dpkg"]
 slug: "ultimos-paquetes-instalados"

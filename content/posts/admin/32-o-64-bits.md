@@ -1,7 +1,6 @@
 ---
 title: "32 ó 64 bits"
 date: 2011-01-18T15:41:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["arch", "dpkg-architecture", "flags", "getconf", "lm", "uname", "lshw"]
 slug: "32-o-64-bits"

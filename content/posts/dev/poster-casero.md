@@ -1,7 +1,6 @@
 ---
 title: "Póster casero"
 date: 2010-12-11T02:52:00+01:00
-draft: false
 categories: ["dev"]
 tags: ["convert", "mapa del software libre", "pdfposter", "póster", "ubuntu one"]
 slug: "poster-casero"

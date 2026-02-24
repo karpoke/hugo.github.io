@@ -1,7 +1,6 @@
 ---
 title: "Fuck yeah"
 date: 2010-10-23T18:33:00+01:00
-draft: false
 categories: ["memo"]
 tags: ["das keyboad", "fuck yeah"]
 slug: "fuck-yeah"

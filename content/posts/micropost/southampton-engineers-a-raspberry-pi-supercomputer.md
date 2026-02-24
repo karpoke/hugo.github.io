@@ -1,7 +1,6 @@
 ---
 title: "Southampton engineers a Raspberry Pi Supercomputer"
 date: 2012-09-13T12:30:00+01:00
-draft: false
 categories: ["micropost"]
 tags: ["Raspberry Pi", "superordenador", "cluster"]
 slug: "southampton-engineers-a-raspberry-pi-supercomputer"

@@ -1,7 +1,6 @@
 ---
 title: "Utilizar SSH para establecer un servidor proxy SOCKS"
 date: 2011-08-12T13:07:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["autossh", "firefox", "proxy", "proxy socks", "proxychains", "puertos bien conocidos", "scp", "sftp", "SOCKS", "ssh", "tsocks"]
 slug: "utilizar-ssh-para-establecer-un-servidor-proxy-socks"

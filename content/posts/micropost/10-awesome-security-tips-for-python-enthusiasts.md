@@ -1,7 +1,6 @@
 ---
 title: "10 Awesome Security Tips for Python Enthusiasts"
 date: 2019-03-03T22:28:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "10-awesome-security-tips-for-python-enthusiasts"

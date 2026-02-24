@@ -1,7 +1,6 @@
 ---
 title: "Tetris Printer Algorithm"
 date: 2013-06-05T23:06:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "tetris-printer-algorithm"

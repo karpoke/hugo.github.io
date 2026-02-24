@@ -1,7 +1,6 @@
 ---
 title: "Happy 10th Birthday, Ubuntu"
 date: 2014-10-25T18:10:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "happy-10th-birthday-ubuntu"

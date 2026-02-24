@@ -1,7 +1,6 @@
 ---
 title: "Stable Linux kernel hit by ext4 data corruption bug"
 date: 2012-10-26T08:48:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "stable-linux-kernel-hit-by-ext4-data-corruption-bug"

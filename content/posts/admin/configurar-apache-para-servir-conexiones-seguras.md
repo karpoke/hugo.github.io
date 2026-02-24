@@ -1,7 +1,6 @@
 ---
 title: "Configurar Apache para servir conexiones seguras"
 date: 2011-06-14T14:13:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["apache", "autoridad certificadora", "beast", "ca", "certificado", "clave pública", "des3", "https", "openssl", "renovación del certificado", "rsa", "ssl"]
 slug: "configurar-apache-para-servir-conexiones-seguras"

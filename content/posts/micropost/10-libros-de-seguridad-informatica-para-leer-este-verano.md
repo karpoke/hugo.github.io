@@ -1,7 +1,6 @@
 ---
 title: "10 libros de seguridad informática para leer este verano"
 date: 2018-07-23T10:15:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "10-libros-de-seguridad-informatica-para-leer-este-verano"

@@ -1,7 +1,6 @@
 ---
 title: "Software Library: MS-DOS Games"
 date: 2015-01-05T17:53:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "software-library-ms-dos-games"

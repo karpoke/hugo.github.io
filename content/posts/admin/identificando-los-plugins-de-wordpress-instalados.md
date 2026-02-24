@@ -1,7 +1,6 @@
 ---
 title: "Identificando los plugins de WordPress instalados"
 date: 2011-06-20T20:47:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["404", "apache", "escáner de vulnerabilidades", "fingerprint", "http-wp-plugins", "nmap", "plugin", "script", "seguridad por oscuridad", "wordpress", "wpfinger"]
 slug: "identificando-los-plugins-de-wordpress-instalados"

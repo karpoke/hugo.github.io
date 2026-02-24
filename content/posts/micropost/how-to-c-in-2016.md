@@ -1,7 +1,6 @@
 ---
 title: "How to C in 2016"
 date: 2016-02-07T15:01:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "how-to-c-in-2016"

@@ -1,7 +1,6 @@
 ---
 title: "Time travel in movies"
 date: 2013-04-21T20:48:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "time-travel-in-movies"

@@ -1,7 +1,6 @@
 ---
 title: "Interactive map of Linux kernel"
 date: 2012-05-27T13:10:00+01:00
-draft: false
 categories: ["micropost"]
 tags: ["mapa interactivo", "kernel", "Linux", "subsitemas", "capas", "funciones", "interfaces", "dispositivos", "código fuente"]
 slug: "interactive-map-of-linux-kernel"

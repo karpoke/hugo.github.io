@@ -1,7 +1,6 @@
 ---
 title: "4 Ways to Disable Root Account in Linux"
 date: 2018-10-21T04:41:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "4-ways-to-disable-root-account-in-linux"

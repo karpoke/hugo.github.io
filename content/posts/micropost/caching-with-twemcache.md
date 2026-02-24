@@ -1,7 +1,6 @@
 ---
 title: "Caching with Twemcache"
 date: 2012-07-11T00:36:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "caching-with-twemcache"

@@ -1,7 +1,6 @@
 ---
 title: "Así vuela un avión, y ojalá que por fin se aclare el tema de una vez por todas"
 date: 2013-06-16T23:06:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "asi-vuela-un-avion-y-ojala-que-por-fin-se-aclare-el-tema-de-una-vez-por-todas"

@@ -1,7 +1,6 @@
 ---
 title: "localepurge"
 date: 2011-05-25T10:44:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["apt", "apt-config", "localepurge", "optimización", "ubuntu", "uso de disco"]
 slug: "localepurge"

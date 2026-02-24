@@ -1,7 +1,6 @@
 ---
 title: "Cosmo, the Hacker ’God’ Who Fell to Earth"
 date: 2012-09-16T11:31:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "cosmo-the-hacker-god-who-fell-to-earth"

@@ -1,7 +1,6 @@
 ---
 title: "How High Can You Get?"
 date: 2013-03-20T01:21:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "how-high-can-you-get"

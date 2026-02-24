@@ -1,7 +1,6 @@
 ---
 title: "The open guide to Amazon Web Services"
 date: 2016-11-07T00:20:00+01:00
-draft: false
 categories: ["micropost"]
 tags: ["AWS", "servicio web", "Amazon", "EC2", "S3", "balanceadores de carga", "EBS", "IAM", "computación en la nube", "IaaS", "infraestructura como servicio"]
 slug: "the-open-guide-to-amazon-web-services"

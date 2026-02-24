@@ -1,7 +1,6 @@
 ---
 title: "Mechanical LEGO Display Is Another Level Of Awesomeness"
 date: 2015-05-03T11:30:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "mechanical-lego-display-is-another-level-of-awesomeness"

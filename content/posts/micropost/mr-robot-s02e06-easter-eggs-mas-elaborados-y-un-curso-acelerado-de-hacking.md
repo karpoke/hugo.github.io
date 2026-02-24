@@ -1,7 +1,6 @@
 ---
 title: "Mr. Robot S02E06: easter eggs más elaborados y un curso acelerado de hacking"
 date: 2016-09-11T18:52:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "mr-robot-s02e06-easter-eggs-mas-elaborados-y-un-curso-acelerado-de-hacking"

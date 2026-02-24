@@ -1,7 +1,6 @@
 ---
 title: "Unsafe cookies leave WordPress accounts open to hijacking, 2-factor bypass"
 date: 2014-05-26T21:50:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "unsafe-cookies-leave-wordpress-accounts-open-to-hijacking-2-factor-bypass"

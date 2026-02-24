@@ -1,7 +1,6 @@
 ---
 title: "The Geek Syndrome"
 date: 2012-07-24T19:05:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "the-geek-syndrome"

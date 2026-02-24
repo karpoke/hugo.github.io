@@ -1,7 +1,6 @@
 ---
 title: "Microcódigo en mi código"
 date: 2012-06-21T18:10:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "microcodigo-en-mi-codigo"

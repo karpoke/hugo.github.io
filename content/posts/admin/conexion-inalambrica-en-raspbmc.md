@@ -1,7 +1,6 @@
 ---
 title: "Conexión inalámbrica en Raspbmc"
 date: 2012-07-03T03:33:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["concentrador", "hub usb", "ip dinámica", "ip fija", "iwconfig", "iwlist", "network-manager", "nmcli", "opendns", "powered hub", "raspberry pi", "raspbmc", "wifi", "wireless", "wpa_supplicant", "wpa2", "xbmc", "zydas"]
 slug: "conexion-inalambrica-en-raspbmc"

@@ -1,7 +1,6 @@
 ---
 title: "Upstart Intro, Cookbook and Best Practises"
 date: 2012-05-14T13:35:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "upstart-intro-cookbook-and-best-practises"

@@ -1,7 +1,6 @@
 ---
 title: "How Dropbox securely stores your passwords"
 date: 2016-09-24T13:32:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "how-dropbox-securely-stores-your-passwords"

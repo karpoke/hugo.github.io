@@ -1,7 +1,6 @@
 ---
 title: "Solucionado el error «error: nagiosgrapher:1 duplicate log entry for /var/log/nagiosgrapher/ngraph.log»"
 date: 2013-03-20T21:08:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["12.04", "error", "logrotate", "nagios", "nagiosgrapher", "quantal", "quetzal", "ubuntu"]
 slug: "solucionado-el-error-error-nagiosgrapher1-duplicate-log-entry-for-varlognagiosgrapherngraph-log"

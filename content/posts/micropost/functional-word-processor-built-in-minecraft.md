@@ -1,7 +1,6 @@
 ---
 title: "Functional word processor built in Minecraft"
 date: 2015-01-18T22:44:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "functional-word-processor-built-in-minecraft"

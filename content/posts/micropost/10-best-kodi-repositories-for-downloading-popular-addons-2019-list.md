@@ -1,7 +1,6 @@
 ---
 title: "10 Best Kodi Repositories For Downloading Popular Addons | 2019 List"
 date: 2018-08-09T09:24:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "10-best-kodi-repositories-for-downloading-popular-addons-2019-list"

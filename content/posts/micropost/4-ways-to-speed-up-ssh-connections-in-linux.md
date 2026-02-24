@@ -1,7 +1,6 @@
 ---
 title: "4 Ways to Speed Up SSH Connections in Linux"
 date: 2017-11-29T09:57:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "4-ways-to-speed-up-ssh-connections-in-linux"

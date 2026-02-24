@@ -1,7 +1,6 @@
 ---
 title: "The Big Internet Museum"
 date: 2012-12-15T13:15:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "the-big-internet-museum"

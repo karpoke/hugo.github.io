@@ -1,7 +1,6 @@
 ---
 title: "Descifrando al César en Python"
 date: 2011-02-16T03:40:00+01:00
-draft: false
 categories: ["dev"]
 tags: ["ASCII", "cifrado césar", "maketrans", "python", "rot13", "rot47", "translate", "vigenere"]
 slug: "descifrando-al-cesar-en-python"

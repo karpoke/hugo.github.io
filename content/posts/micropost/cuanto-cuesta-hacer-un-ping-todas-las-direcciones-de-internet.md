@@ -1,7 +1,6 @@
 ---
 title: "¿Cuánto cuesta hacer un ping todas las direcciones de Internet?"
 date: 2013-03-13T00:59:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "cuanto-cuesta-hacer-un-ping-todas-las-direcciones-de-internet"

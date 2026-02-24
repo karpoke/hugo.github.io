@@ -1,7 +1,6 @@
 ---
 title: "Cómo la Dama se convirtió en la pieza más poderosa del Ajedrez"
 date: 2015-05-30T08:56:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "como-la-dama-se-convirtio-en-la-pieza-mas-poderosa-del-ajedrez"

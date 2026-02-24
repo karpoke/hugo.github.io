@@ -1,7 +1,6 @@
 ---
 title: "Stealing Data From Computers Using Heat"
 date: 2015-03-23T22:28:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "stealing-data-from-computers-using-heat"

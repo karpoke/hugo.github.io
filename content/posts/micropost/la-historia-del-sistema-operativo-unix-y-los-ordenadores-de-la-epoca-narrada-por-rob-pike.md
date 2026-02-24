@@ -1,7 +1,6 @@
 ---
 title: "La historia del sistema operativo Unix y los ordenadores de la época narrada por Rob Pike"
 date: 2018-11-11T21:47:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "la-historia-del-sistema-operativo-unix-y-los-ordenadores-de-la-epoca-narrada-por-rob-pike"

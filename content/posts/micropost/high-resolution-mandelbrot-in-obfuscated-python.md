@@ -1,7 +1,6 @@
 ---
 title: "High-Resolution Mandelbrot in Obfuscated Python"
 date: 2013-01-06T01:40:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "high-resolution-mandelbrot-in-obfuscated-python"

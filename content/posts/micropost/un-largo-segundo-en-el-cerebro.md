@@ -1,7 +1,6 @@
 ---
 title: "Un largo segundo en el cerebro"
 date: 2012-07-16T19:32:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "un-largo-segundo-en-el-cerebro"

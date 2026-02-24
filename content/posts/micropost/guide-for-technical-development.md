@@ -1,7 +1,6 @@
 ---
 title: "Guide for Technical Development"
 date: 2015-05-30T08:55:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "guide-for-technical-development"

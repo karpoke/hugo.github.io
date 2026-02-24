@@ -1,7 +1,6 @@
 ---
 title: "Recuperar los datos guardados en una sesión livecd"
 date: 2011-05-11T19:28:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["livecd", "mount", "recuperación de información", "usb"]
 slug: "recuperar-los-datos-guardados-en-una-sesion-livecd"

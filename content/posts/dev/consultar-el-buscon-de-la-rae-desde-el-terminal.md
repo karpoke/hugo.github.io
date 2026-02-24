@@ -1,7 +1,6 @@
 ---
 title: "Consultar el buscón de la RAE desde el terminal"
 date: 2012-02-28T01:41:00+01:00
-draft: false
 categories: ["dev"]
 tags: ["autocompletado", "buscón", "cabeceras", "complete", "completion", "curl", "diccionario", "dig", "drae", "elinks", "host", "html2text", "iso-8859-1", "links", "lynx", "nslookup", "panhispánico", "php5-cli", "rae", "script", "time", "useragent", "utf8"]
 slug: "consultar-el-buscon-de-la-rae-desde-el-terminal"

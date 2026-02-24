@@ -1,7 +1,6 @@
 ---
 title: "Daft Punk, el dúo francés que revolucionó la música electrónica"
 date: 2014-11-22T16:10:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "daft-punk-el-duo-frances-que-revoluciono-la-musica-electronica"

@@ -1,7 +1,6 @@
 ---
 title: "The greatest program ever written"
 date: 2015-03-08T13:31:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "the-greatest-program-ever-written"

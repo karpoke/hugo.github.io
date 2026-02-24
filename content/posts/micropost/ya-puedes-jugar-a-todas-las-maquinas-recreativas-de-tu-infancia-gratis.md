@@ -1,7 +1,6 @@
 ---
 title: "Ya puedes jugar a todas las máquinas recreativas de tu infancia gratis"
 date: 2014-12-06T16:30:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "ya-puedes-jugar-a-todas-las-maquinas-recreativas-de-tu-infancia-gratis"

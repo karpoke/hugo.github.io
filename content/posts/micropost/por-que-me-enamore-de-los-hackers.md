@@ -1,7 +1,6 @@
 ---
 title: "Por qué me enamoré de los hackers"
 date: 2012-05-25T23:35:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "por-que-me-enamore-de-los-hackers"

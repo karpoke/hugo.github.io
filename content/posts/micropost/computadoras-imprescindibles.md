@@ -1,7 +1,6 @@
 ---
 title: "Computadoras imprescindibles"
 date: 2015-03-01T11:12:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "computadoras-imprescindibles"

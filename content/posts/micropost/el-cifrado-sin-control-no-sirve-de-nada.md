@@ -1,7 +1,6 @@
 ---
 title: "El cifrado sin control, no sirve de nada"
 date: 2013-03-05T15:23:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "el-cifrado-sin-control-no-sirve-de-nada"

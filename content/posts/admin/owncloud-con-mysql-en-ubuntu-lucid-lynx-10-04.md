@@ -1,7 +1,6 @@
 ---
 title: "ownCloud con MySQL en Ubuntu Lucid Lynx 10.04"
 date: 2012-05-10T16:17:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["10.04", "https", "mysql", "nautilus", "nube", "owncloud", "soberanía de datos", "ubuntu lucid lynx", "webdav"]
 slug: "owncloud-con-mysql-en-ubuntu-lucid-lynx-10-04"

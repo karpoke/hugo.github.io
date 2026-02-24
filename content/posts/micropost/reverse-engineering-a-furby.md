@@ -1,7 +1,6 @@
 ---
 title: "Reverse Engineering a Furby"
 date: 2014-01-18T15:58:00+01:00
-draft: false
 categories: ["micropost"]
 tags: ["Furby", "ingeniería inversa", "EEPROM", "I2C", "microscopio electrónico de barrido"]
 slug: "reverse-engineering-a-furby"

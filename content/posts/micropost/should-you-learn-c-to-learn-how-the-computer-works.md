@@ -1,7 +1,6 @@
 ---
 title: "Should you learn C to “learn how the computer works”?"
 date: 2018-10-04T06:24:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "should-you-learn-c-to-learn-how-the-computer-works"

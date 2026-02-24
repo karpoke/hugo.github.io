@@ -1,7 +1,6 @@
 ---
 title: "Instalación de un nuevo kernel PPA en Ubuntu"
 date: 2012-01-26T12:19:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["deb", "kernel", "module-init-tools", "pae", "ppa", "precompilado", "script", "ubuntu"]
 slug: "instalacion-de-un-nuevo-kernel-ppa-en-ubuntu"

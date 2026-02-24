@@ -1,7 +1,6 @@
 ---
 title: "Linux: The 0.01 Release"
 date: 2012-06-16T18:47:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "linux-the-0-01-release"

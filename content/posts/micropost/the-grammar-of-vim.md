@@ -1,7 +1,6 @@
 ---
 title: "The grammar of VIM"
 date: 2012-05-14T14:33:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "the-grammar-of-vim"

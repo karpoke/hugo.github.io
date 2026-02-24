@@ -1,7 +1,6 @@
 ---
 title: "Actualizar nuestra IP en el panel de OpenDNS"
 date: 2016-12-03T14:32:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["ddclient", "OpenDNS", "OpenDNS Home", "IP dinámica", "dnsomatic"]
 slug: "actualizar-nuestra-ip-en-el-panel-de-opendns"

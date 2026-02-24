@@ -1,7 +1,6 @@
 ---
 title: "Command-line Forensics of hacked PHP.net"
 date: 2013-11-05T12:55:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "command-line-forensics-of-hacked-php-net"

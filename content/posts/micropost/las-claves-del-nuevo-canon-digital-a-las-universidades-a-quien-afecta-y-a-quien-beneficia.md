@@ -1,7 +1,6 @@
 ---
 title: "Las claves del nuevo canon digital a las universidades: ¿a quién afecta y a quién beneficia?"
 date: 2013-03-20T23:20:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "las-claves-del-nuevo-canon-digital-a-las-universidades-a-quien-afecta-y-a-quien-beneficia"

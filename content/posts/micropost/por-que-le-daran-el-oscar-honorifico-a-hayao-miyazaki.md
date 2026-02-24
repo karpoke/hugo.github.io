@@ -1,7 +1,6 @@
 ---
 title: "¿Por qué le darán el Oscar Honorífico a Hayao Miyazaki?"
 date: 2014-12-07T08:10:00+01:00
-draft: false
 categories: ["micropost"]
 tags: ["Hayao Miyazaki", "óscar honorífico 2015", "Studio Ghibli"]
 slug: "por-que-le-daran-el-oscar-honorifico-a-hayao-miyazaki"

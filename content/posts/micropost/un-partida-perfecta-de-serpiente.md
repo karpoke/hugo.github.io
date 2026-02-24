@@ -1,7 +1,6 @@
 ---
 title: "Una partida ’perfecta’ de Serpiente"
 date: 2013-04-29T13:13:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "una-partida-perfecta-de-serpiente"

@@ -1,7 +1,6 @@
 ---
 title: "Attack of the week: FREAK (or ’factoring the NSA for fun and profit’)"
 date: 2015-03-05T22:19:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "attack-of-the-week-freak-or-factoring-the-nsa-for-fun-and-profit"

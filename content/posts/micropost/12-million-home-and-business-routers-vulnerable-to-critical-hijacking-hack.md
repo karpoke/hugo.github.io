@@ -1,7 +1,6 @@
 ---
 title: "12 million home and business routers vulnerable to critical hijacking hack"
 date: 2014-12-21T12:11:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "12-million-home-and-business-routers-vulnerable-to-critical-hijacking-hack"

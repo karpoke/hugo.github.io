@@ -1,7 +1,6 @@
 ---
 title: "Abrir enlaces externos en una ventana nueva en segundo plano usando jQuery"
 date: 2012-05-13T00:58:00+01:00
-draft: false
 categories: ["dev"]
 tags: ["chromium", "firefox", "javascript", "jQuery", "target", "xhtml strict"]
 slug: "abrir-enlaces-externos-en-una-ventana-nueva-en-segundo-plano-usando-jquery"

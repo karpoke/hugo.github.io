@@ -1,7 +1,6 @@
 ---
 title: "5 Ways to Hack MySQL Login Password"
 date: 2018-03-08T17:05:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "5-ways-to-hack-mysql-login-password"

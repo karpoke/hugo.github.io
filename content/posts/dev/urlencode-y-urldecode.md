@@ -1,7 +1,6 @@
 ---
 title: "urlencode y urldecode"
 date: 2011-03-06T17:45:00+01:00
-draft: false
 categories: ["dev"]
 tags: ["alias", "ASCII", "escape", "perl", "rfc3986", "sed", "uri", "uri_escape", "url", "urldec", "urlenc"]
 slug: "urlencode-y-urldecode"

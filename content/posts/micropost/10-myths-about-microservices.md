@@ -1,7 +1,6 @@
 ---
 title: "10 Myths About Microservices"
 date: 2018-12-25T07:06:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "10-myths-about-microservices"

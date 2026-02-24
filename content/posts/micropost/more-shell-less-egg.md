@@ -1,7 +1,6 @@
 ---
 title: "More shell, less egg"
 date: 2015-01-21T21:23:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "more-shell-less-egg"

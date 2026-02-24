@@ -1,7 +1,6 @@
 ---
 title: "Conectarse por SSH sólo usando la clave"
 date: 2011-03-03T21:22:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["authorized_keys", "cambiar contraseña", "clave pública", "contraseña", "fingerprint", "generar claves ssh", "id_rsa", "id_rsa.pub", "openssh", "randomart", "rsa", "ssh", "ssh-copy-id", "ssh-keygen"]
 slug: "conectarse-por-ssh-solo-usando-la-clave"

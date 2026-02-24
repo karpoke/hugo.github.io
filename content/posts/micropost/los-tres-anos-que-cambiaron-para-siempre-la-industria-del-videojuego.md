@@ -1,7 +1,6 @@
 ---
 title: "Los tres años que cambiaron para siempre la industria del videojuego"
 date: 2016-09-18T15:47:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "los-tres-anos-que-cambiaron-para-siempre-la-industria-del-videojuego"

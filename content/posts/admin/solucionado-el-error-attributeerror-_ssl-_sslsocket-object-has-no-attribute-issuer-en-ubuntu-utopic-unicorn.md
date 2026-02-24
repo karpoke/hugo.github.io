@@ -1,7 +1,6 @@
 ---
 title: "Solucionado el error «AttributeError: '_ssl._SSLSocket' object has no attribute 'issuer'» en Ubuntu Utopic Unicorn"
 date: 2015-02-03T00:50:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["14.10", "patch", "python-xmpp", "ubuntu utopic unicorn", "wget"]
 slug: "solucionado-el-error-attributeerror-_ssl-_sslsocket-object-has-no-attribute-issuer-en-ubuntu-utopic-unicorn"

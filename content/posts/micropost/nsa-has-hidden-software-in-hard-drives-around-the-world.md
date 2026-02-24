@@ -1,7 +1,6 @@
 ---
 title: "NSA has hidden software in hard drives around the world"
 date: 2015-02-23T22:04:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "nsa-has-hidden-software-in-hard-drives-around-the-world"

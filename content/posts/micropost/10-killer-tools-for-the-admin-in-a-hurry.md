@@ -1,7 +1,6 @@
 ---
 title: "10 killer tools for the admin in a hurry"
 date: 2018-07-04T09:16:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "10-killer-tools-for-the-admin-in-a-hurry"

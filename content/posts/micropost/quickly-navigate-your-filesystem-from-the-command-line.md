@@ -1,7 +1,6 @@
 ---
 title: "Quickly navigate your filesystem from the command-line"
 date: 2014-09-07T10:44:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "quickly-navigate-your-filesystem-from-the-command-line"

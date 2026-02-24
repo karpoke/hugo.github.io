@@ -1,7 +1,6 @@
 ---
 title: "The Exceptional Beauty of Doom 3’s Source Code"
 date: 2015-02-08T19:25:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "the-exceptional-beauty-of-doom-3s-source-code"

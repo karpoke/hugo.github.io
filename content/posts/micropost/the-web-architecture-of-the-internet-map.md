@@ -1,7 +1,6 @@
 ---
 title: "The web architecture of The Internet map"
 date: 2012-08-08T18:04:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "the-web-architecture-of-the-internet-map"

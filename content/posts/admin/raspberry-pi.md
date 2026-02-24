@@ -1,7 +1,6 @@
 ---
 title: "Raspberry Pi"
 date: 2012-06-21T13:47:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["arduino", "debian", "fedora", "parted", "raspberry pi", "squeeze", "tarjeta SD", "ubuntu"]
 slug: "raspberry-pi"

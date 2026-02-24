@@ -1,7 +1,6 @@
 ---
 title: "Las primeras programadoras"
 date: 2013-03-31T16:22:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "las-primeras-programadoras"

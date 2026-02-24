@@ -1,7 +1,6 @@
 ---
 title: "El salto de Felix Baumgartner en Python"
 date: 2012-10-15T20:15:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "el-salto-de-felix-baumgartner-en-python"

@@ -1,7 +1,6 @@
 ---
 title: "The Visual 6502"
 date: 2015-04-08T21:34:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "the-visual-6502"

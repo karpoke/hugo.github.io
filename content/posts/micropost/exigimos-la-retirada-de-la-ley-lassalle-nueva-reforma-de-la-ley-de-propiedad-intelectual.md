@@ -1,7 +1,6 @@
 ---
 title: "Exigimos la retirada de la Ley Lassalle (nueva reforma de la Ley de Propiedad Intelectual)"
 date: 2013-03-21T00:00:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "exigimos-la-retirada-de-la-ley-lassalle-nueva-reforma-de-la-ley-de-propiedad-intelectual"

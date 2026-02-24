@@ -1,7 +1,6 @@
 ---
 title: "Symfony en Ubuntu Lucid Lynx 10.04"
 date: 2012-06-03T03:59:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["10.04", "apache", "csrf", "framework", "lampp", "mvc", "mysql", "php", "symfony", "ubuntu lucid lynx", "xss"]
 slug: "symfony-en-ubuntu-lucid-lynx-10-04"

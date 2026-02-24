@@ -1,7 +1,6 @@
 ---
 title: "Why the Security of USB Is Fundamentally Broken"
 date: 2014-08-02T11:20:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "why-the-security-of-usb-is-fundamentally-broken"

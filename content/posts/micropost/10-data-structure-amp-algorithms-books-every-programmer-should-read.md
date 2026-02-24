@@ -1,7 +1,6 @@
 ---
 title: "10 Data Structure &amp; Algorithms Books Every Programmer Should Read"
 date: 2019-06-21T15:11:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "10-data-structure-amp-algorithms-books-every-programmer-should-read"

@@ -1,7 +1,6 @@
 ---
 title: "Nyan Cat Telnet Server"
 date: 2012-08-20T18:53:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "nyan-cat-telnet-server"

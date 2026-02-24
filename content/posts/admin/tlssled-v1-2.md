@@ -1,7 +1,6 @@
 ---
 title: "TLSSLed v1.2"
 date: 2011-10-23T15:45:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["openssl", "script", "ssl", "tlssled"]
 slug: "tlssled-v1-2"

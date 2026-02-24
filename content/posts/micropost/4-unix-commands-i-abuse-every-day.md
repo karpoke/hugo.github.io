@@ -1,7 +1,6 @@
 ---
 title: "4 unix commands I abuse every day"
 date: 2012-09-06T18:05:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "4-unix-commands-i-abuse-every-day"

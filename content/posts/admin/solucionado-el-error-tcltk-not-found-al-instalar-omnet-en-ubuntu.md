@@ -1,7 +1,6 @@
 ---
 title: 'Solucionado el error "Tcl/Tk not found" al instalar OMNeT++ en Ubuntu'
 date: 2011-02-21T14:37:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["10.10", "configure", "make", "omnetpp", "simulador de redes", "ssh", "tck/tk", "ubuntu maverick meerkat"]
 slug: "solucionado-el-error-tcltk-not-found-al-instalar-omnet-en-ubuntu"

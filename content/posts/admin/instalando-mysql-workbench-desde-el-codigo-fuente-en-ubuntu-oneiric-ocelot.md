@@ -1,7 +1,6 @@
 ---
 title: "Instalando MySQL Workbench desde el código fuente en Ubuntu Oneiric Ocelot"
 date: 2012-01-10T16:16:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["11.10", "código fuente", "msql workbench", "ubuntu oneiric ocelot"]
 slug: "instalando-mysql-workbench-desde-el-codigo-fuente-en-ubuntu-oneiric-ocelot"

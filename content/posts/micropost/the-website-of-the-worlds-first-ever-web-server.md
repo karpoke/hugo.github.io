@@ -1,7 +1,6 @@
 ---
 title: "The website of the world’s first-ever web server"
 date: 2012-08-06T03:11:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "the-website-of-the-worlds-first-ever-web-server"

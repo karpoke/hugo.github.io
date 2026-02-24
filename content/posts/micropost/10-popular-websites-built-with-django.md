@@ -1,7 +1,6 @@
 ---
 title: "10 Popular Websites Built With Django"
 date: 2019-05-28T19:14:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "10-popular-websites-built-with-django"

@@ -1,7 +1,6 @@
 ---
 title: "La obra de M. C. Escher en la cultura popular"
 date: 2013-03-28T19:46:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "la-obra-de-m-c-escher-en-la-cultura-popular"

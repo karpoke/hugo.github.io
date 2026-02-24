@@ -1,7 +1,6 @@
 ---
 title: "BIOS Based Rootkits"
 date: 2013-06-14T23:06:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "bios-based-rootkits"

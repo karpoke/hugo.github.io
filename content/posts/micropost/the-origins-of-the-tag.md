@@ -1,7 +1,6 @@
 ---
 title: "The Origins of the  Tag"
 date: 2014-12-30T23:11:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "the-origins-of-the-tag"

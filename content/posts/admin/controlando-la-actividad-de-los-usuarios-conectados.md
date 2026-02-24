@@ -1,7 +1,6 @@
 ---
 title: "Controlando la actividad de los usuarios conectados"
 date: 2011-08-01T12:51:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["bofh", "byobu", "DISPLAY", "finger", "fingerprint", "id", "last", "lastlog", "screen", "tac", "terminales virtuales", "w", "whatch", "who", "whoami", "whowatch"]
 slug: "controlando-la-actividad-de-los-usuarios-conectados"

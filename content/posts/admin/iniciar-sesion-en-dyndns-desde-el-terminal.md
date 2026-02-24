@@ -1,7 +1,6 @@
 ---
 title: "Iniciar sesión en DynDNS desde el terminal"
 date: 2013-06-10T01:00:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["dominio dinámico", "dyndns", "mechanize", "python", "script"]
 slug: "iniciar-sesion-en-dyndns-desde-el-terminal"

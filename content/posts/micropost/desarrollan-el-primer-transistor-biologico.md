@@ -1,7 +1,6 @@
 ---
 title: "Desarrollan el primer transistor biológico"
 date: 2013-04-05T23:47:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "desarrollan-el-primer-transistor-biologico"

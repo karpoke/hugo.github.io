@@ -1,7 +1,6 @@
 ---
 title: "Piratería: cuando la mentira repetida mil veces se convierte en verdad"
 date: 2015-04-06T15:14:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "pirateria-cuando-la-mentira-repetida-mil-veces-se-convierte-en-verdad"

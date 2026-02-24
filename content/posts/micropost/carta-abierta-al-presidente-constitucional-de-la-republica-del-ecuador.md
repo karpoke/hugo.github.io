@@ -1,7 +1,6 @@
 ---
 title: "Carta abierta al Presidente Constitucional de la República del Ecuador"
 date: 2012-06-26T17:44:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "carta-abierta-al-presidente-constitucional-de-la-republica-del-ecuador"

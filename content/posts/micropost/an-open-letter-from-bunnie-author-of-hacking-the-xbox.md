@@ -1,7 +1,6 @@
 ---
 title: "An open letter from bunnie, author of Hacking the Xbox"
 date: 2013-03-15T02:06:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "an-open-letter-from-bunnie-author-of-hacking-the-xbox"

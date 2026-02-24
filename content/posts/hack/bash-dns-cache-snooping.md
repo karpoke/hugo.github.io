@@ -1,7 +1,6 @@
 ---
 title: "Bash DNS Cache Snooping"
 date: 2010-09-25T04:21:00+01:00
-draft: false
 categories: ["hack"]
 tags: ["dig", "dns cache snooping", "identificación de servicios", "nslookup", "script"]
 slug: "bash-dns-cache-snooping"

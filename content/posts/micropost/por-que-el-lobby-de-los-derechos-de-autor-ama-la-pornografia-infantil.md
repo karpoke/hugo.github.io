@@ -1,7 +1,6 @@
 ---
 title: "Por qué el lobby de los derechos de autor ama la pornografía infantil"
 date: 2012-05-27T13:12:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "por-que-el-lobby-de-los-derechos-de-autor-ama-la-pornografia-infantil"

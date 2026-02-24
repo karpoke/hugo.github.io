@@ -1,7 +1,6 @@
 ---
 title: "10 curiosidades del idioma español"
 date: 2017-12-08T16:07:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "10-curiosidades-del-idioma-espanol"

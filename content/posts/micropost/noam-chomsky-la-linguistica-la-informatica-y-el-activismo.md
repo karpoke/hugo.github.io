@@ -1,7 +1,6 @@
 ---
 title: "Noam Chomsky. La lingüistica, la informática y el activismo"
 date: 2012-12-18T17:05:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "noam-chomsky-la-linguistica-la-informatica-y-el-activismo"

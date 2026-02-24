@@ -1,7 +1,6 @@
 ---
 title: "Which Are More Legible: Serif or Sans Serif Typefaces?"
 date: 2012-08-27T21:12:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "which-are-more-legible-serif-or-sans-serif-typefaces"

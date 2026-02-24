@@ -1,7 +1,6 @@
 ---
 title: "Visualization of Regular Expression Character Classes"
 date: 2013-03-26T20:52:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "visualization-of-regular-expression-character-classes"

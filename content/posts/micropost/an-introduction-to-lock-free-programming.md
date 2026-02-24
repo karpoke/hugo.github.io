@@ -1,7 +1,6 @@
 ---
 title: "An Introduction to Lock-Free Programming"
 date: 2012-06-27T23:58:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "an-introduction-to-lock-free-programming"

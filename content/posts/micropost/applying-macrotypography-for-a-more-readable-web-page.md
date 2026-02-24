@@ -1,7 +1,6 @@
 ---
 title: "Applying Macrotypography For A More Readable Web Page"
 date: 2012-05-28T01:32:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "applying-macrotypography-for-a-more-readable-web-page"

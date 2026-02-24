@@ -1,7 +1,6 @@
 ---
 title: "CSRF en las búsquedas de Google"
 date: 2010-12-13T14:31:00+01:00
-draft: false
 categories: ["hack"]
 tags: ["csrf", "google"]
 slug: "csrf-en-las-busquedas-de-google"

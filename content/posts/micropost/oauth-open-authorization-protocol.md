@@ -1,7 +1,6 @@
 ---
 title: "OAuth - Open Authorization Protocol"
 date: 2012-06-04T14:14:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "oauth-open-authorization-protocol"

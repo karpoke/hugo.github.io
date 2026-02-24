@@ -1,7 +1,6 @@
 ---
 title: "Cables HDMI, la verdadera diferencia entre un cable caro y barato"
 date: 2012-05-23T00:00:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "cables-hdmi-la-verdadera-diferencia-entre-un-cable-caro-y-barato"

@@ -1,7 +1,6 @@
 ---
 title: "Vim: revisited"
 date: 2012-05-20T03:56:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "vim-revisited"

@@ -1,7 +1,6 @@
 ---
 title: "Hype Driven Development"
 date: 2016-11-25T20:29:00+01:00
-draft: false
 categories: ["micropost"]
 tags: ["hdd", "nuevas tecnologías", "modas pasajeras", "bombo y platillo"]
 slug: "hype-driven-development"

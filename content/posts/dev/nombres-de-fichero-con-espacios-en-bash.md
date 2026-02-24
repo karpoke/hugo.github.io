@@ -1,7 +1,6 @@
 ---
 title: "Nombres de fichero con espacios en Bash"
 date: 2011-05-11T20:47:00+01:00
-draft: false
 categories: ["dev"]
 tags: ["find"]
 slug: "nombres-de-fichero-con-espacios-en-bash"

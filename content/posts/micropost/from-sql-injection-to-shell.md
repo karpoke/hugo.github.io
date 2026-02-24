@@ -1,7 +1,6 @@
 ---
 title: "From SQL injection to shell"
 date: 2012-10-08T13:00:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "from-sql-injection-to-shell"

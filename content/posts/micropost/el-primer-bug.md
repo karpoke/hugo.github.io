@@ -1,7 +1,6 @@
 ---
 title: "El primer ’bug’"
 date: 2014-09-09T19:12:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "el-primer-bug"

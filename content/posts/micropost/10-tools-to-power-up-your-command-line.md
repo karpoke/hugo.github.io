@@ -1,7 +1,6 @@
 ---
 title: "10 Tools To Power Up Your Command Line"
 date: 2019-01-04T15:35:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "10-tools-to-power-up-your-command-line"

@@ -1,7 +1,6 @@
 ---
 title: "Hacking my vagina"
 date: 2012-12-15T16:06:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "hacking-my-vagina"

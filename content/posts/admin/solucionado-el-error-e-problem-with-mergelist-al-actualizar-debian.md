@@ -1,7 +1,6 @@
 ---
 title: 'Solucionado el error "E: Problem with MergeList" al actualizar Debian'
 date: 2011-03-17T11:11:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["almacén de paquetes", "aptitude", "debian", "mergelist", "sid", "update", "wheezy"]
 slug: "solucionado-el-error-e-problem-with-mergelist-al-actualizar-debian"

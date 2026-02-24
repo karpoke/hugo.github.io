@@ -1,7 +1,6 @@
 ---
 title: "El algoritmo de Dios"
 date: 2012-06-28T12:15:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "el-algoritmo-de-dios"

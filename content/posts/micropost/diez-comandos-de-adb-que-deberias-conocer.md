@@ -1,7 +1,6 @@
 ---
 title: "Diez comandos de ADB que deberías conocer"
 date: 2013-02-09T15:29:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "diez-comandos-de-adb-que-deberias-conocer"

@@ -1,7 +1,6 @@
 ---
 title: "The History of Encryption"
 date: 2012-05-28T01:39:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "the-history-of-encryption"

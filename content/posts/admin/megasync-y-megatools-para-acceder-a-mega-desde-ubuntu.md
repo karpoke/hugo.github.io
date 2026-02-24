@@ -1,7 +1,6 @@
 ---
 title: "MegaSync y Megatools para acceder a Mega desde Ubuntu"
 date: 2015-01-27T21:43:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["14.04", "apt-key", "checkinstall", "fuse", "gpg", "importar claves públicas", "ldconfig", "libcrypto++9", "mega", "megadf", "megadl", "megafs", "megaget", "megals", "megamkdir", "megamv", "megaput", "megareg", "megarm", "megastream", "megasync", "megatools", "megaupload", "nube", "ppa", "ubuntu trusty tahr", "verificar un paquete firmado"]
 slug: "megasync-y-megatools-para-acceder-a-mega-desde-ubuntu"

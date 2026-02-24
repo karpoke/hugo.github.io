@@ -1,7 +1,6 @@
 ---
 title: "10 libros de seguridad informática para regalar estas navidades"
 date: 2017-12-22T11:10:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "10-libros-de-seguridad-informatica-para-regalar-estas-navidades"

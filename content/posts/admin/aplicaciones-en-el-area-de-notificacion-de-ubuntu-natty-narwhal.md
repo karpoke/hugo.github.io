@@ -1,7 +1,6 @@
 ---
 title: "Aplicaciones en el área de notificación de Ubuntu Natty Narwhal"
 date: 2011-05-12T11:57:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["11.04", "11.10", "área de notificación", "dropbox", "gsettings", "ubuntu natty narwhal", "ubuntu oneiric ocelot", "unity"]
 slug: "aplicaciones-en-el-area-de-notificacion-de-ubuntu-natty-narwhal"

@@ -1,7 +1,6 @@
 ---
 title: "Conectar de forma segura en redes abiertas con Android, ConnectBot y ProxyDroid"
 date: 2012-07-24T14:02:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["android", "connectbot", "proxy", "proxy transparente", "proxydroid", "seguridad en redes inalámbricas", "ssh", "túnel ssh"]
 slug: "conectar-de-forma-segura-en-redes-abiertas-con-android-connectbot-y-proxydroid"

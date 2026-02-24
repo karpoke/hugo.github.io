@@ -1,7 +1,6 @@
 ---
 title: "Túnel SSH inverso"
 date: 2011-09-30T18:03:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["2FA", "contraseña de un solo uso", "OTP", "ssh", "túnel inverso", "verificación en dos pasos"]
 slug: "tunel-ssh-inverso"

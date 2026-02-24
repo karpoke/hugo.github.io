@@ -1,7 +1,6 @@
 ---
 title: "La polémica SystemD"
 date: 2016-06-05T20:08:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "la-polemica-systemd"

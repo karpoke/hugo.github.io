@@ -1,7 +1,6 @@
 ---
 title: "The Mathematics of Autism"
 date: 2012-07-24T19:02:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "the-mathematics-of-autism"

@@ -1,7 +1,6 @@
 ---
 title: "Un ejército de ’frikis’ contra Telefónica"
 date: 2014-01-07T01:19:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "un-ejercito-de-frikis-contra-telefonica"

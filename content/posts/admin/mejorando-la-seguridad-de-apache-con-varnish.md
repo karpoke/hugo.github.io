@@ -1,7 +1,6 @@
 ---
 title: "Mejorando la seguridad de Apache con Varnish"
 date: 2011-05-26T19:39:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["apache", "cabeceras HTTP", "seguridad por oscuridad", "servidor http", "varnish", "w00tw00t"]
 slug: "mejorando-la-seguridad-de-apache-con-varnish"

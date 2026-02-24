@@ -1,7 +1,6 @@
 ---
 title: "Random Bash"
 date: 2010-09-25T00:54:00+01:00
-draft: false
 categories: ["dev"]
 tags: ["/dev/random", "/dev/urandom", "/proc/interrupts", "aleatoriedad", "contraseña aleatoria", "dd", "generar entropía", "mac aleatoria", "makepasswd", "md5sum", "mkpasswd", "od", "openssl", "pwgen", "rng-tools", "sha1sum", "sha224sum", "sha256sum", "sha384sum", "sha512sum", "shuf", "strings", "tr", "xxd"]
 slug: "random-bash"

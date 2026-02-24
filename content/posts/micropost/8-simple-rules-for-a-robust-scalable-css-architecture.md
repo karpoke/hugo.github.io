@@ -1,7 +1,6 @@
 ---
 title: "8 simple rules for a robust, scalable CSS architecture"
 date: 2016-11-01T14:43:00+01:00
-draft: false
 categories: ["micropost"]
 tags: ["CSS", "arquitectura", "escalabilidad", "orientación a componentes"]
 slug: "8-simple-rules-for-a-robust-scalable-css-architecture"

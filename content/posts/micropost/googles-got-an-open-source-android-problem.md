@@ -1,7 +1,6 @@
 ---
 title: "Google’s Got an Open Source Android Problem"
 date: 2014-09-14T16:41:00+01:00
-draft: false
 categories: ["micropost"]
 tags: ["Google", "Android", "fragmentación", "código abierto", "código libre"]
 slug: "googles-got-an-open-source-android-problem"

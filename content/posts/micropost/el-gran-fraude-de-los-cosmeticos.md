@@ -1,7 +1,6 @@
 ---
 title: "El gran fraude de los cosméticos"
 date: 2012-08-17T12:53:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "el-gran-fraude-de-los-cosmeticos"

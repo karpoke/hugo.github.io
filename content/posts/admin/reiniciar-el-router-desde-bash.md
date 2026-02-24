@@ -1,7 +1,6 @@
 ---
 title: "Reiniciar el router desde el terminal"
 date: 2012-02-09T21:36:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["comtrend", "expect", "ip", "router", "script", "telnet", "vr-3025u", "yad"]
 slug: "reiniciar-el-router-desde-bash"

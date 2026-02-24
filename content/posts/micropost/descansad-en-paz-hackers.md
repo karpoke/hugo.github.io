@@ -1,7 +1,6 @@
 ---
 title: "Descansad en paz, hackers."
 date: 2013-11-17T13:55:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "descansad-en-paz-hackers"

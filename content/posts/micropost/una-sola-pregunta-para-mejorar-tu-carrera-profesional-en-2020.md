@@ -1,7 +1,6 @@
 ---
 title: "Una sola pregunta para mejorar tu carrera profesional en 2020"
 date: 2019-12-26T16:49:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "una-sola-pregunta-para-mejorar-tu-carrera-profesional-en-2020"

@@ -1,7 +1,6 @@
 ---
 title: "Reflections on Trusting Trust"
 date: 2014-08-15T08:05:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "reflections-on-trusting-trust"

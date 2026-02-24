@@ -1,7 +1,6 @@
 ---
 title: "Opciones adicionales para trabajar con tablas vinculadas en phpMyAdmin"
 date: 2012-05-10T12:26:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["consultas sql", "mysql", "phpMyAdmin", "pmadb", "seguimiento", "tablas vinculadas", "tracking"]
 slug: "opciones-adicionales-para-trabajar-con-tablas-vinculadas-en-phpmyadmin"

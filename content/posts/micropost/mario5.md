@@ -1,7 +1,6 @@
 ---
 title: "Mario5"
 date: 2012-06-21T19:58:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "mario5"

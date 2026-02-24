@@ -1,7 +1,6 @@
 ---
 title: "Well, Actually"
 date: 2012-09-10T17:25:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "well-actually"

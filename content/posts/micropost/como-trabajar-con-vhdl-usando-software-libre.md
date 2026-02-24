@@ -1,7 +1,6 @@
 ---
 title: "Cómo trabajar con vhdl usando software libre"
 date: 2012-12-15T19:25:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "como-trabajar-con-vhdl-usando-software-libre"

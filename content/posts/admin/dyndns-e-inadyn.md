@@ -1,7 +1,6 @@
 ---
 title: "Dyndns e inadyn"
 date: 2010-12-11T03:29:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["dyndns", "inadyn", "terminus"]
 slug: "dyndns-e-inadyn"

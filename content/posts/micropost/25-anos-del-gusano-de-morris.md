@@ -1,7 +1,6 @@
 ---
 title: "25 años del gusano de Morris"
 date: 2013-11-02T13:00:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "25-anos-del-gusano-de-morris"

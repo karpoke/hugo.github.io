@@ -1,7 +1,6 @@
 ---
 title: "Why ‘print’ became a function in Python 3"
 date: 2016-01-31T16:22:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "why-print-became-a-function-in-python-3"

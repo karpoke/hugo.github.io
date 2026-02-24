@@ -1,7 +1,6 @@
 ---
 title: "Ten Simple Rules for the Open Development of Scientific Software"
 date: 2012-12-16T14:44:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "ten-simple-rules-for-the-open-development-of-scientific-software"

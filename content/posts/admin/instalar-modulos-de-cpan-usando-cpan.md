@@ -1,7 +1,6 @@
 ---
 title: "Instalar módulos de CPAN usando CPAN"
 date: 2011-07-22T02:45:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["aptitude", "cpan", "local::lib", "módulos", "perl"]
 slug: "instalar-modulos-de-cpan-usando-cpan"

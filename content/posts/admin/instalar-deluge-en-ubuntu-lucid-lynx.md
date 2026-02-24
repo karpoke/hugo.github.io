@@ -1,7 +1,6 @@
 ---
 title: "Instalar deluge en Ubuntu Lucid Lynx"
 date: 2012-02-09T02:31:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["10.04", "bittorrent", "daemon", "deluge", "p2p", "script", "torrent", "ubuntu lucid lyns", "ufw", "web"]
 slug: "instalar-deluge-en-ubuntu-lucid-lynx"

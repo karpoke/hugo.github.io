@@ -1,7 +1,6 @@
 ---
 title: "Configurar sSMTP para enviar correo mediante GMail desde el terminal"
 date: 2012-01-14T13:50:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["bsd-mailx", "cabeceras SMTP", "gmail", "mail", "sendmail", "sSMTP"]
 slug: "configurar-ssmtp-para-enviar-correo-mediante-gmail-desde-el-terminal"

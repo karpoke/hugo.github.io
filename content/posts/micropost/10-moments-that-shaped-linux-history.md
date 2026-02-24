@@ -1,7 +1,6 @@
 ---
 title: "10 moments that shaped Linux history"
 date: 2019-04-30T09:01:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "10-moments-that-shaped-linux-history"

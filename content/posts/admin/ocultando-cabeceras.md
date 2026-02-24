@@ -1,7 +1,6 @@
 ---
 title: "Ocultando cabeceras"
 date: 2011-03-12T14:26:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["cabeceras HTTP", "expose_php", "php", "seguridad por oscuridad", "serversignature", "servertokens"]
 slug: "ocultando-cabeceras"

@@ -1,7 +1,6 @@
 ---
 title: "Introduction to text manipulation on UNIX-based systems"
 date: 2012-07-31T15:03:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "introduction-to-text-manipulation-on-unix-based-systems"

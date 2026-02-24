@@ -1,7 +1,6 @@
 ---
 title: "WhatsApp is using IMEI numbers as passwords"
 date: 2012-09-07T10:56:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "whatsapp-is-using-imei-numbers-as-passwords"

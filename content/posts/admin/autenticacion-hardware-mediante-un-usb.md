@@ -1,7 +1,6 @@
 ---
 title: "Autenticación hardware mediante un USB"
 date: 2012-09-30T13:06:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["12.04", "2FA", "autenticación", "doble autenticación", "token", "ubuntu precise pangolin", "verificación en dos pasos"]
 slug: "autenticacion-hardware-mediante-un-usb"

@@ -1,7 +1,6 @@
 ---
 title: "The Humble Programmer"
 date: 2012-07-26T23:07:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "the-humble-programmer"

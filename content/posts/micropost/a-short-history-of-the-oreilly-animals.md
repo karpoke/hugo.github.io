@@ -1,7 +1,6 @@
 ---
 title: "A Short History of the O’Reilly Animals"
 date: 2013-06-01T00:06:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "a-short-history-of-the-oreilly-animals"

@@ -1,7 +1,6 @@
 ---
 title: "The curious case of the switch statement"
 date: 2016-09-22T08:31:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "the-curious-case-of-the-switch-statement"

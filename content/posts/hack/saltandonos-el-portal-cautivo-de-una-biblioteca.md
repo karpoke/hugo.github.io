@@ -1,7 +1,6 @@
 ---
 title: "Saltándonos el portal cautivo de una biblioteca"
 date: 2012-05-15T14:06:00+01:00
-draft: false
 categories: ["hack"]
 tags: ["firefox", "nslookup", "portal cautivo", "proxy socks", "socksv5", "ssh"]
 slug: "saltandonos-el-portal-cautivo-de-una-biblioteca"

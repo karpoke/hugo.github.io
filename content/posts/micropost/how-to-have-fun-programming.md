@@ -1,7 +1,6 @@
 ---
 title: "How to Have Fun Programming"
 date: 2012-06-03T13:00:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "how-to-have-fun-programming"

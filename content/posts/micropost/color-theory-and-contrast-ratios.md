@@ -1,7 +1,6 @@
 ---
 title: "Color Theory and Contrast Ratios"
 date: 2019-12-26T16:31:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "color-theory-and-contrast-ratios"

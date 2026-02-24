@@ -1,7 +1,6 @@
 ---
 title: "The Feynman Lectures on Physics, completely online"
 date: 2014-08-30T11:56:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "the-feynman-lectures-on-physics-completely-online"

@@ -1,7 +1,6 @@
 ---
 title: "EL CASO DE AARON SWARTZ"
 date: 2013-01-13T13:59:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "el-caso-de-aaron-swartz"

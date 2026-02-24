@@ -1,7 +1,6 @@
 ---
 title: "Álbum para celebrar los 30 años de la FAMICOM/NES"
 date: 2013-12-15T15:27:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "album-para-celebrar-los-30-anos-de-la-famicomnes"

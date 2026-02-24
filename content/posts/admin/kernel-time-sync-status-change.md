@@ -1,7 +1,6 @@
 ---
 title: "kernel time sync status change"
 date: 2011-01-07T06:04:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["logcheck", "ntp"]
 slug: "kernel-time-sync-status-change"

@@ -1,7 +1,6 @@
 ---
 title: "Personalizando el arranque gráfico en Ubuntu Maverirk Meerkat"
 date: 2011-01-18T06:55:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["10.10", "arranque gráfico", "grub2 splash", "plymouth themes", "ubuntu maverick meerkat"]
 slug: "personalizando-el-arranque-grafico-en-ubuntu-maverirk-meerkat"

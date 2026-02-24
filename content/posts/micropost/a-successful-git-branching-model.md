@@ -1,7 +1,6 @@
 ---
 title: "A successful Git branching model"
 date: 2012-12-16T14:46:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "a-successful-git-branching-model"

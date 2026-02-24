@@ -1,7 +1,6 @@
 ---
 title: "10 Lessons from 10 Years of AWS (part 1)"
 date: 2018-01-10T20:32:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "10-lessons-from-10-years-of-aws-part-1"

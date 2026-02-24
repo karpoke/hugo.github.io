@@ -1,7 +1,6 @@
 ---
 title: "setuid y setgid"
 date: 2011-02-28T14:33:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["c", "chmod", "find", "gcc", "getegid", "geteuid", "getgid", "getuid", "gid efectivo", "gid real", "id", "sticky bit", "uid efectivo", "uid real"]
 slug: "setuid-y-setgid"

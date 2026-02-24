@@ -1,7 +1,6 @@
 ---
 title: "Enviar y reicibir notificaciones de Telegram desde la línea de comandos"
 date: 2014-05-31T13:27:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["alias", "awk", "expect", "LUA", "notify-send", "script", "telegram", "tg"]
 slug: "enviar-y-reicibir-notificaciones-de-telegram-desde-la-linea-de-comandos"

@@ -1,7 +1,6 @@
 ---
 title: "Cómo medir la eficiencia energética de tu propio coche"
 date: 2012-07-14T18:27:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "como-medir-la-eficiencia-energetica-de-tu-propio-coche"

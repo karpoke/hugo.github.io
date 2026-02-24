@@ -1,7 +1,6 @@
 ---
 title: "Lynis para auditorías de seguridad"
 date: 2012-07-14T19:23:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["auditoría", "Basel II", "cron", "escáner de vulnerabilidades", "GLBA", "HIPAA", "malware", "PCI DSS", "SOX", "wget", "apt-key"]
 slug: "lynis-para-auditorias-de-seguridad"

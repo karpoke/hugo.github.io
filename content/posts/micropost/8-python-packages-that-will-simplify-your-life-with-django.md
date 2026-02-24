@@ -1,7 +1,6 @@
 ---
 title: "8 Python packages that will simplify your life with Django"
 date: 2018-09-21T09:13:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "8-python-packages-that-will-simplify-your-life-with-django"

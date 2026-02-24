@@ -1,7 +1,6 @@
 ---
 title: "Benchmarking de un servidor web"
 date: 2012-05-10T19:47:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["ab", "apache", "benchmarking", "minería de datos"]
 slug: "benchmarking-de-un-servidor-web"

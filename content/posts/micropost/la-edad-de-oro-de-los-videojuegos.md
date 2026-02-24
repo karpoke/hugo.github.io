@@ -1,7 +1,6 @@
 ---
 title: "La edad de Oro de los videojuegos"
 date: 2013-06-30T23:46:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "la-edad-de-oro-de-los-videojuegos"

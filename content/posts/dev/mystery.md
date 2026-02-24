@@ -1,7 +1,6 @@
 ---
 title: "Mystery"
 date: 2011-02-26T00:49:00+01:00
-draft: false
 categories: ["dev"]
 tags: ["generador", "list comprehension", "python", "yield"]
 slug: "mystery"

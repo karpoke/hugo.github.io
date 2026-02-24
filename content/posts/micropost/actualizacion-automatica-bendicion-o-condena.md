@@ -1,7 +1,6 @@
 ---
 title: "Actualización automática ¿Bendición o condena?"
 date: 2012-06-26T12:48:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "actualizacion-automatica-bendicion-o-condena"

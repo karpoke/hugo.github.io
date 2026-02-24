@@ -1,7 +1,6 @@
 ---
 title: "Comprobar que no tenemos configurado Apache como un proxy abierto"
 date: 2012-09-21T16:53:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["apache", "proxy", "telnet"]
 slug: "comprobar-que-no-tenemos-configurado-apache-como-un-proxy-abierto"

@@ -1,7 +1,6 @@
 ---
 title: "Érase una vez unos ’hackers’ hispanos..."
 date: 2014-09-05T22:47:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "erase-una-vez-unos-hackers-hispanos"

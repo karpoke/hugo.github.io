@@ -1,7 +1,6 @@
 ---
 title: "Imágenes embebidas en el código HTML, CSS o JSON"
 date: 2011-03-06T18:34:00+01:00
-draft: false
 categories: ["dev"]
 tags: ["base64", "css", "data:URI", "json", "rfc2397", "urldec", "urlenc"]
 slug: "imagenes-embebidas-en-el-codigo-html-css-o-json"

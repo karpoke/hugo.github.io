@@ -1,7 +1,6 @@
 ---
 title: "50 años de la ley de Moore, quizás la ”ley” más incomprendida de la tecnología"
 date: 2015-04-19T14:22:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "50-anos-de-la-ley-de-moore-quizas-la-ley-mas-incomprendida-de-la-tecnologia"

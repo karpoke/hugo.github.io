@@ -1,7 +1,6 @@
 ---
 title: "El viaje del héroe y los arquetipos de la migración"
 date: 2017-11-15T21:23:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "el-viaje-del-heroe-y-los-arquetipos-de-la-migracion"

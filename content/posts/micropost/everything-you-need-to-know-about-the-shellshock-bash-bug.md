@@ -1,7 +1,6 @@
 ---
 title: "Everything you need to know about the Shellshock Bash bug"
 date: 2014-11-14T16:03:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "everything-you-need-to-know-about-the-shellshock-bash-bug"

@@ -1,7 +1,6 @@
 ---
 title: "12 resolutions for programmers"
 date: 2012-05-20T12:26:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "12-resolutions-for-programmers"

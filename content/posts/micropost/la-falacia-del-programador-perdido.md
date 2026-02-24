@@ -1,7 +1,6 @@
 ---
 title: "La falacia del Programador Perdido"
 date: 2012-06-12T20:37:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "la-falacia-del-programador-perdido"

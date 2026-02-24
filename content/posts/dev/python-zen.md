@@ -1,7 +1,6 @@
 ---
 title: "Python Zen"
 date: 2011-02-26T00:40:00+01:00
-draft: false
 categories: ["dev"]
 tags: ["python", "this", "tim peters", "zen", "zen of python"]
 slug: "python-zen"

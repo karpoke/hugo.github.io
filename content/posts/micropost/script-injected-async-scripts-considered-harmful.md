@@ -1,7 +1,6 @@
 ---
 title: "Script-injected ”async scripts” considered harmful"
 date: 2014-05-23T21:21:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "script-injected-async-scripts-considered-harmful"

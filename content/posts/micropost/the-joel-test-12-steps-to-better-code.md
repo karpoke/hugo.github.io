@@ -1,7 +1,6 @@
 ---
 title: "The Joel Test: 12 Steps to Better Code"
 date: 2016-05-31T07:49:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "the-joel-test:-12-steps-to-better-code"

@@ -1,7 +1,6 @@
 ---
 title: "Crear un repositorio espejo de Ubuntu"
 date: 2014-05-18T21:48:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["apache2", "apt", "apt-mirror", "repositorio espejo", "ubuntu"]
 slug: "crear-un-repositorio-espejo-de-ubuntu"

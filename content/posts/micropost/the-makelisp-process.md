@@ -1,7 +1,6 @@
 ---
 title: "The MakeLisp Process"
 date: 2015-03-08T13:23:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "the-makelisp-process"

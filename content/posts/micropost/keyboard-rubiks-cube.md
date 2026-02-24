@@ -1,7 +1,6 @@
 ---
 title: "Keyboard rubik’s cube"
 date: 2013-02-25T00:27:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "keyboard-rubiks-cube"

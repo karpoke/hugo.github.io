@@ -1,7 +1,6 @@
 ---
 title: "La contraseña del presidente Obama"
 date: 2011-12-01T22:28:00+01:00
-draft: false
 categories: ["hack"]
 tags: ["cracking", "findmyhash", "hash", "md5", "md5sum"]
 slug: "la-contrasena-del-presidente-obama"

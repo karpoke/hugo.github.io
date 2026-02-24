@@ -1,7 +1,6 @@
 ---
 title: "Pitfalls in Random Number Generation"
 date: 2012-07-09T20:07:00+01:00
-draft: false
 categories: ["micropost"]
 tags: ["números aleatorios", "generador", "distribución", "bernoulli", "binomial", "exponencial", "gamma", "geométrica", "normal", "poisson", "semilla"]
 slug: "pitfalls-in-random-number-generation"

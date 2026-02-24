@@ -1,7 +1,6 @@
 ---
 title: "Brainfuck beware: JavaScript is after you!"
 date: 2012-08-13T19:32:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "brainfuck-beware-javascript-is-after-you"

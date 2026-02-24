@@ -1,7 +1,6 @@
 ---
 title: "Cifrando el tráfico DNS"
 date: 2013-01-17T19:44:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["cloudns", "dig", "dns", "dnscrypt", "dnscrypt-proxy", "dnssec", "drill", "gpg", "importar claves públicas", "ldnsutils", "mitm", "nslookup", "opendns", "opennic", "phishing", "proxy", "unbound", "verificar un paquete firmado"]
 slug: "cifrando-el-trafico-dns"

@@ -1,7 +1,6 @@
 ---
 title: 'pci_add_option_rom: failed to find romfile "pxe-rtl8139.bin"'
 date: 2011-01-14T22:07:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["dsl", "pxe-rtl8139.bin", "qemu", "romfile"]
 slug: "pci_add_option_rom-failed-to-find-romfile-pxe-rtl8139-bin"

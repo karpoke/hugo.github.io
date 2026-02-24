@@ -1,7 +1,6 @@
 ---
 title: "Cambiar la contraseña de administrador en Django 1.2"
 date: 2011-02-16T14:11:00+01:00
-draft: false
 categories: ["dev"]
 tags: ["changepassword", "check_passwd", "django", "manage.py", "set_passwd"]
 slug: "cambiar-la-contrasena-de-administrador-en-django-1-2"

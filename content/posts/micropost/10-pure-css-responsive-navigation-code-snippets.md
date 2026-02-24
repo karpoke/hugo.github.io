@@ -1,7 +1,6 @@
 ---
 title: "10 Pure CSS Responsive Navigation Code Snippets"
 date: 2018-03-28T12:26:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "10-pure-css-responsive-navigation-code-snippets"

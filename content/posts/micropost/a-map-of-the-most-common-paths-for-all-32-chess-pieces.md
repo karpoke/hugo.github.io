@@ -1,7 +1,6 @@
 ---
 title: "A Map Of The Most Common Paths For All 32 Chess Pieces"
 date: 2015-06-04T17:34:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "a-map-of-the-most-common-paths-for-all-32-chess-pieces"

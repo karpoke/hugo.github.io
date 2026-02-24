@@ -1,7 +1,6 @@
 ---
 title: "Cabeceras HTTP personalizadas en Apache2"
 date: 2011-02-28T20:28:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["barrapunto", "curl", "header", "mod_headers", "requestheader", "virtualhost", "wordpress", "X-Robots-Tag"]
 slug: "cabeceras-http-personalizadas-en-apache2"

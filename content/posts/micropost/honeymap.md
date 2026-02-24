@@ -1,7 +1,6 @@
 ---
 title: "HoneyMap"
 date: 2012-10-01T11:40:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "honeymap"

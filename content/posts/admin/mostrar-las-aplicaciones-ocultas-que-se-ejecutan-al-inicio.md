@@ -1,7 +1,6 @@
 ---
 title: "Mostrar las aplicaciones ocultas que se ejecutan al inicio"
 date: 2012-06-28T12:42:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["12.04", "aplicaciones ocultas", "ubuntu precise pangolin"]
 slug: "mostrar-las-aplicaciones-ocultas-que-se-ejecutan-al-inicio"

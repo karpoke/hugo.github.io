@@ -1,7 +1,6 @@
 ---
 title: "Make a Raspberry Pi into a Anonymizing Tor Proxy!"
 date: 2013-11-04T12:30:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "make-a-raspberry-pi-into-a-anonymizing-tor-proxy"

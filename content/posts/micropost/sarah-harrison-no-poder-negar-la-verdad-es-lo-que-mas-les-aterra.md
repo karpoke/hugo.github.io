@@ -1,7 +1,6 @@
 ---
 title: "Sarah Harrison: ”No poder negar la verdad es lo que más les aterra”"
 date: 2014-07-21T07:45:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "sarah-harrison-no-poder-negar-la-verdad-es-lo-que-mas-les-aterra"

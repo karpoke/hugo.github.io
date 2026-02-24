@@ -1,7 +1,6 @@
 ---
 title: "Python Ecosystem - An Introduction"
 date: 2012-08-15T17:26:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "python-ecosystem-an-introduction"

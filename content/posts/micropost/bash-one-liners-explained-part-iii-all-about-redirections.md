@@ -1,7 +1,6 @@
 ---
 title: "Bash One-Liners Explained, Part III: All about redirections"
 date: 2012-10-09T19:54:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "bash-one-liners-explained-part-iii-all-about-redirections"

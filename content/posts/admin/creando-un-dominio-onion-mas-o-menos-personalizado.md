@@ -1,7 +1,6 @@
 ---
 title: "Creando un dominio .onion (más o menos) personalizado"
 date: 2014-11-14T00:29:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["base32", "código fuente", "hash", "onion", "sha1", "shallot", "tor"]
 slug: "creando-un-dominio-onion-mas-o-menos-personalizado"

@@ -1,7 +1,6 @@
 ---
 title: "De pantallas bloqueadas, capturas de pantalla y David Hasselhoff"
 date: 2010-10-06T18:36:00+01:00
-draft: false
 categories: ["hack"]
 tags: ["ataque Hasselhoff", "captura de pantalla", "chvt", "fondo de pantalla", "gconftool-2", "import", "sleep", "terminal bloqueado"]
 slug: "de-pantallas-bloqueadas-capturas-de-pantalla-y-david-hasselhoff"

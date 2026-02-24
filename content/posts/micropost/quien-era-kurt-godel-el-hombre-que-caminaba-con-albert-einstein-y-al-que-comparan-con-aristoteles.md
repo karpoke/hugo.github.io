@@ -1,7 +1,6 @@
 ---
 title: "Quién era Kurt Gödel, el hombre que caminaba con Albert Einstein (y al que comparan con Aristóteles)"
 date: 2018-04-02T18:59:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "quien-era-kurt-godel-el-hombre-que-caminaba-con-albert-einstein-y-al-que-comparan-con-aristoteles"

@@ -1,7 +1,6 @@
 ---
 title: "The programmer’s price"
 date: 2014-11-23T18:12:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "the-programmers-price"

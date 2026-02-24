@@ -1,7 +1,6 @@
 ---
 title: "Walking paper"
 date: 2012-08-30T11:53:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "walking-paper"

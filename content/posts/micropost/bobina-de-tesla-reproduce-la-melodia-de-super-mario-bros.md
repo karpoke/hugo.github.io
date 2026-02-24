@@ -1,7 +1,6 @@
 ---
 title: "Bobina de Tesla reproduce la melodía de Super Mario Bros"
 date: 2013-02-22T23:19:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "bobina-de-tesla-reproduce-la-melodia-de-super-mario-bros"

@@ -1,7 +1,6 @@
 ---
 title: "Using Bipolar Transistors As Switches"
 date: 2012-08-02T12:41:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "using-bipolar-transistors-as-switches"

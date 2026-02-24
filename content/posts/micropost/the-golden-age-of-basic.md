@@ -1,7 +1,6 @@
 ---
 title: "The Golden Age of Basic"
 date: 2014-05-31T17:39:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "the-golden-age-of-basic"

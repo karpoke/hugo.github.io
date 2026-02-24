@@ -1,7 +1,6 @@
 ---
 title: "Arch en Raspberry Pi"
 date: 2012-06-22T20:41:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["arch", "autocompletado", "byobu", "copia de seguridad", "dd", "pacman", "pbzip2", "raspberry pi", "sudo", "sudoers", "tarjeta SD", "visudo"]
 slug: "arch-en-raspberry-pi"

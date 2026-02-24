@@ -1,7 +1,6 @@
 ---
 title: "A guide to fix hacked WordPress sites"
 date: 2016-09-17T14:43:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "a-guide-to-fix-hacked-wordpress-sites"

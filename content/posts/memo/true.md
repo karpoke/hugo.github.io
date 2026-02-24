@@ -1,7 +1,6 @@
 ---
 title: "true"
 date: 2011-04-19T12:03:00+01:00
-draft: false
 categories: ["memo"]
 tags: ["true"]
 slug: "true"

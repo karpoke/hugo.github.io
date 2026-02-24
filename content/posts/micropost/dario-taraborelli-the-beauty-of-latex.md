@@ -1,7 +1,6 @@
 ---
 title: "Dario Taraborelli: The Beauty of LaTeX"
 date: 2012-05-16T23:50:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "dario-taraborelli-the-beauty-of-latex"

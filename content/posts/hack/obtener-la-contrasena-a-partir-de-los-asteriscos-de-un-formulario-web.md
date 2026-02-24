@@ -1,7 +1,6 @@
 ---
 title: "Obtener la contraseña a partir de los asteriscos de un formulario web"
 date: 2011-09-11T17:48:00+01:00
-draft: false
 categories: ["hack"]
 tags: ["chromium", "contraseña", "firebug", "firefox", "javascript", "noscript"]
 slug: "obtener-la-contrasena-a-partir-de-los-asteriscos-de-un-formulario-web"

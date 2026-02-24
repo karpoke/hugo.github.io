@@ -1,7 +1,6 @@
 ---
 title: "Never use hard tabs"
 date: 2012-05-20T12:06:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "never-use-hard-tabs"

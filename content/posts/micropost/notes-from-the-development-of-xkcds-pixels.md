@@ -1,7 +1,6 @@
 ---
 title: "Notes from the development of xkcd’s ”Pixels”"
 date: 2014-09-14T12:29:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "notes-from-the-development-of-xkcds-pixels"

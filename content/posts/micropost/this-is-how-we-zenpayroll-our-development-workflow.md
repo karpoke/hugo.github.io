@@ -1,7 +1,6 @@
 ---
 title: "This is how we ZenPayroll: Our Development Workflow"
 date: 2014-11-23T12:33:00+01:00
-draft: false
 categories: ["micropost"]
 tags: ["flujo de trabajo", "calidad del código", "revisión de código", "programación en pareja", "testeo", "separación de entornos"]
 slug: "this-is-how-we-zenpayroll-our-development-workflow"

@@ -1,7 +1,6 @@
 ---
 title: "El día negado"
 date: 2013-03-14T02:03:00+01:00
-draft: false
 categories: ["memo"]
 tags: ["año bisiesto", "cal"]
 slug: "el-dia-negado"

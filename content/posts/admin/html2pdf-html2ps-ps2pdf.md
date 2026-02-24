@@ -1,7 +1,6 @@
 ---
 title: "html2pdf = html2ps + ps2pdf"
 date: 2011-02-28T13:47:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["alias", "html", "html2ps", "libro", "pdf", "ps", "ps2pdf"]
 slug: "html2pdf-html2ps-ps2pdf"

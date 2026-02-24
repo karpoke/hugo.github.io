@@ -1,7 +1,6 @@
 ---
 title: "The Conscience of a Hacker"
 date: 2012-06-21T03:58:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "the-conscience-of-a-hacker"

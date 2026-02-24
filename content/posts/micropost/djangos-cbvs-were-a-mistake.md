@@ -1,7 +1,6 @@
 ---
 title: "Django’s CBVs were a mistake"
 date: 2012-05-29T17:31:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "djangos-cbvs-were-a-mistake"

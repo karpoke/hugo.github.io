@@ -1,7 +1,6 @@
 ---
 title: "10 Best LaTeX Editors For Linux"
 date: 2017-11-20T21:10:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "10-best-latex-editors-for-linux"

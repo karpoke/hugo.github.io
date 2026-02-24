@@ -1,7 +1,6 @@
 ---
 title: "What are the chances of survival of individual chess pieces in average games?"
 date: 2014-10-26T09:20:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "what-are-the-chances-of-survival-of-individual-chess-pieces-in-average-games"

@@ -1,7 +1,6 @@
 ---
 title: "Sistema binario: unos y ceros a través de la historia"
 date: 2014-09-06T13:29:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "sistema-binario-unos-y-ceros-a-traves-de-la-historia"

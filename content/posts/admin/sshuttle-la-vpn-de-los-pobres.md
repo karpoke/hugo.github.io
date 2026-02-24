@@ -1,7 +1,6 @@
 ---
 title: "sshuttle, la VPN de los pobres"
 date: 2013-10-20T21:03:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["dns", "proxy", "ssh", "sshuttle", "tunnel", "vpn"]
 slug: "sshuttle-la-vpn-de-los-pobres"

@@ -1,7 +1,6 @@
 ---
 title: "Introducing the HTML5 Hard Disk Filler¢ API"
 date: 2013-03-27T21:42:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "introducing-the-html5-hard-disk-filler-api"

@@ -1,7 +1,6 @@
 ---
 title: "El ’canon AEDE’: claves del presente y el futuro de la tasa de agregación de contenidos"
 date: 2015-01-01T11:49:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "el-canon-aede-claves-del-presente-y-el-futuro-de-la-tasa-de-agregacion-de-contenidos"

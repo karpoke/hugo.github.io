@@ -1,7 +1,6 @@
 ---
 title: "Instalar Google Earth en Ubuntu Natty Narwhal"
 date: 2011-07-15T15:46:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["11.04", "asco de vida", "dpkg", "gdebi", "google", "google earth", "googleearth-package", "GoogleEarthLinux.bin", "make-googleearth-package", "microsoft", "natty narwhal", "ubuntu", "wget"]
 slug: "instalar-google-earth-en-ubuntu-natty-narwhal"

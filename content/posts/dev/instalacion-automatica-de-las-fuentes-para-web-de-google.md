@@ -1,7 +1,6 @@
 ---
 title: "Instalación automática de las fuentes para web de Google"
 date: 2011-08-07T00:21:00+01:00
-draft: false
 categories: ["dev"]
 tags: ["fc-cache", "fontconfig", "fuentes", "google web fonts", "hg", "mercurial", "script", "software libre"]
 slug: "instalacion-automatica-de-las-fuentes-para-web-de-google"

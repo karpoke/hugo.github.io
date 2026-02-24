@@ -1,7 +1,6 @@
 ---
 title: "¿Cómo funciona la red Tor?"
 date: 2012-12-18T13:46:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "como-funciona-la-red-tor"

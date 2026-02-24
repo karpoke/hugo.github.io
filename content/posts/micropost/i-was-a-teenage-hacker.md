@@ -1,7 +1,6 @@
 ---
 title: "I Was a Teenage Hacker"
 date: 2012-08-10T10:38:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "i-was-a-teenage-hacker"

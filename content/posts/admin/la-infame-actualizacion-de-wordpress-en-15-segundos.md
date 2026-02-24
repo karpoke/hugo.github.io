@@ -1,7 +1,6 @@
 ---
 title: "La infame actualización de WordPress en 15 segundos"
 date: 2010-12-30T04:21:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["actualización", "copia de seguridad", "gzip", "mysqldump", "tar", "wordpress"]
 slug: "la-infame-actualizacion-de-wordpress-en-15-segundos"

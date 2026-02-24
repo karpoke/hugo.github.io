@@ -1,7 +1,6 @@
 ---
 title: "Revisa tu contrato: si contiene una de estas cláusulas, Europa lo considera abusivo"
 date: 2013-03-16T13:18:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "revisa-tu-contrato-si-contiene-una-de-estas-clausulas-europa-lo-considera-abusivo"

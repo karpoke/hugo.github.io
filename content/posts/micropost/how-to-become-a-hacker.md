@@ -1,7 +1,6 @@
 ---
 title: "How To Become A Hacker"
 date: 2014-11-08T00:31:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "how-to-become-a-hacker"

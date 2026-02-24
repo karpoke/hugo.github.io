@@ -1,7 +1,6 @@
 ---
 title: "Los geniales Huevos de Pascua de LucasArts"
 date: 2016-02-07T12:53:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "los-geniales-huevos-de-pascua-de-lucasarts"

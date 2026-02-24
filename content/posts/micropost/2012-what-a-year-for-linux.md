@@ -1,7 +1,6 @@
 ---
 title: "2012: What a Year for Linux"
 date: 2012-12-15T13:10:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "2012-what-a-year-for-linux"

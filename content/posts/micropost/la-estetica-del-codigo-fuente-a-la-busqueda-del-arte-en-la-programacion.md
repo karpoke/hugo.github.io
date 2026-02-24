@@ -1,7 +1,6 @@
 ---
 title: "La estética del código fuente: a la búsqueda del Arte en la Programación"
 date: 2016-09-16T21:45:00+01:00
-draft: false
 categories: ["micropost"]
 tags: ["el arte de la programación", "teoría de la programación", "la belleza del código"]
 slug: "la-estetica-del-codigo-fuente-a-la-busqueda-del-arte-en-la-programacion"

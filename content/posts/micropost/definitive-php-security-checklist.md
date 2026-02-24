@@ -1,7 +1,6 @@
 ---
 title: "Definitive PHP security checklist"
 date: 2012-07-06T14:34:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "definitive-php-security-checklist"

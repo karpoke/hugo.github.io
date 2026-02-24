@@ -1,7 +1,6 @@
 ---
 title: "Señoras que se ponen un nombre falso en Facebook pero usan su dirección de correo personal"
 date: 2010-10-23T13:30:00+01:00
-draft: false
 categories: ["hack"]
 tags: ["anonimato", "facebook", "identificación de personas"]
 slug: "senoras-que-se-ponen-un-nombre-falso-en-facebook-pero-usan-su-direccion-de-correo-personal"

@@ -1,7 +1,6 @@
 ---
 title: "Stage By Stage Boot Process Of Linux In Detail"
 date: 2013-06-08T23:06:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "stage-by-stage-boot-process-of-linux-in-detail"

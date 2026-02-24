@@ -1,7 +1,6 @@
 ---
 title: "Monta tu propio DNS dinámico"
 date: 2012-05-23T21:36:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "monta-tu-propio-dns-dinamico"

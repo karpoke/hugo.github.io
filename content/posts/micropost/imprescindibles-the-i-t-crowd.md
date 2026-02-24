@@ -1,7 +1,6 @@
 ---
 title: "Imprescindibles: The I.T. Crowd"
 date: 2013-04-28T13:08:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "imprescindibles-the-i-t-crowd"

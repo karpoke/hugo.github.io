@@ -1,7 +1,6 @@
 ---
 title: "Why Archeologists Hate Indiana Jones"
 date: 2014-09-19T17:35:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "why-archeologists-hate-indiana-jones"

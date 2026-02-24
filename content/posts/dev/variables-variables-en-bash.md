@@ -1,7 +1,6 @@
 ---
 title: "Variables variables en Bash"
 date: 2011-06-29T12:11:00+01:00
-draft: false
 categories: ["dev"]
 tags: ["bash", "eval", "ksh", "php", "shell", "variables"]
 slug: "variables-variables-en-bash"

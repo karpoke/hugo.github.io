@@ -1,7 +1,6 @@
 ---
 title: "10 Data Structure, Algorithms, and Programming Courses to Crack Any Coding Interview"
 date: 2018-10-26T04:21:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "10-data-structure-algorithms-and-programming-courses-to-crack-any-coding-interview"

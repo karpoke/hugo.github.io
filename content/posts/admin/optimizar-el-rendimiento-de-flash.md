@@ -1,7 +1,6 @@
 ---
 title: "Optimizar el rendimiento de Flash"
 date: 2011-01-11T12:33:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["adobe", "flash", "gpu", "plugin", "ubuntu"]
 slug: "optimizar-el-rendimiento-de-flash"

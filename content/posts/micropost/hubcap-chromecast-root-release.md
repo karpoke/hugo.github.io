@@ -1,7 +1,6 @@
 ---
 title: "HubCap Chromecast Root Release"
 date: 2014-08-31T18:01:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "hubcap-chromecast-root-release"

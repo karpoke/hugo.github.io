@@ -1,7 +1,6 @@
 ---
 title: "xkcd 1313: Something is Wrong on the Internet!"
 date: 2014-01-07T01:41:00+01:00
-draft: false
 categories: ["micropost"]
 tags: ["expresiones regulares", "optimización", "algoritmos genéticos", "XKCD"]
 slug: "xkcd-1313-something-is-wrong-on-the-internet"

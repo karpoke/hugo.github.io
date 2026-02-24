@@ -1,7 +1,6 @@
 ---
 title: "Celebra, Dragon Ball cumple 30 años"
 date: 2014-11-22T16:11:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "celebra-dragon-ball-cumple-30-anos"

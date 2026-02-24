@@ -1,7 +1,6 @@
 ---
 title: "A flaw in the design (Part I)"
 date: 2015-06-13T11:30:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "a-flaw-in-the-design-part-i"

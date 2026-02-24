@@ -1,7 +1,6 @@
 ---
 title: "Cambiar la dirección MAC"
 date: 2011-02-09T12:58:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["ifconfig", "ip", "ipconfig", "kismet", "mac", "mac aleatoria", "macchanger", "md5sum", "sed"]
 slug: "cambiar-la-direccion-mac"

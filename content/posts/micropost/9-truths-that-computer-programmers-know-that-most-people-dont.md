@@ -1,7 +1,6 @@
 ---
 title: "9 truths that computer programmers know that most people don’t."
 date: 2015-03-14T11:59:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "9-truths-that-computer-programmers-know-that-most-people-dont"

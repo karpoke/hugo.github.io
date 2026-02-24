@@ -1,7 +1,6 @@
 ---
 title: "Configurar msmtp para enviar correo mediante GMail desde el terminal"
 date: 2014-06-04T23:13:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["bsd-mailx", "gmail", "msmtp", "mta", "sendmail", "smtp", "ssmtp"]
 slug: "configurar-msmtp-para-enviar-correo-mediante-gmail-desde-el-terminal"

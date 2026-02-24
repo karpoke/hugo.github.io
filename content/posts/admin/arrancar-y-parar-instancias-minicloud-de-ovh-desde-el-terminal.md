@@ -1,7 +1,6 @@
 ---
 title: "Arrancar y parar instancias minicloud de OVH desde el terminal"
 date: 2012-04-20T03:05:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["at", "cron", "crontab", "máquina virtual", "minicloud", "ovh"]
 slug: "arrancar-y-parar-instancias-minicloud-de-ovh-desde-el-terminal"

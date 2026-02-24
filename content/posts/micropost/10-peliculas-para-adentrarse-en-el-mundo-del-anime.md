@@ -1,7 +1,6 @@
 ---
 title: "10 películas para adentrarse en el mundo del anime"
 date: 2018-01-05T18:05:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "10-peliculas-para-adentrarse-en-el-mundo-del-anime"

@@ -1,7 +1,6 @@
 ---
 title: "Using footnote in tables"
 date: 2012-10-09T17:46:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "using-footnote-in-tables"

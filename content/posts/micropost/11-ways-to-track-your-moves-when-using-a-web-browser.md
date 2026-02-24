@@ -1,7 +1,6 @@
 ---
 title: "11 Ways To Track Your Moves When Using a Web Browser"
 date: 2015-03-15T12:21:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "11-ways-to-track-your-moves-when-using-a-web-browser"

@@ -1,7 +1,6 @@
 ---
 title: "Uncovering android master key that makes 99% of devices vulnerable"
 date: 2013-07-06T13:24:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "uncovering-android-master-key-that-makes-99-of-devices-vulnerable"

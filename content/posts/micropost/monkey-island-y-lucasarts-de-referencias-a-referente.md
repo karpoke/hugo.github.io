@@ -1,7 +1,6 @@
 ---
 title: "Monkey Island y LucasArts: de referencias a referente"
 date: 2012-07-31T13:25:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "monkey-island-y-lucasarts-de-referencias-a-referente"

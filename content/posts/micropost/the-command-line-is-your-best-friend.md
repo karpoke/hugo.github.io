@@ -1,7 +1,6 @@
 ---
 title: "The Command Line is Your Best Friend"
 date: 2013-04-03T23:43:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "the-command-line-is-your-best-friend"

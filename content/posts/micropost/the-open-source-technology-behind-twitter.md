@@ -1,7 +1,6 @@
 ---
 title: "The open source technology behind Twitter"
 date: 2012-09-01T12:54:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "the-open-source-technology-behind-twitter"

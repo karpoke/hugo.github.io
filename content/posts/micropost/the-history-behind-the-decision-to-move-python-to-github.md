@@ -1,7 +1,6 @@
 ---
 title: "The history behind the decision to move Python to GitHub"
 date: 2016-02-07T15:16:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "the-history-behind-the-decision-to-move-python-to-github"

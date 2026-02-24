@@ -1,7 +1,6 @@
 ---
 title: "The Complete Wildfire Index (Root/S-OFF Guides/ROMs/Kernels/Radios/RUU/Recoveries/Themes)"
 date: 2012-07-13T17:37:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "the-complete-wildfire-index-roots-off-guidesromskernelsradiosruurecoveriesthemes"

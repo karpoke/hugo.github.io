@@ -1,7 +1,6 @@
 ---
 title: "Lostalgic"
 date: 2012-10-05T12:39:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "lostalgic"

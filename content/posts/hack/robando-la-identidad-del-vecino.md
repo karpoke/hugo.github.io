@@ -1,7 +1,6 @@
 ---
 title: "Robando la identidad del vecino"
 date: 2010-12-18T21:22:00+01:00
-draft: false
 categories: ["hack"]
 tags: ["blacksheep", "firesheep", "robo de identidad"]
 slug: "robando-la-identidad-del-vecino"

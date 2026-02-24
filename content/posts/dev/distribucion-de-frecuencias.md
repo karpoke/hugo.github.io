@@ -1,7 +1,6 @@
 ---
 title: "Distribución de frecuencias"
 date: 2012-06-22T00:53:00+01:00
-draft: false
 categories: ["dev"]
 tags: ["distribución de frecuencias", "distribución estadística", "history", "lenguaje", "python", "quijote", "R"]
 slug: "distribucion-de-frecuencias"

@@ -1,7 +1,6 @@
 ---
 title: "Stealing Keys from PCs using a Radio: Cheap Electromagnetic Attacks on Windowed Exponentiation"
 date: 2015-06-25T22:16:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "stealing-keys-from-pcs-using-a-radio-cheap-electromagnetic-attacks-on-windowed-exponentiation"

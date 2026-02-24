@@ -1,7 +1,6 @@
 ---
 title: "The basics of web application security"
 date: 2016-09-25T13:04:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "the-basics-of-web-application-security"

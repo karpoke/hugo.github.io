@@ -1,7 +1,6 @@
 ---
 title: "10 experimentos psicológicos que revelan la verdadera naturaleza humana"
 date: 2017-12-06T14:29:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "10-experimentos-psicologicos-que-revelan-la-verdadera-naturaleza-humana"

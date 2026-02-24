@@ -1,7 +1,6 @@
 ---
 title: "Client-Side vs. Server-Side Rendering"
 date: 2012-06-04T14:15:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "client-side-vs-server-side-rendering"

@@ -1,7 +1,6 @@
 ---
 title: "¿Influye la edad en la calidad como programador?"
 date: 2013-05-13T00:10:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "influye-la-edad-en-la-calidad-como-programador"

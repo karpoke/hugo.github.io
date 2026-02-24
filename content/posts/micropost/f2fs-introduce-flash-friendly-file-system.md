@@ -1,7 +1,6 @@
 ---
 title: "f2fs: introduce flash-friendly file system"
 date: 2012-10-06T13:54:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "f2fs-introduce-flash-friendly-file-system"

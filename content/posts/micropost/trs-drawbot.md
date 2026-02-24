@@ -1,7 +1,6 @@
 ---
 title: "TRS Drawbot"
 date: 2014-05-24T15:02:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "trs-drawbot"

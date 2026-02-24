@@ -1,7 +1,6 @@
 ---
 title: "Recuperar la dirección de WordPress"
 date: 2012-04-05T14:46:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["dirección de wordpress", "dirección del sitio", "home", "mysql", "siteurl", "url", "wordpress"]
 slug: "recuperar-la-direccion-de-wordpress"

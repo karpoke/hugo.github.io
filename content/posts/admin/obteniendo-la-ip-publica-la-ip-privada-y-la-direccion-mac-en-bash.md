@@ -1,7 +1,6 @@
 ---
 title: "Obteniendo la IP pública, la IP privada y la dirección MAC en Bash"
 date: 2011-08-14T19:26:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["alias", "curl", "dirección MAC", "DynDNS", "hostname", "ifconfig", "in-addr.arpa", "IP privada", "IP pública", "ipcalc", "mac", "oui", "perl", "php", "script", "wget"]
 slug: "obteniendo-la-ip-publica-la-ip-privada-y-la-direccion-mac-en-bash"

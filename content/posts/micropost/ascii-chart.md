@@ -1,7 +1,6 @@
 ---
 title: "ASCII Chart"
 date: 2014-06-01T22:42:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "ascii-chart"

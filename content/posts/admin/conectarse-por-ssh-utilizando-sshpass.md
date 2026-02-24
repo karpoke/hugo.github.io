@@ -1,7 +1,6 @@
 ---
 title: "Conectarse por SSH utilizando sshpass"
 date: 2013-06-09T15:47:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["contraseña", "ssh", "sshpass"]
 slug: "conectarse-por-ssh-utilizando-sshpass"

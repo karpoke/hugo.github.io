@@ -1,7 +1,6 @@
 ---
 title: "Pocos elementos forman sistemas complejos en el mundo físico, biológico o digital"
 date: 2012-10-20T16:22:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "pocos-elementos-forman-sistemas-complejos-en-el-mundo-fisico-biologico-o-digital"

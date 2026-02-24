@@ -1,7 +1,6 @@
 ---
 title: "A Field Guide To Mobile App Testing"
 date: 2012-10-28T13:07:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "a-field-guide-to-mobile-app-testing"

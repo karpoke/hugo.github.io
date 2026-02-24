@@ -1,7 +1,6 @@
 ---
 title: "SSH over HTTP-Proxy"
 date: 2011-08-15T04:29:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["apache", "corkscrew", "htc", "http", "HTTP_PROXY", "https", "proxy", "proxy http", "proxy socks", "proxytunnel", "SOCKS", "ssh", "varnish"]
 slug: "ssh-over-http-proxy"

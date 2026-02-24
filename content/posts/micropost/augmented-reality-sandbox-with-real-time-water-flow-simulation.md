@@ -1,7 +1,6 @@
 ---
 title: "Augmented reality sandbox with real-time water flow simulation"
 date: 2012-05-16T09:26:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "augmented-reality-sandbox-with-real-time-water-flow-simulation"

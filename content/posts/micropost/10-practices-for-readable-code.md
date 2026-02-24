@@ -1,7 +1,6 @@
 ---
 title: "10 practices for readable code"
 date: 2018-09-19T19:59:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "10-practices-for-readable-code"

@@ -1,7 +1,6 @@
 ---
 title: "Un paseo matemático por la Alhambra: cuando el arte se basa en los números"
 date: 2019-04-01T14:33:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "un-paseo-matematico-por-la-alhambra-cuando-el-arte-se-basa-en-los-numeros"

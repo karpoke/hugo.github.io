@@ -1,7 +1,6 @@
 ---
 title: "La primera hoja de cálculo para PCs cumple 35 años"
 date: 2014-06-11T21:15:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "la-primera-hoja-de-calculo-para-pcs-cumple-35-anos"

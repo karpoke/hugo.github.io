@@ -1,7 +1,6 @@
 ---
 title: "Twitter y el RSS de las cuentas de usuario"
 date: 2011-09-30T00:17:00+01:00
-draft: false
 categories: ["hack"]
 tags: ["rss", "shebang", "twitter"]
 slug: "twitter-y-el-rss-de-las-cuentas-de-usuario"

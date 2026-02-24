@@ -1,7 +1,6 @@
 ---
 title: "Solucionado el error «error: error running non-shared postrotate script for /var/log/samba/log.nmbd of '/var/log/samba/log.nmbd '»"
 date: 2013-03-22T21:31:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["12.04", "error", "logrotate", "nmbd", "quantal", "quetzal", "samba", "smbd", "ubuntu"]
 slug: "solucionado-el-error-error-error-running-non-shared-postrotate-script-for-varlogsambalog-nmbd-of-varlogsambalog-nmbd"

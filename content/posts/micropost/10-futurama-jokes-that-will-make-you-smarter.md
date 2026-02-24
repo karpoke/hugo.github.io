@@ -1,7 +1,6 @@
 ---
 title: "10 Futurama jokes that will make you smarter"
 date: 2015-01-01T11:36:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "10-futurama-jokes-that-will-make-you-smarter"

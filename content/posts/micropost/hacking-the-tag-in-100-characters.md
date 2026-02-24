@@ -1,7 +1,6 @@
 ---
 title: 'Hacking the  tag in 100 characters'
 date: 2013-03-23T12:21:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "hacking-the-tag-in-100-characters"

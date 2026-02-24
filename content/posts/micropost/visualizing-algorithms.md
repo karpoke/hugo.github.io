@@ -1,7 +1,6 @@
 ---
 title: "Visualizing Algorithms"
 date: 2014-06-29T18:52:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "visualizing-algorithms"

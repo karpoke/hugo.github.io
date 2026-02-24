@@ -1,7 +1,6 @@
 ---
 title: "The scope of index variables in Python’s for loops"
 date: 2015-02-18T00:04:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "the-scope-of-index-variables-in-pythons-for-loops"

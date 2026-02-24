@@ -1,7 +1,6 @@
 ---
 title: "Raspbmc"
 date: 2012-06-29T04:45:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["12.04", "compartir conexión", "debian", "htpc", "iptables", "nat", "raspberry pi", "raspbmc", "redirección ip", "ubuntu precise pangolin", "xbmc"]
 slug: "raspbmc"

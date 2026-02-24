@@ -1,7 +1,6 @@
 ---
 title: "Was the Death Star Attack an Inside Job?"
 date: 2014-12-21T11:59:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "was-the-death-star-attack-an-inside-job"

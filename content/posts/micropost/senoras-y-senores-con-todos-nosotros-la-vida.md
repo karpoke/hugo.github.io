@@ -1,7 +1,6 @@
 ---
 title: "Señoras y señores, con todos nosotros: La Vida"
 date: 2013-04-10T21:03:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "senoras-y-senores-con-todos-nosotros-la-vida"

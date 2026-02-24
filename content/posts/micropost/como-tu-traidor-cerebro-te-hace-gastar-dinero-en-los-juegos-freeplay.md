@@ -1,7 +1,6 @@
 ---
 title: "Cómo tu traidor cerebro te hace gastar dinero en los juegos freeplay"
 date: 2015-05-03T15:04:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "como-tu-traidor-cerebro-te-hace-gastar-dinero-en-los-juegos-freeplay"

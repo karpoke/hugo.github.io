@@ -1,7 +1,6 @@
 ---
 title: "AnonTwi, tweets cifrados"
 date: 2012-06-16T13:23:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["oauth", "privacidad", "python", "script", "twitter"]
 slug: "anontwi-tweets-cifrados"

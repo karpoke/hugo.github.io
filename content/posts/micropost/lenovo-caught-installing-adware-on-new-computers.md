@@ -1,7 +1,6 @@
 ---
 title: "Lenovo caught installing adware on new computers"
 date: 2015-02-23T22:54:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "lenovo-caught-installing-adware-on-new-computers"

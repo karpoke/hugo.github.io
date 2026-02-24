@@ -1,7 +1,6 @@
 ---
 title: "10 Best Android News App Templates"
 date: 2018-08-14T19:51:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "10-best-android-news-app-templates"

@@ -1,7 +1,6 @@
 ---
 title: "Quake on an oscilloscope: A technical report"
 date: 2015-01-01T11:54:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "quake-on-an-oscilloscope-a-technical-report"

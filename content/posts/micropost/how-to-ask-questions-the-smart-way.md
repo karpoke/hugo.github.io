@@ -1,7 +1,6 @@
 ---
 title: "How To Ask Questions The Smart Way"
 date: 2012-09-26T10:13:00+01:00
-draft: false
 categories: ["micropost"]
 tags: ["hackers", "preguntas inteligentes", "problemas interesantes"]
 slug: "how-to-ask-questions-the-smart-way"

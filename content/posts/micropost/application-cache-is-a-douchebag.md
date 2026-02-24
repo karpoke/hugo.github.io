@@ -1,7 +1,6 @@
 ---
 title: "Application Cache is a Douchebag"
 date: 2012-05-22T15:21:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "application-cache-is-a-douchebag"

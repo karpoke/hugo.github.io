@@ -1,7 +1,6 @@
 ---
 title: "Abrir archivos .tec en GNU/Linux"
 date: 2012-06-23T13:41:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["android", "copia de seguridad", "dd", "ghex", "hexer", "ice cream sandwich", "ics", "imágenes en miniatura", "jfif", "modo infierno", "privacidad", "tec", "thumbnails"]
 slug: "abrir-archivos-tec-en-gnulinux"

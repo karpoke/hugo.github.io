@@ -1,7 +1,6 @@
 ---
 title: "De usuarios en WordPress"
 date: 2012-08-02T13:45:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["administrador", "fingerprinting", "mysql", "privilegios", "root", "usuarios", "wordpress"]
 slug: "de-usuarios-en-wordpress"

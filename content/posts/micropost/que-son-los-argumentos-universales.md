@@ -1,7 +1,6 @@
 ---
 title: "¿Qué son los argumentos universales?"
 date: 2018-12-18T21:45:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "que-son-los-argumentos-universales"

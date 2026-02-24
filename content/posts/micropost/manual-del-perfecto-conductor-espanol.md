@@ -1,7 +1,6 @@
 ---
 title: "Manual del perfecto conductor español"
 date: 2012-05-23T10:45:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "manual-del-perfecto-conductor-espanol"

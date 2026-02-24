@@ -1,7 +1,6 @@
 ---
 title: "Powerful Command Line Tools For Developers"
 date: 2012-11-03T14:13:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "powerful-command-line-tools-for-developers"

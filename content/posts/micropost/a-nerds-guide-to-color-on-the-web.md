@@ -1,7 +1,6 @@
 ---
 title: "A nerd’s guide to color on the web"
 date: 2016-09-25T12:42:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "a-nerds-guide-to-color-on-the-web"

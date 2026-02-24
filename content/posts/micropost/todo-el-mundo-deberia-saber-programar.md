@@ -1,7 +1,6 @@
 ---
 title: "Todo el mundo debería saber programar"
 date: 2013-06-29T11:01:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "todo-el-mundo-deberia-saber-programar"

@@ -1,7 +1,6 @@
 ---
 title: "Linux VS open source UNIX"
 date: 2019-11-23T12:15:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "linux-vs-open-source-unix"

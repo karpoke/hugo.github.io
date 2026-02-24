@@ -1,7 +1,6 @@
 ---
 title: "No debes despreciar aquello que más necesitas"
 date: 2013-04-27T13:07:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "no-debes-despreciar-aquello-que-mas-necesitas"

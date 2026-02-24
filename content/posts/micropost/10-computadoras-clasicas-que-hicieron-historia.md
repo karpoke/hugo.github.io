@@ -1,7 +1,6 @@
 ---
 title: "10 computadoras clásicas que hicieron historia"
 date: 2018-04-20T15:10:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "10-computadoras-clasicas-que-hicieron-historia"

@@ -1,7 +1,6 @@
 ---
 title: "GNU Make in Detail for Beginners"
 date: 2012-06-28T12:56:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "gnu-make-in-detail-for-beginners"

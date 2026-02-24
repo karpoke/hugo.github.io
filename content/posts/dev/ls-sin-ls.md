@@ -1,7 +1,6 @@
 ---
 title: "ls sin ls"
 date: 2011-03-12T13:11:00+01:00
-draft: false
 categories: ["dev"]
 tags: ["c", "closedir", "ctypes", "generador", "listdir", "opendir", "python", "yield"]
 slug: "ls-sin-ls"

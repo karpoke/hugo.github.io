@@ -1,7 +1,6 @@
 ---
 title: "I do not want to be tracked"
 date: 2011-07-02T14:01:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["anonimato", "blacksheep", "duckduckgo", "firefox", "firesheep", "foxyproxy", "ghostery", "https", "noscript", "plugin", "privacidad", "proxy"]
 slug: "i-do-not-want-to-be-tracked"

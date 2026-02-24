@@ -1,7 +1,6 @@
 ---
 title: "10 Years of Git: An Interview with Git Creator Linus Torvalds"
 date: 2015-04-07T22:13:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "10-years-of-git-an-interview-with-git-creator-linus-torvalds"

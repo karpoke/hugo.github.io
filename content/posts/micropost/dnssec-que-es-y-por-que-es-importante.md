@@ -1,7 +1,6 @@
 ---
 title: "DNSSEC – ¿Qué es y por qué es importante?"
 date: 2012-06-21T17:55:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "dnssec-que-es-y-por-que-es-importante"

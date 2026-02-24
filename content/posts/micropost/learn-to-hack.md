@@ -1,7 +1,6 @@
 ---
 title: "Learn to Hack"
 date: 2012-05-14T13:30:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "learn-to-hack"

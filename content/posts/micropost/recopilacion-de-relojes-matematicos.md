@@ -1,7 +1,6 @@
 ---
 title: "Recopilación de relojes matemáticos"
 date: 2012-10-05T12:58:00+01:00
-draft: false
 categories: ["micropost"]
 tags: ["curiosidad", "humor matemático"]
 slug: "recopilacion-de-relojes-matematicos"

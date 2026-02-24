@@ -1,7 +1,6 @@
 ---
 title: "Programming is social"
 date: 2014-05-31T13:20:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "programming-is-social"

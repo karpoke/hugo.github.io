@@ -1,7 +1,6 @@
 ---
 title: "Deuda técnica"
 date: 2012-06-04T14:12:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "deuda-tecnica"

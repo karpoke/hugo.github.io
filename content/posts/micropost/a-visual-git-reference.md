@@ -1,7 +1,6 @@
 ---
 title: "A Visual Git Reference"
 date: 2012-07-15T17:31:00+01:00
-draft: false
 categories: ["micropost"]
 tags: ["git", "resumen", "gráfico"]
 slug: "a-visual-git-reference"

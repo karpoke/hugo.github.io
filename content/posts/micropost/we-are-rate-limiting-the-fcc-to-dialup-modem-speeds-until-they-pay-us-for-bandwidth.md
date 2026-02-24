@@ -1,7 +1,6 @@
 ---
 title: "We are rate limiting the FCC to dialup modem speeds until they pay us for bandwidth"
 date: 2014-06-05T09:34:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "we-are-rate-limiting-the-fcc-to-dialup-modem-speeds-until-they-pay-us-for-bandwidth"

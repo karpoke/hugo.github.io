@@ -1,7 +1,6 @@
 ---
 title: "Solucionado el error «ImportError: No module named _sysconfigdata_nd» en Ubuntu"
 date: 2014-11-13T22:32:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["_sysconfigdata_nd.py", "ImportError", "python2.7", "virtualenv"]
 slug: "solucionado-el-error-importerror-no-module-named-_sysconfigdata_nd-en-ubuntu"

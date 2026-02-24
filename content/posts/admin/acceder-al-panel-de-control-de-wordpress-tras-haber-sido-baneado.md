@@ -1,7 +1,6 @@
 ---
 title: "Acceder al panel de control de Wordpress tras haber sido baneado"
 date: 2011-04-20T01:46:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["ban", "fail2ban", "lockdown", "login", "mysql", "ssh", "unban", "wordpress"]
 slug: "acceder-al-panel-de-control-de-wordpress-tras-haber-sido-baneado"

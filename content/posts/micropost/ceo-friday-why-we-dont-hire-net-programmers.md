@@ -1,7 +1,6 @@
 ---
 title: "CEO Friday: Why we don’t hire .NET programmers"
 date: 2013-03-17T19:09:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "ceo-friday-why-we-dont-hire-net-programmers"

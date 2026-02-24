@@ -1,7 +1,6 @@
 ---
 title: "IMDB Top 250 in 2 1/2 Minutes"
 date: 2012-11-03T13:49:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "imdb-top-250-in-2-12-minutes"

@@ -1,7 +1,6 @@
 ---
 title: "El increíble caso de Werner Koch y GPG"
 date: 2015-02-07T11:02:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "el-increible-caso-de-werner-koch-y-gpg"

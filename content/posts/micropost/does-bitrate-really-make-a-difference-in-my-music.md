@@ -1,7 +1,6 @@
 ---
 title: "Does Bitrate Really Make a Difference In My Music?"
 date: 2012-07-24T17:45:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "does-bitrate-really-make-a-difference-in-my-music"

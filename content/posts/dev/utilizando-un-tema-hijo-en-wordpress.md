@@ -1,7 +1,6 @@
 ---
 title: "Utilizando un tema hijo en WordPress"
 date: 2013-07-13T19:04:00+01:00
-draft: false
 categories: ["dev"]
 tags: ["php", "tema hijo", "tema nieto", "wordpress"]
 slug: "utilizando-un-tema-hijo-en-wordpress"

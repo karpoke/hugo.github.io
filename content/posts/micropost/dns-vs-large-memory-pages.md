@@ -1,7 +1,6 @@
 ---
 title: "DNS vs. large memory pages"
 date: 2012-05-25T14:05:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "dns-vs-large-memory-pages"

@@ -1,7 +1,6 @@
 ---
 title: "Linux containers in 500 lines of code"
 date: 2016-11-01T15:09:00+01:00
-draft: false
 categories: ["micropost"]
 tags: ["contenedores en linux", "c", "kernel", "cgroups", "strlimit", "llamadas de sistema", "puntos de montaje", "recursos de sistema", "configuración de red"]
 slug: "linux-containers-in-500-lines-of-code"

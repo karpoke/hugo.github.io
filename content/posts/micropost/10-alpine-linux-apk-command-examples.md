@@ -1,7 +1,6 @@
 ---
 title: "10 Alpine Linux apk Command Examples"
 date: 2018-08-27T21:36:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "10-alpine-linux-apk-command-examples"

@@ -1,7 +1,6 @@
 ---
 title: "Salvapantallas con el código fuente del kernel"
 date: 2011-07-28T12:42:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["aleatoriedad", "código fuente", "kernel", "linux", "phosphor", "protector de pantalla", "salvapantallas", "script", "sed", "uname"]
 slug: "salvapantallas-con-el-codigo-fuente-del-kernel"

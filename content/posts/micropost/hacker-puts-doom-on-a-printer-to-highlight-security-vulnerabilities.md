@@ -1,7 +1,6 @@
 ---
 title: "Hacker puts Doom on a printer to highlight security vulnerabilities"
 date: 2014-09-20T23:08:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "hacker-puts-doom-on-a-printer-to-highlight-security-vulnerabilities"

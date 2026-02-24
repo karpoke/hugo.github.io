@@ -1,7 +1,6 @@
 ---
 title: "Regular Expression Matching Can Be Simple And Fast"
 date: 2012-06-21T18:21:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "regular-expression-matching-can-be-simple-and-fast"

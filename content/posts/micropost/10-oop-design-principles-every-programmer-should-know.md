@@ -1,7 +1,6 @@
 ---
 title: "10 OOP Design Principles Every Programmer Should Know"
 date: 2019-05-06T09:56:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "10-oop-design-principles-every-programmer-should-know"

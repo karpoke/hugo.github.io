@@ -1,7 +1,6 @@
 ---
 title: "vimrepress, publicar en WordPress desde vim"
 date: 2012-05-20T13:54:00+01:00
-draft: false
 categories: ["dev"]
 tags: ["markdown", "python", "vim", "wordpress"]
 slug: "vimrepress-publicar-en-wordpress-desde-vim"

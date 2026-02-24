@@ -1,7 +1,6 @@
 ---
 title: "All About Unicode, UTF8 & Character Sets"
 date: 2012-06-27T23:52:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "all-about-unicode-utf8-character-sets"

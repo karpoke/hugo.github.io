@@ -1,7 +1,6 @@
 ---
 title: "10 Colossal Old Computers That Changed History"
 date: 2013-07-07T20:47:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "10-colossal-old-computers-that-changed-history"

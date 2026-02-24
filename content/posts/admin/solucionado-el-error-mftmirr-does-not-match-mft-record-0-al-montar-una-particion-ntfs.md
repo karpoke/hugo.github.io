@@ -1,7 +1,6 @@
 ---
 title: 'Solucionado el error "$MFTMirr does not match $MFT (record 0)." al montar una partición NTFS'
 date: 2012-09-06T12:46:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["$MFT", "$MFTMirr", "NTFS", "ntfsfix", "ntfsprogs", "Windows"]
 slug: "solucionado-el-error-mftmirr-does-not-match-mft-record-0-al-montar-una-particion-ntfs"

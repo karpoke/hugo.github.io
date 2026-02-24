@@ -1,7 +1,6 @@
 ---
 title: "The Forgotten History Of CGI"
 date: 2014-05-31T20:58:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "the-forgotten-history-of-cgi"

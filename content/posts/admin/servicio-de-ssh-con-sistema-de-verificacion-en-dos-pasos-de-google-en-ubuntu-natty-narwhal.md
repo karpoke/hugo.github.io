@@ -1,7 +1,6 @@
 ---
 title: "Servicio de SSH con sistema de verificación en dos pasos de Google en Ubuntu Natty Narwhal"
 date: 2011-08-05T02:21:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["10.04", "11.04", "12.04", "2FA", "android", "blackberry", "contraseña de un solo uso", "doble autenticación", "FreeOTP", "google", "Google Authenticator", "hg", "HOTP", "iphone", "mercurial", "OTP", "pin", "qrcode", "qrdecode", "scp", "ssh", "token", "TOTP", "ubuntu", "ubuntu lucid lynx", "ubuntu natty narwhal", "ubuntu precise pangolin", "verificación en dos pasos", "wget"]
 slug: "servicio-de-ssh-con-sistema-de-verificacion-en-dos-pasos-de-google-en-ubuntu-natty-narwhal"

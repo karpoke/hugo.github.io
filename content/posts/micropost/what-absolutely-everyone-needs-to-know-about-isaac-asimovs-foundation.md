@@ -1,7 +1,6 @@
 ---
 title: "What Absolutely Everyone Needs To Know About Isaac Asimov’s Foundation"
 date: 2014-12-27T11:52:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "what-absolutely-everyone-needs-to-know-about-isaac-asimovs-foundation"

@@ -1,7 +1,6 @@
 ---
 title: "El extraño caso de la función negada en Javascript"
 date: 2012-06-26T13:23:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "el-extrano-caso-de-la-funcion-negada-en-javascript"

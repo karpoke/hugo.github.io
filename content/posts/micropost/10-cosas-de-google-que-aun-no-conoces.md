@@ -1,7 +1,6 @@
 ---
 title: "10 cosas de Google que aún no conoces"
 date: 2018-08-06T07:00:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "10-cosas-de-google-que-aun-no-conoces"

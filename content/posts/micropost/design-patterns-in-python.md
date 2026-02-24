@@ -1,7 +1,6 @@
 ---
 title: "Design Patterns in Python"
 date: 2019-12-16T23:44:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "design-patterns-in-python"

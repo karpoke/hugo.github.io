@@ -1,7 +1,6 @@
 ---
 title: "MiniDLNA en Ubuntu Trusty Tahr"
 date: 2014-11-11T15:23:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["14.04", "android", "checkinstall", "código fuente", "dlna", "init", "mediahouse", "minidlna", "ubuntu trusty tahr", "ufw"]
 slug: "minidlna-en-ubuntu-trusty-tahr"

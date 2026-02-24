@@ -1,7 +1,6 @@
 ---
 title: "Forzar el uso de SSL/HTTPS de un directorio en Apache2 mediante .htaccess y mod_rewrite"
 date: 2012-05-10T15:35:00+01:00
-draft: false
 categories: ["admin"]
 tags: [".htaccess", "https", "mod_rewrite", "ssl"]
 slug: "forzar-el-uso-de-sslhttps-de-un-directorio-en-apache2-mediante-htaccess-y-mod_rewrite"

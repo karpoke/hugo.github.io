@@ -1,7 +1,6 @@
 ---
 title: "Saltar a una entrada aleatoria en WordPress"
 date: 2012-07-27T00:20:00+01:00
-draft: false
 categories: ["dev"]
 tags: ["aleatoriedad", "página aleatoria", "php", "wordpress"]
 slug: "saltar-a-una-entrada-aleatoria-en-wordpress"

@@ -1,7 +1,6 @@
 ---
 title: "Intercambio de los valores de dos variables"
 date: 2010-12-03T21:01:00+01:00
-draft: false
 categories: ["dev"]
 tags: ["bash", "intercambio de valores", "python"]
 slug: "intercambio-de-los-valores-de-dos-variables"

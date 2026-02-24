@@ -1,7 +1,6 @@
 ---
 title: "Tor at the heart: bridges and pluggable transports"
 date: 2016-12-11T22:43:00+01:00
-draft: false
 categories: ["micropost"]
 tags: ["Tor", "censura", "anonimato", "protocolos ofuscados", "repetidores anónimos"]
 slug: "tor-at-the-heart-bridges-and-pluggable-transports"

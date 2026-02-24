@@ -1,7 +1,6 @@
 ---
 title: "Free and Openand Their Opposites"
 date: 2013-04-04T21:31:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "free-and-open-and-their-opposites"

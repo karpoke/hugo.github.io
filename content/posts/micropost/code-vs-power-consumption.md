@@ -1,7 +1,6 @@
 ---
 title: "Code vs. power consumption"
 date: 2012-06-16T18:49:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "code-vs-power-consumption"

@@ -1,7 +1,6 @@
 ---
 title: "El origen del tono que escuchamos al hacer una llamada"
 date: 2016-06-02T00:44:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "el-origen-del-tono-que-escuchamos-al-hacer-una-llamada"

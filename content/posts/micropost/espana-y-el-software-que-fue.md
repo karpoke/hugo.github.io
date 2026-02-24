@@ -1,7 +1,6 @@
 ---
 title: "España y el software que fue"
 date: 2016-02-29T09:54:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "espana-y-el-software-que-fue"

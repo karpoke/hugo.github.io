@@ -1,7 +1,6 @@
 ---
 title: "Cómo lancé un proyecto rentable sin escribir ni una línea de código"
 date: 2014-10-26T12:32:00+01:00
-draft: false
 categories: ["micropost"]
 tags: ["iniciativas", "proyectos", "proveedores", "servicios"]
 slug: "como-lance-un-proyecto-rentable-sin-escribir-ni-una-linea-de-codigo"

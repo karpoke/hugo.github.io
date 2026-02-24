@@ -1,7 +1,6 @@
 ---
 title: "Historia de los videojuegos: los orígenes"
 date: 2015-02-18T21:05:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "historia-de-los-videojuegos-los-origenes"

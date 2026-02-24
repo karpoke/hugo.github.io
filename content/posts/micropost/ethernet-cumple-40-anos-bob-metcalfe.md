@@ -1,7 +1,6 @@
 ---
 title: "Ethernet cumple 40 años: Bob Metcalfe"
 date: 2013-06-16T23:06:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "ethernet-cumple-40-anos-bob-metcalfe"

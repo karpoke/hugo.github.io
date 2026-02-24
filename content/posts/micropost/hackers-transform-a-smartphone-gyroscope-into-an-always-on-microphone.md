@@ -1,7 +1,6 @@
 ---
 title: "Hackers transform a smartphone gyroscope into an always-on microphone"
 date: 2014-08-16T09:16:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "hackers-transform-a-smartphone-gyroscope-into-an-always-on-microphone"

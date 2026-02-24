@@ -1,7 +1,6 @@
 ---
 title: "Everything you need to know about the Heartbleed SSL bug"
 date: 2014-11-14T16:02:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "everything-you-need-to-know-about-the-heartbleed-ssl-bug"

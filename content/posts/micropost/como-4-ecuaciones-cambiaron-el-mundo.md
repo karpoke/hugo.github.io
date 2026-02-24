@@ -1,7 +1,6 @@
 ---
 title: "Cómo 4 ecuaciones cambiaron el mundo"
 date: 2013-05-04T21:43:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "como-4-ecuaciones-cambiaron-el-mundo"

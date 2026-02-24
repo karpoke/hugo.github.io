@@ -1,7 +1,6 @@
 ---
 title: "Importar un volcado de datos en MySQL"
 date: 2011-03-27T22:09:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["mysql", "mysqldump", "mysqlimport"]
 slug: "importar-un-volcado-de-datos-en-mysql"

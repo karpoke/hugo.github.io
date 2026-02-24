@@ -1,7 +1,6 @@
 ---
 title: "What happens when you type google.com into your browser’s address box and press enter?"
 date: 2015-01-30T20:11:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "what-happens-when-you-type-google-com-into-your-browsers-address-box-and-press-enter"

@@ -1,7 +1,6 @@
 ---
 title: "SSLyze"
 date: 2013-03-29T22:54:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["ssl", "sslyze"]
 slug: "sslyze"

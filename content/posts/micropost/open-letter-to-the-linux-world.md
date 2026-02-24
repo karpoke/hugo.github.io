@@ -1,7 +1,6 @@
 ---
 title: "Open letter to the Linux World"
 date: 2014-08-31T17:34:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "open-letter-to-the-linux-world"

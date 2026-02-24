@@ -1,7 +1,6 @@
 ---
 title: "netcat - Cycles Per Instruction"
 date: 2014-05-25T11:48:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "netcat-cycles-per-instruction"

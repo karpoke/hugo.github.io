@@ -1,7 +1,6 @@
 ---
 title: "FreeNAS"
 date: 2013-11-03T13:35:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "freenas"

@@ -1,7 +1,6 @@
 ---
 title: "#ComparteCultura"
 date: 2012-01-11T01:33:00+01:00
-draft: false
 categories: ["memo"]
 tags: ["compartir", "internet", "kurioso", "ley sinde", "libertad", "neutralidad", "propiedad intelectual", "regulación", "sopa"]
 slug: "compartecultura"

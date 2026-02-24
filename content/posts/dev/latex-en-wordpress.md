@@ -1,7 +1,6 @@
 ---
 title: "LaTeX en Wordpress"
 date: 2011-03-29T18:54:00+01:00
-draft: false
 categories: ["dev"]
 tags: ["ecuaciones de segundo grado", "latex", "plugin", "wordpress"]
 slug: "latex-en-wordpress"

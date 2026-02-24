@@ -1,7 +1,6 @@
 ---
 title: "Imagen a través de SSH"
 date: 2011-09-28T20:48:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["eog", "gnome-screensaver", "imagemagick", "import", "pkill", "scp", "scrot", "ssh"]
 slug: "imagen-a-traves-de-ssh"

@@ -1,7 +1,6 @@
 ---
 title: "Caché de paquetes descargados en Ubuntu Trusty Tahr"
 date: 2014-05-17T01:30:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["14.04", "apt-cacher", "apt-cacher-ng", "aptproxy", "cache", "proxy", "ubuntu trusty tahr", "ufw", "w3m"]
 slug: "cache-de-paquetes-descargados-en-ubuntu-trusty-tahr"

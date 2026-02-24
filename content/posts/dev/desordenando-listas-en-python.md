@@ -1,7 +1,6 @@
 ---
 title: "Desordenando listas en Python"
 date: 2011-03-29T20:00:00+01:00
-draft: false
 categories: ["dev"]
 tags: ["algoritmo de Sattolo", "intercambio de valores", "permutación", "python", "shuffle"]
 slug: "desordenando-listas-en-python"

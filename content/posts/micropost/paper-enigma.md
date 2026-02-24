@@ -1,7 +1,6 @@
 ---
 title: "Paper Enigma"
 date: 2012-07-01T21:02:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "paper-enigma"

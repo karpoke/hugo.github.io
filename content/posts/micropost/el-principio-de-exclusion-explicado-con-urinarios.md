@@ -1,7 +1,6 @@
 ---
 title: "El principio de exclusión explicado con urinarios"
 date: 2013-03-20T00:54:00+01:00
-draft: false
 categories: ["micropost"]
 tags: ["principio de exlusión", "Wolfgang Pauli", "orbitales", "regla de Hund", "nivel de valencia"]
 slug: "el-principio-de-exclusion-explicado-con-urinarios"

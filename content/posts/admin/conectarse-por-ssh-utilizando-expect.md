@@ -1,7 +1,6 @@
 ---
 title: "Conectarse por SSH utilizando expect"
 date: 2011-06-17T14:59:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["clave pública", "contraseña", "expect", "ftp", "inicio de sesión", "openssh", "rsa", "script", "ssh"]
 slug: "conectarse-por-ssh-utilizando-expect"

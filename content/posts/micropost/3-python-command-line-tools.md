@@ -1,7 +1,6 @@
 ---
 title: "3 Python command-line tools"
 date: 2018-05-31T09:21:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "3-python-command-line-tools"

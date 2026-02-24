@@ -1,7 +1,6 @@
 ---
 title: "5 Fatal Docker Gotcha's 😱 - for new users"
 date: 2018-11-20T18:11:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "5-fatal-docker-gotcha-s-for-new-users"

@@ -1,7 +1,6 @@
 ---
 title: "Hidden Secret Codes for Google Android Mobile Phones"
 date: 2013-02-09T14:32:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "hidden-secret-codes-for-google-android-mobile-phones"

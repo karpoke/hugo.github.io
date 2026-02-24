@@ -1,7 +1,6 @@
 ---
 title: "List of TCS conferences and workshops"
 date: 2012-05-30T18:31:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "list-of-tcs-conferences-and-workshops"

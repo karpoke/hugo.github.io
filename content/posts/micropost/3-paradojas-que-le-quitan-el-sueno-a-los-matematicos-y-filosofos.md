@@ -1,7 +1,6 @@
 ---
 title: "3 paradojas que le quitan el sueño a los matemáticos y filósofos"
 date: 2018-01-11T08:35:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "3-paradojas-que-le-quitan-el-sueno-a-los-matematicos-y-filosofos"

@@ -1,7 +1,6 @@
 ---
 title: "UnicodeDecodeError con Wapiti"
 date: 2011-05-28T17:32:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["11.04", "ASCII", "crlf injection", "cross site scripting", "escáner de vulnerabilidades", "ldap injection", "python", "sql injection", "ubuntu natty narwhal", "uft-8", "unicode", "wapiti", "xpath injection", "xss"]
 slug: "unicodedecodeerror-con-wapiti"

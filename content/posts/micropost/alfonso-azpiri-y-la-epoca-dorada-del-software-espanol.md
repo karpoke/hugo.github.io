@@ -1,7 +1,6 @@
 ---
 title: "Alfonso Azpiri y la época dorada del software español"
 date: 2015-05-30T11:32:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "alfonso-azpiri-y-la-epoca-dorada-del-software-espanol"

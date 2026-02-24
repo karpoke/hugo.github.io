@@ -1,7 +1,6 @@
 ---
 title: "Old Spice Muscle Music"
 date: 2012-08-31T16:04:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "old-spice-muscle-music"

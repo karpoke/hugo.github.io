@@ -1,7 +1,6 @@
 ---
 title: "El dios de las pequeñas rendijas"
 date: 2012-07-31T13:20:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "el-dios-de-las-pequenas-rendijas"

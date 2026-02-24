@@ -1,7 +1,6 @@
 ---
 title: "Abusando del código de estado HTTP"
 date: 2011-02-22T17:02:00+01:00
-draft: false
 categories: ["hack"]
 tags: ["facebook", "fingerprinting", "gmail", "twitter"]
 slug: "abusando-del-codigo-de-estado-http"

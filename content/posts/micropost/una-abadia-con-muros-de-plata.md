@@ -1,7 +1,6 @@
 ---
 title: "Una abadía con muros de plata"
 date: 2012-12-12T13:29:00+01:00
-draft: false
 categories: ["micropost"]
 tags: ["videojuegos", "época dorada del software español"]
 slug: "una-abadia-con-muros-de-plata"

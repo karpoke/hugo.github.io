@@ -1,7 +1,6 @@
 ---
 title: "«¿De quién es el pez?», resuelto mediante Prolog"
 date: 2015-12-26T19:02:00+01:00
-draft: false
 categories: ["dev"]
 tags: ["acertijo lógico", "Einstein", "problemas de matemáticas", "prolog", "swipl"]
 slug: "de-quien-es-el-pez-resuelto-mediante-prolog"

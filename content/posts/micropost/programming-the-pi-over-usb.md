@@ -1,7 +1,6 @@
 ---
 title: "Programming the Pi over USB"
 date: 2016-07-10T00:58:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "programming-the-pi-over-usb"

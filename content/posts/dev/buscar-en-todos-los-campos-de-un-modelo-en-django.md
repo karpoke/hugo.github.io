@@ -1,7 +1,6 @@
 ---
 title: "Buscar en todos los campos de un modelo en Django"
 date: 2010-11-19T20:49:00+01:00
-draft: false
 categories: ["dev"]
 tags: ["buscador", "django", "introspección"]
 slug: "buscar-en-todos-los-campos-de-un-modelo-en-django"

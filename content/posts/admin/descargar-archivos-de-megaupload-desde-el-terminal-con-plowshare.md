@@ -1,7 +1,6 @@
 ---
 title: "Descargar archivos de Megaupload desde el terminal con plowshare"
 date: 2011-09-18T03:57:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["captcha", "descargas", "megaupload", "mega", "plowdown", "plowshare"]
 slug: "descargar-archivos-de-megaupload-desde-el-terminal-con-plowshare"

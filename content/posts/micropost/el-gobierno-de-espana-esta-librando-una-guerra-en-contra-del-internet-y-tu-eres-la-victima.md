@@ -1,7 +1,6 @@
 ---
 title: "El Gobierno de España está librando una guerra en contra del internet y tú eres la víctima"
 date: 2014-07-21T07:38:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "el-gobierno-de-espana-esta-librando-una-guerra-en-contra-del-internet-y-tu-eres-la-victima"

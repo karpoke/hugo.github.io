@@ -1,7 +1,6 @@
 ---
 title: "FrootVPN, servicio VPN anónimo y gratuito para Android y Ubuntu"
 date: 2014-11-14T13:02:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["android", "anonimato", "frootvpn", "https", "nameserver", "network-manager", "openvpn", "privacidad", "resolv.conf", "resolvconf", "ubuntu", "vpn"]
 slug: "frootvpn-servicio-vpn-anonimo-y-gratuito-para-android-y-ubuntu"

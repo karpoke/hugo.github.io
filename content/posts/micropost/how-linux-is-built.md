@@ -1,7 +1,6 @@
 ---
 title: "How Linux is Built"
 date: 2012-05-17T21:07:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "how-linux-is-built"

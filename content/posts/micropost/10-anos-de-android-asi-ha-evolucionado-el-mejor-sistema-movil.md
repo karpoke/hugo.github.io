@@ -1,7 +1,6 @@
 ---
 title: "10 años de Android: así ha evolucionado el mejor sistema móvil"
 date: 2018-09-24T20:19:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "10-anos-de-android-asi-ha-evolucionado-el-mejor-sistema-movil"

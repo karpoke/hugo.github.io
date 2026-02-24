@@ -1,7 +1,6 @@
 ---
 title: "Programming Pearls and Python fails"
 date: 2016-09-22T08:30:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "programming-pearls-and-python-fails"

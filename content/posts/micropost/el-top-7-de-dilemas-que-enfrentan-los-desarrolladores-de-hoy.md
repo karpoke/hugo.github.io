@@ -1,7 +1,6 @@
 ---
 title: "El Top 7 de dilemas que enfrentan los desarrolladores de hoy"
 date: 2012-06-16T18:40:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "el-top-7-de-dilemas-que-enfrentan-los-desarrolladores-de-hoy"

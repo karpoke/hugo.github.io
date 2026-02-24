@@ -1,7 +1,6 @@
 ---
 title: "Did Bill Gates Steal the Heart of DOS?"
 date: 2012-08-08T17:43:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "did-bill-gates-steal-the-heart-of-dos"

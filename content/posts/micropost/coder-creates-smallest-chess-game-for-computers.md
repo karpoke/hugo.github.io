@@ -1,7 +1,6 @@
 ---
 title: "Coder creates smallest chess game for computers"
 date: 2015-01-30T17:11:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "coder-creates-smallest-chess-game-for-computers"

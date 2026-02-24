@@ -1,7 +1,6 @@
 ---
 title: "ZeroBin"
 date: 2012-04-21T17:31:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["cifrado", "open source", "pastebin", "zerobin"]
 slug: "zerobin"

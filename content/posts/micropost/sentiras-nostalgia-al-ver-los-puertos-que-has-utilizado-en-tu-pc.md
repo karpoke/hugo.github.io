@@ -1,7 +1,6 @@
 ---
 title: "Sentirás nostalgia al ver los puertos que has utilizado en tu PC"
 date: 2016-06-28T07:42:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "sentiras-nostalgia-al-ver-los-puertos-que-has-utilizado-en-tu-pc"

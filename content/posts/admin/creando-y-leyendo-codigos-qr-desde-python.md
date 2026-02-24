@@ -1,7 +1,6 @@
 ---
 title: "Creando y leyendo códigos QR desde Python"
 date: 2011-03-27T19:46:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["10.10", "curl", "egg", "google chart api", "imaging", "jcc", "make", "oneliner", "pyqrcode", "python", "qr", "qrcode", "qrencode", "setuptools", "ubuntu maverick meerkat", "ubuntu one"]
 slug: "creando-y-leyendo-codigos-qr-desde-python"

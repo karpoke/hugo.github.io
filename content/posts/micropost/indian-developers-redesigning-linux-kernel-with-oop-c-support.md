@@ -1,7 +1,6 @@
 ---
 title: "Indian Developers Redesigning Linux Kernel With OOP, C++ Support"
 date: 2014-10-05T11:36:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "indian-developers-redesigning-linux-kernel-with-oop-c-support"

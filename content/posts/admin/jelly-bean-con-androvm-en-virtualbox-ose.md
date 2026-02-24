@@ -1,7 +1,6 @@
 ---
 title: "Jelly Bean con AndroVM en VirtualBox OSE"
 date: 2012-12-15T18:40:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["aceleración gráfica", "android", "androvm", "androvmplayer", "hardware opengl", "jelly bean", "máquina virtual", "ova", "virtualbox-ose"]
 slug: "jelly-bean-con-androvm-en-virtualbox-ose"

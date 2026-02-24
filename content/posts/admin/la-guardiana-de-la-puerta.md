@@ -1,7 +1,6 @@
 ---
 title: "La guardiana de la puerta"
 date: 2010-10-22T19:37:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["detección de intrusos", "el guardián de la puerta de Zuul", "inicio de sesión", "mail", "script"]
 slug: "la-guardiana-de-la-puerta"

@@ -1,7 +1,6 @@
 ---
 title: "sudo vacilón"
 date: 2011-08-04T13:32:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["sudo", "sudo rm -fr", "visudo"]
 slug: "sudo-vacilon"

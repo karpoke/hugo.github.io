@@ -1,7 +1,6 @@
 ---
 title: "Servicio de SSH con Latch en Ubuntu"
 date: 2015-03-22T02:01:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["2FA", "latch", "latch-ssh-cmd", "OTP", "ssh", "ubuntu"]
 slug: "servicio-de-ssh-con-latch-en-ubuntu"

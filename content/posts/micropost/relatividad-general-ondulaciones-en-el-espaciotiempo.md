@@ -1,7 +1,6 @@
 ---
 title: "Relatividad general, ondulaciones en el espaciotiempo"
 date: 2015-11-07T14:57:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "relatividad-general-ondulaciones-en-el-espaciotiempo"

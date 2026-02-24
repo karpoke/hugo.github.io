@@ -1,7 +1,6 @@
 ---
 title: "La vida, ¿es inevitable o un simple acontecimiento fortuito?"
 date: 2012-07-07T18:35:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "la-vida-es-inevitable-o-un-simple-acontecimiento-fortuito"

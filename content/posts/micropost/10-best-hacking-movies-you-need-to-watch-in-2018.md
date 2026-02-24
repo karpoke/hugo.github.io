@@ -1,7 +1,6 @@
 ---
 title: "10 Best Hacking Movies You Need To Watch In 2018"
 date: 2017-12-10T10:50:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "10-best-hacking-movies-you-need-to-watch-in-2018"

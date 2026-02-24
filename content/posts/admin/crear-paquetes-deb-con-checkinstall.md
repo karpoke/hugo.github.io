@@ -1,7 +1,6 @@
 ---
 title: "Crear paquetes .deb con checkinstall"
 date: 2014-05-10T18:40:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["checkinstall", "deb", "dnscrypt", "dpkg", "libsodium", "rpm"]
 slug: "crear-paquetes-deb-con-checkinstall"

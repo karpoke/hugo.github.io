@@ -1,7 +1,6 @@
 ---
 title: "Kippo, probando un honeypot en Ubuntu"
 date: 2012-05-13T16:19:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["honeypot", "kippo", "mysql", "netstat", "nmap", "ubuntu"]
 slug: "kippo-probando-un-honeypot-en-ubuntu"

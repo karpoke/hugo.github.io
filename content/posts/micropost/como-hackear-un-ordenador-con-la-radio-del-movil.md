@@ -1,7 +1,6 @@
 ---
 title: "Cómo ’hackear’ un ordenador con la radio del móvil"
 date: 2014-11-04T09:50:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "como-hackear-un-ordenador-con-la-radio-del-movil"

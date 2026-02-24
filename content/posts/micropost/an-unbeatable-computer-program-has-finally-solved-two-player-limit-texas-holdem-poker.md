@@ -1,7 +1,6 @@
 ---
 title: "An unbeatable computer program has finally solved two-player limit Texas hold’em poker"
 date: 2015-01-10T22:27:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "an-unbeatable-computer-program-has-finally-solved-two-player-limit-texas-holdem-poker"

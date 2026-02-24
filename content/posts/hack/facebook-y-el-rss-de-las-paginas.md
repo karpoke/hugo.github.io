@@ -1,7 +1,6 @@
 ---
 title: "Facebook y el RSS de las páginas"
 date: 2011-10-10T17:05:00+01:00
-draft: false
 categories: ["hack"]
 tags: ["atom", "facebook", "feed", "rss"]
 slug: "facebook-y-el-rss-de-las-paginas"

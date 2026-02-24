@@ -1,7 +1,6 @@
 ---
 title: "PC Keyboard: The First Five Years"
 date: 2019-10-27T16:20:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "pc-keyboard-the-first-five-years"

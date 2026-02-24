@@ -1,7 +1,6 @@
 ---
 title: "LEGO Turing Machine"
 date: 2012-06-21T03:43:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "lego-turing-machine"

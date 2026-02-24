@@ -1,7 +1,6 @@
 ---
 title: "Fixing E.T. The Extra-Terrestrial for the Atari 2600"
 date: 2016-09-24T17:03:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "fixing-e-t-the-extra-terrestrial-for-the-atari-2600"

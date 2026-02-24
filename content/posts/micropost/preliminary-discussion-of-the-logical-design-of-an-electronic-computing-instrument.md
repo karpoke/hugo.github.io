@@ -1,7 +1,6 @@
 ---
 title: "Preliminary discussion of the logical design of an electronic computing instrument"
 date: 2012-07-13T18:59:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "preliminary-discussion-of-the-logical-design-of-an-electronic-computing-instrument"

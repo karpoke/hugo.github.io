@@ -1,7 +1,6 @@
 ---
 title: "Music theory for nerds"
 date: 2016-09-25T12:26:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "music-theory-for-nerds"

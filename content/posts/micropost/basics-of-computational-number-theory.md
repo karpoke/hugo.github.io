@@ -1,7 +1,6 @@
 ---
 title: "Basics of Computational Number Theory"
 date: 2012-05-16T23:58:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "basics-of-computational-number-theory"

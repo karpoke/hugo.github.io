@@ -1,7 +1,6 @@
 ---
 title: "Cifrar el contenido de Dropbox"
 date: 2011-04-21T13:37:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["AES", "cifrado", "dropbox", "ecryptfs", "fstab", "mount", "setuid", "ssl"]
 slug: "cifrar-el-contenido-de-dropbox"

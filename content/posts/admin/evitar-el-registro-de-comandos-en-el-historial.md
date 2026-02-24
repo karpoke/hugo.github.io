@@ -1,7 +1,6 @@
 ---
 title: "Evitar el registro de comandos en el historial"
 date: 2012-03-16T14:21:00+01:00
-draft: false
 categories: ["admin"]
 tags: [".bash_history", "HISTCONTROL", "HISTFILE", "HISTFILESIZE", "HISTIGNORE", "history", "HISTSIZE", "HISTTIMEFORMAT"]
 slug: "evitar-el-registro-de-comandos-en-el-historial"

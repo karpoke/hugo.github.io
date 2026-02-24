@@ -1,7 +1,6 @@
 ---
 title: "How Video Game Breasts Are Made (And Why They Can Go Wrong)"
 date: 2015-03-12T21:48:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "how-video-game-breasts-are-made-and-why-they-can-go-wrong"

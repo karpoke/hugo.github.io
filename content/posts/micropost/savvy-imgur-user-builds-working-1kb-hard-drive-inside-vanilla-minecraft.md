@@ -1,7 +1,6 @@
 ---
 title: "Savvy Imgur user builds working 1KB hard drive inside ’vanilla’ Minecraft"
 date: 2014-09-21T11:58:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "savvy-imgur-user-builds-working-1kb-hard-drive-inside-vanilla-minecraft"

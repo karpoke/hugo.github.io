@@ -1,7 +1,6 @@
 ---
 title: "The Locksmith Who Picked Two “Unbeatable” Locks and Ended the Era of “Perfect Security”"
 date: 2015-05-03T10:25:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "the-locksmith-who-picked-two-unbeatable-locks-and-ended-the-era-of-perfect-security"

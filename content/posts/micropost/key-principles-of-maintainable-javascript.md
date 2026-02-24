@@ -1,7 +1,6 @@
 ---
 title: "Key Principles of Maintainable JavaScript"
 date: 2012-07-11T18:45:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "key-principles-of-maintainable-javascript"

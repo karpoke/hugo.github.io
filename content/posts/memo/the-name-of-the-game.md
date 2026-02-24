@@ -1,7 +1,6 @@
 ---
 title: "The name of the game"
 date: 2010-10-28T19:07:00+01:00
-draft: false
 categories: ["memo"]
 tags: ["isaac asimov", "terminus"]
 slug: "the-name-of-the-game"

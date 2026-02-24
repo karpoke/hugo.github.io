@@ -1,7 +1,6 @@
 ---
 title: "The Rule of The Big Three (and a half) – Resource Management in C++"
 date: 2015-01-18T10:59:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "the-rule-of-the-big-three-and-a-half-resource-management-in-c"

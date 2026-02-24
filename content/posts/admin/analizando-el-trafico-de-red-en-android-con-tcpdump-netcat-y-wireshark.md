@@ -1,7 +1,6 @@
 ---
 title: "Analizando el tráfico de red en Android con tcpdump, netcat y Wireshark"
 date: 2012-08-20T01:55:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["adb", "adb wifi", "android", "arm", "http", "nc", "netcat", "tcpdump", "tcpdump-arm", "tráfico de red", "wireshark"]
 slug: "analizando-el-trafico-de-red-en-android-con-tcpdump-netcat-y-wireshark"

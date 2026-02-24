@@ -1,7 +1,6 @@
 ---
 title: "10 Cool Command Line Tools For Your Linux Terminal"
 date: 2019-02-03T21:14:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "10-cool-command-line-tools-for-your-linux-terminal"

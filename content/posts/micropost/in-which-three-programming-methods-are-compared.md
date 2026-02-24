@@ -1,7 +1,6 @@
 ---
 title: "in which three programming methods are compared"
 date: 2012-06-25T11:25:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "in-which-three-programming-methods-are-compared"

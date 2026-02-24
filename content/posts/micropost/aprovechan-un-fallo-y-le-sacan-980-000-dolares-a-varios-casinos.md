@@ -1,7 +1,6 @@
 ---
 title: "Aprovechan un fallo y le sacan 980.000 dólares a varios casinos"
 date: 2014-10-09T20:13:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "aprovechan-un-fallo-y-le-sacan-980-000-dolares-a-varios-casinos"

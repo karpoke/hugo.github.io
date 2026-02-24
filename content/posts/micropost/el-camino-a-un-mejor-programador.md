@@ -1,7 +1,6 @@
 ---
 title: "El camino a un mejor programador"
 date: 2012-12-17T01:08:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "el-camino-a-un-mejor-programador"

@@ -1,7 +1,6 @@
 ---
 title: "Actualizando Ubuntu a la última distribución de forma remota"
 date: 2011-01-07T04:38:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["10.04", "10.10", "actualización", "do-release-upgrade", "ubuntu lucid lynx", "ubuntu maverick meerkat", "update-manager"]
 slug: "actualizando-ubuntu-a-la-ultima-distribucion-de-forma-remota"

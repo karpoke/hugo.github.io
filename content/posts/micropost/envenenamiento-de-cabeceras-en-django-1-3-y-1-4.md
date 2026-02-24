@@ -1,7 +1,6 @@
 ---
 title: "Envenenamiento de cabeceras en Django 1.3 y 1.4"
 date: 2012-10-28T12:57:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "envenenamiento-de-cabeceras-en-django-1-3-y-1-4"

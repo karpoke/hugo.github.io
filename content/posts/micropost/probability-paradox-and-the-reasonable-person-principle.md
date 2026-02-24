@@ -1,7 +1,6 @@
 ---
 title: "Probability, Paradox, and the Reasonable Person Principle"
 date: 2015-10-17T12:05:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "probability-paradox-and-the-reasonable-person-principle"

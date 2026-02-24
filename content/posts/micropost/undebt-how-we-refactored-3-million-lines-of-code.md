@@ -1,7 +1,6 @@
 ---
 title: "Undebt: how we refactored 3 million lines of code"
 date: 2016-12-07T20:57:00+01:00
-draft: false
 categories: ["micropost"]
 tags: ["refactorización"]
 slug: "undebt-how-we-refactored-3-million-lines-of-code"

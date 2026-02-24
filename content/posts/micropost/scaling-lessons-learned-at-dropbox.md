@@ -1,7 +1,6 @@
 ---
 title: "Scaling lessons learned at Dropbox"
 date: 2012-07-13T18:03:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "scaling-lessons-learned-at-dropbox"

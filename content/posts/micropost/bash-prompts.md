@@ -1,7 +1,6 @@
 ---
 title: "Bash prompts"
 date: 2012-07-27T19:34:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "bash-prompts"

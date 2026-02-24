@@ -1,7 +1,6 @@
 ---
 title: "Android, iOS, tiempos de respuestas y por qué nada es gratis en sistemas informáticos"
 date: 2012-10-09T19:59:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "android-ios-tiempos-de-respuestas-y-por-que-nada-es-gratis-en-sistemas-informaticos"

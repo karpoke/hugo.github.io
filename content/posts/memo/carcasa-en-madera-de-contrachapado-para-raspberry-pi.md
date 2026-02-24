@@ -1,7 +1,6 @@
 ---
 title: "Carcasa en madera de contrachapado para Raspberry Pi"
 date: 2012-07-27T11:06:00+01:00
-draft: false
 categories: ["memo"]
 tags: ["bricolaje", "caja", "carcasa", "diy", "funda", "raspberry pi"]
 slug: "carcasa-en-madera-de-contrachapado-para-raspberry-pi"

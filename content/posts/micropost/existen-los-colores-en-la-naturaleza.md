@@ -1,7 +1,6 @@
 ---
 title: "¿Existen los colores en la naturaleza?"
 date: 2012-07-15T17:17:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "existen-los-colores-en-la-naturaleza"

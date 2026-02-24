@@ -1,7 +1,6 @@
 ---
 title: "Endianness"
 date: 2011-07-30T17:34:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["big-endian", "byteorder", "c", "casting", "little-endian", "middle-endian", "oneliner", "pack", "perl", "python", "sys"]
 slug: "endianness"

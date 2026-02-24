@@ -1,7 +1,6 @@
 ---
 title: "Una cebolla que nos puede hacer llorar"
 date: 2012-07-01T23:51:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "una-cebolla-que-nos-puede-hacer-llorar"

@@ -1,7 +1,6 @@
 ---
 title: "El consumo de la batería"
 date: 2011-10-01T19:55:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["ahorro energético", "ASPM", "grub", "kernel", "powertop", "vida de la batería"]
 slug: "el-consumo-de-la-bateria"

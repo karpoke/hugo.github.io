@@ -1,7 +1,6 @@
 ---
 title: "Comprobar a dónde nos lleva un enlace corto"
 date: 2011-05-07T12:54:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["curl"]
 slug: "comprobar-a-donde-nos-lleva-un-enlace-corto"

@@ -1,7 +1,6 @@
 ---
 title: "An open letter to Senator Rockefeller"
 date: 2012-09-20T20:49:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "an-open-letter-to-senator-rockefeller"

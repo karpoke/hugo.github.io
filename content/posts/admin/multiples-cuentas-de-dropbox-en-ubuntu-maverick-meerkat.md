@@ -1,7 +1,6 @@
 ---
 title: "Múltiples cuentas de Dropbox en Ubuntu Maverick Meerkat"
 date: 2011-03-30T14:54:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["10.10", "dropbox", "nautilus-dropbox", "script", "ubuntu maverick meerkat", "ubuntu one"]
 slug: "multiples-cuentas-de-dropbox-en-ubuntu-maverick-meerkat"

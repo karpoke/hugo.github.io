@@ -1,7 +1,6 @@
 ---
 title: "Solucionado el error «prelink: ... is not an ELF file»"
 date: 2013-03-21T21:15:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["12.04", "error", "md5sum", "parche", "prelink", "quantal", "quetzal", "tiger", "tigercron", "ubuntu"]
 slug: "solucionado-el-error-prelink-is-not-an-elf-file"

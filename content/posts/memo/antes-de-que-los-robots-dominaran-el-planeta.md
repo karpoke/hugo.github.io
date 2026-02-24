@@ -1,7 +1,6 @@
 ---
 title: "Antes de que los robots dominaran el planeta"
 date: 2010-07-28T12:52:00+01:00
-draft: false
 categories: ["memo"]
 tags: ["isaac asimov", "robots"]
 slug: "antes-de-que-los-robots-dominaran-el-planeta"

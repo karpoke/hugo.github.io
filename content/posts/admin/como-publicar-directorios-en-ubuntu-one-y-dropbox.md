@@ -1,7 +1,6 @@
 ---
 title: "Cómo publicar directorios en Ubuntu One y Dropbox"
 date: 2010-10-31T06:28:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["almacenamiento en la nube", "compartir", "dropbox", "licencia de uso", "privacidad", "python", "script", "software libre", "términos del servicio", "u1sdtool", "ubuntu one"]
 slug: "como-publicar-directorios-en-ubuntu-one-y-dropbox"

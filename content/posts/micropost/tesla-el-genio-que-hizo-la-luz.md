@@ -1,7 +1,6 @@
 ---
 title: "Tesla, el genio que hizo la luz"
 date: 2012-06-25T11:07:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "tesla-el-genio-que-hizo-la-luz"

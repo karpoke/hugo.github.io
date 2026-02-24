@@ -1,7 +1,6 @@
 ---
 title: "Automating backups on a Raspberry Pi NAS"
 date: 2018-08-15T09:14:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "automating-backups-on-a-raspberry-pi-nas"

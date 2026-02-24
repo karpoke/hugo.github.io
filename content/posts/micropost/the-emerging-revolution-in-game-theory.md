@@ -1,7 +1,6 @@
 ---
 title: "The Emerging Revolution in Game Theory"
 date: 2012-08-20T00:17:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "the-emerging-revolution-in-game-theory"

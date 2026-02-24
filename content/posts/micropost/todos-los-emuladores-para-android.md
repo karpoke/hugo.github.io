@@ -1,7 +1,6 @@
 ---
 title: "Todos los emuladores para Android"
 date: 2012-07-24T19:59:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "todos-los-emuladores-para-android"

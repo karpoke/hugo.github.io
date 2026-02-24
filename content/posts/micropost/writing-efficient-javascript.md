@@ -1,7 +1,6 @@
 ---
 title: "Writing efficient JavaScript"
 date: 2016-11-30T08:34:00+01:00
-draft: false
 categories: ["micropost"]
 tags: ["javascript", "eficiencia", "optimización", "recolector de basura"]
 slug: "writing-efficient-javascript"

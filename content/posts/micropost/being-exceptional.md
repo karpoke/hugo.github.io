@@ -1,7 +1,6 @@
 ---
 title: "Being exceptional"
 date: 2012-05-29T16:30:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "being-exceptional"

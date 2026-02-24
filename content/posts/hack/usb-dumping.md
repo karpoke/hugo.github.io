@@ -1,7 +1,6 @@
 ---
 title: "USB Dumping"
 date: 2010-10-27T19:44:00+01:00
-draft: false
 categories: ["hack"]
 tags: ["cp", "dd", "mount", "script", "sysfs", "udev", "usb dumping"]
 slug: "usb-dumping"

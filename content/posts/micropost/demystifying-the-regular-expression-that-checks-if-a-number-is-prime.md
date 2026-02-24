@@ -1,7 +1,6 @@
 ---
 title: "Demystifying the regular expression that checks if a number is prime"
 date: 2016-09-10T18:02:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "demystifying-the-regular-expression-that-checks-if-a-number-is-prime"

@@ -1,7 +1,6 @@
 ---
 title: "History of the browser user-agent string"
 date: 2012-07-17T13:09:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "history-of-the-browser-user-agent-string"

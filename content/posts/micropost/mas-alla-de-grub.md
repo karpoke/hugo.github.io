@@ -1,7 +1,6 @@
 ---
 title: "Más allá de GRUB"
 date: 2019-11-23T12:57:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "mas-alla-de-grub.md"

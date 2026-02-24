@@ -1,7 +1,6 @@
 ---
 title: "Mostrando las cabeceras HTTP"
 date: 2010-10-07T10:35:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["cabeceras HTTP", "curl", "HEAD", "lynx", "netcat", "telnet", "w3m", "wget"]
 slug: "mostrando-las-cabeceras-http"

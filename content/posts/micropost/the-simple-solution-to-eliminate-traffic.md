@@ -1,7 +1,6 @@
 ---
 title: "The simple solution to eliminate traffic"
 date: 2016-09-11T17:09:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "the-simple-solution-to-eliminate-traffic"

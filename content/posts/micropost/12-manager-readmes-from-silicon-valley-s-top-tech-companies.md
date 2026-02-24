@@ -1,7 +1,6 @@
 ---
 title: "12 “Manager READMEs” from Silicon Valley’s Top Tech Companies"
 date: 2018-05-03T17:48:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "12-manager-readmes-from-silicon-valley-s-top-tech-companies"

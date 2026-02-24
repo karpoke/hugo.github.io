@@ -1,7 +1,6 @@
 ---
 title: "Cambiar el firmware del router Comtrend AR-5381u por uno libre"
 date: 2012-06-04T13:32:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["ar5381u", "comtrend", "firmware", "firmware libre", "Jazztel", "opendns", "ts-069"]
 slug: "cambiar-el-firmware-del-router-comtrend-ar-5381u-por-uno-libre"

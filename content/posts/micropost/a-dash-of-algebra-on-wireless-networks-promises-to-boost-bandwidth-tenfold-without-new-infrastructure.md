@@ -1,7 +1,6 @@
 ---
 title: "A dash of algebra on wireless networks promises to boost bandwidth tenfold, without new infrastructure"
 date: 2012-10-28T12:01:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "a-dash-of-algebra-on-wireless-networks-promises-to-boost-bandwidth-tenfold-without-new-infrastructure"

@@ -1,7 +1,6 @@
 ---
 title: "De aquí al 2038"
 date: 2010-10-07T13:27:00+01:00
-draft: false
 categories: ["memo"]
 tags: ["cadenas", "cal", "y2k38"]
 slug: "de-aqui-al-2038"

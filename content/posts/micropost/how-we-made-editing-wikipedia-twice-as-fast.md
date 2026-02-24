@@ -1,7 +1,6 @@
 ---
 title: "How we made editing Wikipedia twice as fast"
 date: 2015-01-11T18:07:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "how-we-made-editing-wikipedia-twice-as-fast"

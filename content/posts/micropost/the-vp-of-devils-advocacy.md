@@ -1,7 +1,6 @@
 ---
 title: "The VP of Devil’s Advocacy"
 date: 2014-08-07T21:04:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "the-vp-of-devils-advocacy"

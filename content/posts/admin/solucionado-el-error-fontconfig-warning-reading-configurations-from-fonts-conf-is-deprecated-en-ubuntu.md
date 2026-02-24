@@ -1,7 +1,6 @@
 ---
 title: 'Solucionado el error "Fontconfig warning: reading configurations from ~/.fonts.conf is deprecated." en Ubuntu'
 date: 2012-12-23T13:51:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["12.10", "deprecated", "fontconfig", "quantal quetzal", "ubuntu", "warning"]
 slug: "solucionado-el-error-fontconfig-warning-reading-configurations-from-fonts-conf-is-deprecated-en-ubuntu"

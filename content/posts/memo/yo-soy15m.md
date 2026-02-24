@@ -1,7 +1,6 @@
 ---
 title: "Yo #soy15m"
 date: 2011-06-18T18:53:00+01:00
-draft: false
 categories: ["memo"]
 tags: ["soy15m"]
 slug: "yo-soy15m"

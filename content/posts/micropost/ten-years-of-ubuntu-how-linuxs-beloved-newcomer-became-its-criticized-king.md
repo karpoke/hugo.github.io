@@ -1,7 +1,6 @@
 ---
 title: "Ten years of Ubuntu: how Linux’s beloved newcomer became its criticized king"
 date: 2014-12-07T15:01:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "ten-years-of-ubuntu-how-linuxs-beloved-newcomer-became-its-criticized-king"

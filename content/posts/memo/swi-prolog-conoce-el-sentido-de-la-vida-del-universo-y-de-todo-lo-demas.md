@@ -1,7 +1,6 @@
 ---
 title: "SWI-Prolog conoce el sentido de la vida, del universo y de todo lo demas"
 date: 2011-01-18T12:22:00+01:00
-draft: false
 categories: ["memo"]
 tags: ["42", "el sentido de la vida", "swi-prolog", "swipl"]
 slug: "swi-prolog-conoce-el-sentido-de-la-vida-del-universo-y-de-todo-lo-demas"

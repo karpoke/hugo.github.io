@@ -1,7 +1,6 @@
 ---
 title: "Cifrar un directorio sincronizado en Mega con encfs"
 date: 2015-01-28T23:54:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["AES", "cifrado", "encfs", "fstab", "mega", "mount", "script", "umount"]
 slug: "cifrar-un-directorio-sincronizado-en-mega-con-encfs"

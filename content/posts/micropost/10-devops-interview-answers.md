@@ -1,7 +1,6 @@
 ---
 title: "10 DevOps Interview Answers"
 date: 2018-04-05T11:10:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "10-devops-interview-answers"

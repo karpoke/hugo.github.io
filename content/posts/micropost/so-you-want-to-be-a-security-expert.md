@@ -1,7 +1,6 @@
 ---
 title: "So You Want to Be a Security Expert"
 date: 2012-07-24T20:51:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "so-you-want-to-be-a-security-expert"

@@ -1,7 +1,6 @@
 ---
 title: "Crash of the Titans Science Visualization"
 date: 2012-06-01T15:54:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "crash-of-the-titans-science-visualization"

@@ -1,7 +1,6 @@
 ---
 title: "Instalar Spotify en Ubuntu 16.04"
 date: 2016-12-15T07:58:00+01:00
-draft: false
 categories: ["memo"]
 tags: ["Spotify", "Ubuntu", "Xenial Xerus", "16.04", "apt-key", "sources.list", "apt", "PPA"]
 slug: "instalar-spotify-en-ubuntu-16-04"

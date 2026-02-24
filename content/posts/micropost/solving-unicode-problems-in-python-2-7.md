@@ -1,7 +1,6 @@
 ---
 title: "Solving Unicode Problems in Python 2.7"
 date: 2016-06-08T22:24:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "solving-unicode-problems-in-python-2-7"

@@ -1,7 +1,6 @@
 ---
 title: "Does rooting your device void your statutory warranty?"
 date: 2012-12-19T17:35:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "does-rooting-your-device-void-your-statutory-warranty"

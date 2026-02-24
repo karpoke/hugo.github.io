@@ -1,7 +1,6 @@
 ---
 title: "10 comandos de terminal que quizás no conocías"
 date: 2018-05-14T02:39:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "10-comandos-de-terminal-que-quizas-no-conocias"

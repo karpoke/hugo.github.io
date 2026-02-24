@@ -1,7 +1,6 @@
 ---
 title: "Free Software Foundation recommendations for free operating system distributions considering Secure Boot"
 date: 2012-07-06T14:33:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "free-software-foundation-recommendations-for-free-operating-system-distributions-considering-secure-boot"

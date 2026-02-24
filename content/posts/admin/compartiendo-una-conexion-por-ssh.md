@@ -1,7 +1,6 @@
 ---
 title: "Compartiendo una conexión por SSH"
 date: 2011-06-17T15:28:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["compartir", "openssh", "ssh"]
 slug: "compartiendo-una-conexion-por-ssh"

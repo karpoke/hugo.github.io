@@ -1,7 +1,6 @@
 ---
 title: "Monitorizar el tamaño de un directorio con monit"
 date: 2012-09-22T15:17:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["monit", "script"]
 slug: "monitorizar-el-tamano-de-un-directorio-con-monit"

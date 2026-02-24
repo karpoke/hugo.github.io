@@ -1,7 +1,6 @@
 ---
 title: "Understanding Python Decorators in 12 Easy Steps!"
 date: 2012-07-24T19:52:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "understanding-python-decorators-in-12-easy-steps"

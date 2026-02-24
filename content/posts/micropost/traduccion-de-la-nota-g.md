@@ -1,7 +1,6 @@
 ---
 title: "Traducción de la Nota G"
 date: 2014-11-14T12:20:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "traduccion-de-la-nota-g"

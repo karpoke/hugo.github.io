@@ -1,7 +1,6 @@
 ---
 title: "Offline attack shows Wi-Fi routers still vulnerable"
 date: 2014-08-30T17:41:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "offline-attack-shows-wi-fi-routers-still-vulnerable"

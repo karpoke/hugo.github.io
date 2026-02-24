@@ -1,7 +1,6 @@
 ---
 title: "etckeeper, control de versiones del directorio /etc"
 date: 2012-12-21T16:41:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["aptitude", "bazaar", "bzr", "control de versiones", "cvs", "etc", "etckeeper", "rkhunter"]
 slug: "etckeeper-control-de-versiones-del-directorio-etc"

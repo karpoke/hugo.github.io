@@ -1,7 +1,6 @@
 ---
 title: "Protecting Your GNU/Linux System from Dropbox"
 date: 2012-05-30T00:18:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "protecting-your-gnulinux-system-from-dropbox"

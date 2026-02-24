@@ -1,7 +1,6 @@
 ---
 title: "12 Reasons Why Every Linux System Administrator Should be Lazy"
 date: 2012-07-24T18:32:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "12-reasons-why-every-linux-system-administrator-should-be-lazy"

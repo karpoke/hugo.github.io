@@ -1,7 +1,6 @@
 ---
 title: "pbzip2, un bzip2 más rápido"
 date: 2012-06-13T18:43:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["bzip2", "compresión de archivos", "pbzip2"]
 slug: "pbzip2-un-bzip2-mas-rapido"

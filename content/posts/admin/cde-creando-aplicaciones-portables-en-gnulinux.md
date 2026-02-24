@@ -1,7 +1,6 @@
 ---
 title: "CDE, creando aplicaciones portables en GNU/Linux"
 date: 2012-06-11T00:47:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["cde", "portable"]
 slug: "cde-creando-aplicaciones-portables-en-gnulinux"

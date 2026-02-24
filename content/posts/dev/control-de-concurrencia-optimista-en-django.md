@@ -1,7 +1,6 @@
 ---
 title: "Control de concurrencia optimista en Django"
 date: 2010-11-05T18:11:00+01:00
-draft: false
 categories: ["dev"]
 tags: ["condición de carrera", "control de concurrencia optimista", "django", "métodos perezosos"]
 slug: "control-de-concurrencia-optimista-en-django"

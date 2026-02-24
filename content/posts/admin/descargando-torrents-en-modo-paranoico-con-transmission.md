@@ -1,7 +1,6 @@
 ---
 title: "Descargando torrents en modo paranoico con Transmission"
 date: 2012-12-19T18:15:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["bittorrent", "dht", "p2p", "pex", "privacidad", "torrent", "transmission"]
 slug: "descargando-torrents-en-modo-paranoico-con-transmission"

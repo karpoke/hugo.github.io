@@ -1,7 +1,6 @@
 ---
 title: "The 30 CSS Selectors you Must Memorize"
 date: 2013-10-13T11:31:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "the-30-css-selectors-you-must-memorize"

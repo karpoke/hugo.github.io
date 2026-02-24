@@ -1,7 +1,6 @@
 ---
 title: "Qué son los cypherpunks y por qué son tan importanes en la lucha por la privacidad"
 date: 2016-12-11T03:49:00+01:00
-draft: false
 categories: ["micropost"]
 tags: ["cyberpunk", "hacktivismo", "privacidad", "PGP", "cifrado asimétrico", "criptografía", "anonimato", "Tor", "cipherpunk", "crypto rebels", "anonymous", "DES", "Julian Assange", "John Gilmore"]
 slug: "que-son-los-cypherpunks-y-por-que-son-tan-importanes-en-la-lucha-por-la-privacidad"

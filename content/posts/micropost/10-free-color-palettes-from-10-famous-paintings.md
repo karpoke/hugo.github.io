@@ -1,7 +1,6 @@
 ---
 title: "10 Free Color Palettes From 10 Famous Paintings"
 date: 2012-08-20T13:03:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "10-free-color-palettes-from-10-famous-paintings"

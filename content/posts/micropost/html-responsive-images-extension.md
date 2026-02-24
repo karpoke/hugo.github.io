@@ -1,7 +1,6 @@
 ---
 title: "HTML Responsive Images Extension"
 date: 2012-09-07T11:18:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "html-responsive-images-extension"

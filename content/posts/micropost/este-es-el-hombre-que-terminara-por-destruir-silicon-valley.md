@@ -1,7 +1,6 @@
 ---
 title: "Este es el hombre que terminará por destruir Silicon Valley"
 date: 2013-11-18T20:41:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "este-es-el-hombre-que-terminara-por-destruir-silicon-valley"

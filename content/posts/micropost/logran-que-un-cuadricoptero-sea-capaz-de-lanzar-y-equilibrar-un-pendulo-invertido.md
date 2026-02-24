@@ -1,7 +1,6 @@
 ---
 title: "Logran que un cuadricóptero sea capaz de lanzar y equilibrar un péndulo invertido"
 date: 2013-02-23T23:22:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "logran-que-un-cuadricoptero-sea-capaz-de-lanzar-y-equilibrar-un-pendulo-invertido"

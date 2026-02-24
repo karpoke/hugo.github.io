@@ -1,7 +1,6 @@
 ---
 title: "Initializing and Managing Services in Linux: Past, Present and Future"
 date: 2015-05-20T18:38:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "initializing-and-managing-services-in-linux-past-present-and-future"

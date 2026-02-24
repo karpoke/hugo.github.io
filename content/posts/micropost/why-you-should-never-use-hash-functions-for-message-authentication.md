@@ -1,7 +1,6 @@
 ---
 title: "Why you should never use hash functions for message authentication"
 date: 2012-06-27T23:54:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "why-you-should-never-use-hash-functions-for-message-authentication"

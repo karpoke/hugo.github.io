@@ -1,7 +1,6 @@
 ---
 title: "Never write for-loops again"
 date: 2016-12-12T00:22:00+01:00
-draft: false
 categories: ["micropost"]
 tags: ["buenas prácticas", "bucles", "listas por comprensión", "iteradores", "generadores", "Python"]
 slug: "never-write-for-loops-again"

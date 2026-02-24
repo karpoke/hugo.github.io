@@ -1,7 +1,6 @@
 ---
 title: "Los códigos genéticos e informáticos comparten sorprendentes similitudes"
 date: 2013-04-20T15:11:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "los-codigos-geneticos-e-informaticos-comparten-sorprendentes-similitudes"

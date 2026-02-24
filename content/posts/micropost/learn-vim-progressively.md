@@ -1,7 +1,6 @@
 ---
 title: "Learn Vim Progressively"
 date: 2012-07-31T14:58:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "learn-vim-progressively"

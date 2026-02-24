@@ -1,7 +1,6 @@
 ---
 title: "100 Diagrams That Changed the World"
 date: 2012-12-30T14:32:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "100-diagrams-that-changed-the-world"

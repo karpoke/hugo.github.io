@@ -1,7 +1,6 @@
 ---
 title: "Revistas y bases de datos on line sobre TIC y Educación"
 date: 2012-05-31T00:16:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "revistas-y-bases-de-datos-on-line-sobre-tic-y-educacion"

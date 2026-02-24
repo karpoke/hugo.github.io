@@ -1,7 +1,6 @@
 ---
 title: "Proving that Android’s, Java’s and Python’s sorting algorithm is broken (and showing how to fix it)"
 date: 2015-02-28T14:31:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "proving-that-androids-javas-and-pythons-sorting-algorithm-is-broken-and-showing-how-to-fix-it"

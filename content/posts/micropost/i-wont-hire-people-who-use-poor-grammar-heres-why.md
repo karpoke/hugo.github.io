@@ -1,7 +1,6 @@
 ---
 title: "I won’t hire people who use poor grammar. here’s why."
 date: 2012-07-31T14:37:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "i-wont-hire-people-who-use-poor-grammar-heres-why"

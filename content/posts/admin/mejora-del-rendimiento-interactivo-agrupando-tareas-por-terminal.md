@@ -1,7 +1,6 @@
 ---
 title: "Mejora del rendimiento interactivo agrupando tareas por terminal"
 date: 2010-12-16T02:03:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["kernel", "parche", "rendimiento"]
 slug: "mejora-del-rendimiento-interactivo-agrupando-tareas-por-terminal"

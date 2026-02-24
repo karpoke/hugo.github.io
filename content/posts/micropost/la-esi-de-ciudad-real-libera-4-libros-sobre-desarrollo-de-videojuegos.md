@@ -1,7 +1,6 @@
 ---
 title: "La ESI de Ciudad Real libera 4 libros sobre Desarrollo de Videojuegos"
 date: 2012-08-01T10:06:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "la-esi-de-ciudad-real-libera-4-libros-sobre-desarrollo-de-videojuegos"

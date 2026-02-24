@@ -1,7 +1,6 @@
 ---
 title: "Ready-to-use virtual machines sporting open-source operating systems"
 date: 2012-07-14T19:31:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "ready-to-use-virtual-machines-sporting-open-source-operating-systems"

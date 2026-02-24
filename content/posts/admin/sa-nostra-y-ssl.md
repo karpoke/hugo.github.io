@@ -1,7 +1,6 @@
 ---
 title: "Sa Nostra y SSL"
 date: 2010-10-25T11:50:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["banca en línea", "openssl", "ssl"]
 slug: "sa-nostra-y-ssl"

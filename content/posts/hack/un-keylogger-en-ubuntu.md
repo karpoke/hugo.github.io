@@ -1,7 +1,6 @@
 ---
 title: "¿Un keylogger en Ubuntu?"
 date: 2011-07-22T04:35:00+01:00
-draft: false
 categories: ["hack"]
 tags: ["apparmor", "c", "ixkeylog", "keylogger", "perl", "selinux", "ubuntu", "xinput"]
 slug: "un-keylogger-en-ubuntu"

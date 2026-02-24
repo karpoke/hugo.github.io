@@ -1,7 +1,6 @@
 ---
 title: "The Art of Computer Typography"
 date: 2012-05-26T11:24:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "the-art-of-computer-typography"

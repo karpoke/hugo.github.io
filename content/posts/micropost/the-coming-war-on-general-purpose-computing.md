@@ -1,7 +1,6 @@
 ---
 title: "The coming war on general-purpose computing"
 date: 2015-02-23T22:03:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "the-coming-war-on-general-purpose-computing"

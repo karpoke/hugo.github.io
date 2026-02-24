@@ -1,7 +1,6 @@
 ---
 title: "Así es como la ingeniería inversa cambió la historia de la informática para siempre"
 date: 2016-06-13T13:58:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "asi-es-como-la-ingenieria-inversa-cambio-la-historia-de-la-informatica-para-siempre"

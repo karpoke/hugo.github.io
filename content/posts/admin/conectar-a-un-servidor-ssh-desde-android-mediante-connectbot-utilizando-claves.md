@@ -1,7 +1,6 @@
 ---
 title: "Conectar a un servidor SSH desde Android mediante ConnectBot utilizando claves"
 date: 2012-07-24T13:06:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["android", "clave pública", "connectbot", "generar claves ssh", "rsa", "ssh"]
 slug: "conectar-a-un-servidor-ssh-desde-android-mediante-connectbot-utilizando-claves"

@@ -1,7 +1,6 @@
 ---
 title: "Meterpretear una apk"
 date: 2016-08-14T12:49:00+01:00
-draft: false
 categories: ["micropost"]
 tags: []
 slug: "meterpretear-una-apk"

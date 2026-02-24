@@ -1,7 +1,6 @@
 ---
 title: "Asignar la IP que queramos a un dominio de DynDNS"
 date: 2010-12-30T19:12:00+01:00
-draft: false
 categories: ["admin"]
 tags: ["dyndns", "inadyn", "ip dinámica", "nc", "netcat", "python", "servidor http"]
 slug: "asignar-la-ip-que-queramos-a-un-dominio-de-dyndns"
