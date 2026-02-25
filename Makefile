@@ -1,4 +1,4 @@
-.PHONY: help server build clean deploy new-post update-theme init-submodules install-hooks
+.PHONY: help server build clean deploy new-post new-micropost update-theme init-submodules install-hooks
 
 help: ## Mostrar esta ayuda
 	@echo "Comandos disponibles:"
@@ -22,6 +22,13 @@ new-post: ## Crear nuevo post (uso: make new-post TITLE="Mi Post")
 		exit 1; \
 	fi; \
 	hugo new posts/$(shell echo "$(TITLE)" | sed 's/ /-/g' | tr '[:upper:]' '[:lower:]').md
+
+new-micropost: ## Crear micropost desde URL (uso: make new-micropost URL="https://...")
+	@if [ -z "$(URL)" ]; then \
+		echo "Error: Debes especificar URL. Ejemplo: make new-micropost URL=\"https://ejemplo.com\""; \
+		exit 1; \
+	fi; \
+	python3 scripts/new-micropost.py "$(URL)" $(if $(DRAFT),--draft,)
 
 update-theme: ## Actualizar tema PaperMod
 	git submodule update --remote --merge
