@@ -1,40 +1,40 @@
 .PHONY: help server build clean deploy new-post new-micropost update-theme init-submodules install-hooks
 
-help: ## Mostrar esta ayuda
-	@echo "Comandos disponibles:"
+help: ## Show this help
+	@echo "Available commands:"
 	@grep -E '^[a-zA-Z_-]+:.*?## .*$$' $(MAKEFILE_LIST) | awk 'BEGIN {FS = ":.*?## "}; {printf "  \033[36m%-15s\033[0m %s\n", $$1, $$2}'
 
-server: ## Ejecutar servidor local de desarrollo
+server: ## Run local development server
 	hugo server -D --bind 0.0.0.0 --baseURL http://localhost
 
-build: ## Generar sitio estático en ./public
+build: ## Generate static site into ./public
 	hugo --minify
 
-clean: ## Limpiar archivos generados
+clean: ## Remove generated files
 	rm -rf public/ resources/
 
-deploy: build ## Build y preparar para deploy
-	@echo "Sitio generado en ./public - listo para GitHub Pages"
+deploy: build ## Build and prepare for deploy
+	@echo "Site generated in ./public - ready for GitHub Pages"
 
-new-post: ## Crear nuevo post (uso: make new-post TITLE="Mi Post")
+new-post: ## Create a new post (usage: make new-post TITLE="My Post")
 	@if [ -z "$(TITLE)" ]; then \
-		echo "Error: Debes especificar TITLE. Ejemplo: make new-post TITLE=\"Mi Post\""; \
+		echo "Error: TITLE is required. Example: make new-post TITLE=\"My Post\""; \
 		exit 1; \
 	fi; \
 	hugo new posts/$(shell echo "$(TITLE)" | sed 's/ /-/g' | tr '[:upper:]' '[:lower:]').md
 
-new-micropost: ## Crear micropost desde URL (uso: make new-micropost URL="https://...")
+new-micropost: ## Create a micropost from a URL (usage: make new-micropost URL="https://...")
 	@if [ -z "$(URL)" ]; then \
-		echo "Error: Debes especificar URL. Ejemplo: make new-micropost URL=\"https://ejemplo.com\""; \
+		echo "Error: URL is required. Example: make new-micropost URL=\"https://example.com\""; \
 		exit 1; \
 	fi; \
 	python3 scripts/new-micropost.py "$(URL)" $(if $(DRAFT),--draft,)
 
-update-theme: ## Actualizar tema PaperMod
+update-theme: ## Update PaperMod theme
 	git submodule update --remote --merge
 
-init-submodules: ## Inicializar submódulos (útil después de clonar)
+init-submodules: ## Initialize submodules (useful after cloning)
 	git submodule update --init --recursive
 
-install-hooks: ## Instalar git hooks del proyecto
+install-hooks: ## Install project git hooks
 	@bash scripts/install-hooks.sh

@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """
-Crea un micropost a partir de una URL.
-Detecta automáticamente si es un vídeo de YouTube o un artículo web.
+Creates a micropost from a URL.
+Automatically detects whether it is a YouTube video or a regular web article.
 
-Uso:
+Usage:
     python3 scripts/new-micropost.py <URL>
     python3 scripts/new-micropost.py <URL> --draft
 """
@@ -38,26 +38,26 @@ def fetch(url: str) -> str:
         with urllib.request.urlopen(req, timeout=15) as resp:
             return resp.read().decode("utf-8", errors="replace")
     except Exception as e:
-        print(f"ERROR al obtener {url}: {e}", file=sys.stderr)
+        print(f"ERROR fetching {url}: {e}", file=sys.stderr)
         sys.exit(1)
 
 
 def unescape(text: str) -> str:
-    """Decodifica HTML entities y limpia espacios."""
+    """Decode HTML entities and strip whitespace."""
     return html_module.unescape(text).strip()
 
 
 def json_str(html: str, key: str) -> str | None:
-    """Extrae el valor de una clave JSON del HTML, decodificando escapes."""
+    """Extract the value of a JSON key from HTML, decoding escape sequences."""
     m = re.search(rf'"{re.escape(key)}"\s*:\s*"((?:[^"\\]|\\.)*)"', html)
     if not m:
         return None
     raw = m.group(1)
-    # Decodificar \uXXXX y otros escapes JSON
+    # Decode \uXXXX and other JSON escapes
     try:
         value = json.loads(f'"{raw}"')
     except Exception:
-        # Fallback: decodificar manualmente \uXXXX
+        # Fallback: manually decode \uXXXX
         try:
             value = re.sub(
                 r"\\u([0-9a-fA-F]{4})",
@@ -70,7 +70,7 @@ def json_str(html: str, key: str) -> str | None:
 
 
 def meta(html: str, prop: str) -> str | None:
-    """Extrae contenido de una meta tag (og:, name=, etc.)."""
+    """Extract the content of a meta tag (og:, name=, etc.)."""
     m = re.search(
         rf'<meta[^>]+(?:property|name)\s*=\s*["\']?{re.escape(prop)}["\']?[^>]+content\s*=\s*["\']([^"\']+)',
         html, re.IGNORECASE,
@@ -82,13 +82,13 @@ def meta(html: str, prop: str) -> str | None:
 
 
 def slugify(text: str) -> str:
-    # Normalizar caracteres Unicode a ASCII
+    # Normalize Unicode characters to ASCII
     text = unicodedata.normalize("NFKD", text)
     text = text.encode("ascii", "ignore").decode("ascii")
     text = text.lower()
     text = re.sub(r"[^a-z0-9]+", "-", text)
     text = re.sub(r"-+", "-", text).strip("-")
-    return text[:80]  # máximo 80 caracteres
+    return text[:80]  # 80-character limit
 
 
 def now_iso() -> str:
@@ -111,7 +111,7 @@ def extract_yt_id(url: str) -> str | None:
 
 
 def truncate_description(text: str, max_chars: int = 280) -> str:
-    """Trunca a máx. max_chars sin cortar palabras, añade … si es necesario."""
+    """Truncate to max_chars without splitting words, appending … if needed."""
     text = text.strip()
     if len(text) <= max_chars:
         return text
@@ -120,7 +120,7 @@ def truncate_description(text: str, max_chars: int = 280) -> str:
 
 
 # ---------------------------------------------------------------------------
-# Obtener metadatos según el tipo de URL
+# Fetch metadata based on URL type
 # ---------------------------------------------------------------------------
 
 def get_youtube_metadata(url: str, video_id: str) -> dict:
@@ -129,7 +129,7 @@ def get_youtube_metadata(url: str, video_id: str) -> dict:
     author = json_str(html, "author")
     description = json_str(html, "shortDescription") or meta(html, "og:description")
     return {
-        "title": unescape(title or "Sin título"),
+        "title": unescape(title or "Untitled"),
         "author": unescape(author or "Unknown"),
         "description": truncate_description(unescape(description)) if description else None,
         "video_id": video_id,
@@ -140,7 +140,7 @@ def get_youtube_metadata(url: str, video_id: str) -> dict:
 def get_web_metadata(url: str) -> dict:
     html = fetch(url)
 
-    # Título: og:title > <title> > json-ld
+    # Title: og:title > <title> > json-ld
     title = (
         meta(html, "og:title")
         or json_str(html, "title")
@@ -148,7 +148,7 @@ def get_web_metadata(url: str) -> dict:
            re.search(r"<title>(.*?)</title>", html, re.IGNORECASE | re.DOTALL).group(1).strip()
     )
 
-    # Autor: json-ld author > meta author > og:site_name
+    # Author: json-ld author > meta author > og:site_name
     author = (
         json_str(html, "author")
         or meta(html, "author")
@@ -156,13 +156,13 @@ def get_web_metadata(url: str) -> dict:
         or meta(html, "og:site_name")
         or extract_domain(url)
     )
-    # Si el autor viene como objeto JSON {"name": "..."}, extraer el nombre
+    # If the author is in JSON object format {"name": "..."}, extract the name
     if author and author.startswith("{"):
         m = re.search(r'"name"\s*:\s*"([^"]+)"', author)
         if m:
             author = m.group(1)
 
-    # Descripción: og:description > meta description > json-ld description
+    # Description: og:description > meta description > json-ld description
     description = (
         meta(html, "og:description")
         or meta(html, "description")
@@ -170,7 +170,7 @@ def get_web_metadata(url: str) -> dict:
     )
 
     return {
-        "title": unescape(title or "Sin título"),
+        "title": unescape(title or "Untitled"),
         "author": unescape(author or extract_domain(url)).strip(),
         "description": truncate_description(unescape(description)) if description else None,
         "domain": extract_domain(url),
@@ -178,7 +178,7 @@ def get_web_metadata(url: str) -> dict:
 
 
 # ---------------------------------------------------------------------------
-# Generar el fichero markdown
+# Generate the markdown file
 # ---------------------------------------------------------------------------
 
 def build_content(meta_data: dict, url: str, draft: bool) -> tuple[str, str]:
@@ -191,9 +191,9 @@ def build_content(meta_data: dict, url: str, draft: bool) -> tuple[str, str]:
     date = now_iso()
     safe_title = title.replace('"', '\\"')
 
-    # Construir blockquote
+    # Build blockquote
     if description:
-        # Formatear en líneas de ~72 chars
+        # Format to ~72 chars per line
         words = description.split()
         lines, current = [], ""
         for word in words:
@@ -208,7 +208,7 @@ def build_content(meta_data: dict, url: str, draft: bool) -> tuple[str, str]:
     else:
         blockquote = f"> {title}"
 
-    # Cuerpo del post
+    # Post body
     body_parts = [blockquote, ""]
     if video_id:
         body_parts += [f"{{{{< youtube {video_id} >}}}}", ""]
@@ -241,10 +241,10 @@ def build_content(meta_data: dict, url: str, draft: bool) -> tuple[str, str]:
 def write_post(slug: str, content: str) -> Path:
     filepath = POSTS_DIR / f"{slug}.md"
     if filepath.exists():
-        print(f"AVISO: El fichero ya existe: {filepath}", file=sys.stderr)
-        answer = input("¿Sobreescribir? [s/N] ").strip().lower()
-        if answer != "s":
-            print("Cancelado.", file=sys.stderr)
+        print(f"WARNING: file already exists: {filepath}", file=sys.stderr)
+        answer = input("Overwrite? [y/N] ").strip().lower()
+        if answer != "y":
+            print("Cancelled.", file=sys.stderr)
             sys.exit(0)
     filepath.write_text(content, encoding="utf-8")
     return filepath
@@ -260,38 +260,31 @@ def main():
     draft = "--draft" in flags or "-d" in flags
 
     if not args:
-        print("Uso: new-micropost.py <URL> [--draft]", file=sys.stderr)
+        print("Usage: new-micropost.py <URL> [--draft]", file=sys.stderr)
         sys.exit(1)
 
     url = args[0]
-    print(f"Obteniendo metadatos de: {url}")
+    print(f"Fetching metadata from: {url}")
 
     video_id = extract_yt_id(url)
     if video_id:
-        print("Tipo: YouTube")
+        print("Type: YouTube")
         meta_data = get_youtube_metadata(url, video_id)
     else:
-        print("Tipo: artículo web")
+        print("Type: web article")
         meta_data = get_web_metadata(url)
 
-    print(f"  Título:  {meta_data['title']}")
-    print(f"  Autor:   {meta_data['author']}")
+    print(f"  Title:   {meta_data['title']}")
+    print(f"  Author:  {meta_data['author']}")
     if meta_data.get("description"):
-        print(f"  Resumen: {meta_data['description'][:60]}…")
+        print(f"  Summary: {meta_data['description'][:60]}…")
 
     slug, content = build_content(meta_data, url, draft)
     filepath = write_post(slug, content)
-    print(f"\nCreado: {filepath}")
+    print(f"\nCreated: {filepath}")
 
 
 if __name__ == "__main__":
     main()
-
-
-
-
-
-
-
 
 
