@@ -16,12 +16,16 @@ clean: ## Remove generated files
 deploy: build ## Build and prepare for deploy
 	@echo "Site generated in ./public - ready for GitHub Pages"
 
-new-post: ## Create a new post (usage: make new-post TITLE="My Post")
+new-post: ## Create a new post (usage: make new-post TITLE="My Post" CATEGORY="dev")
 	@if [ -z "$(TITLE)" ]; then \
-		echo "Error: TITLE is required. Example: make new-post TITLE=\"My Post\""; \
+		echo "Error: TITLE is required. Example: make new-post TITLE=\"My Post\" CATEGORY=\"dev\""; \
 		exit 1; \
 	fi; \
-	hugo new posts/$(shell echo "$(TITLE)" | sed 's/ /-/g' | tr '[:upper:]' '[:lower:]').md
+	if [ -z "$(CATEGORY)" ]; then \
+		echo "Error: CATEGORY is required. Valid options: admin, dev, hack, memo"; \
+		exit 1; \
+	fi; \
+	python3 scripts/new-post.py "$(TITLE)" "$(CATEGORY)"
 
 new-micropost: ## Create a micropost from a URL (usage: make new-micropost URL="https://...")
 	@if [ -z "$(URL)" ]; then \

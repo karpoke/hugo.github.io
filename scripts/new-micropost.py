@@ -18,7 +18,7 @@ import urllib.request
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
-POSTS_DIR = Path(__file__).parent.parent / "content" / "posts" / "micropost"
+POSTS_DIR = Path('content/posts')
 HEADERS = {
     "User-Agent": (
         "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
@@ -239,14 +239,23 @@ def build_content(meta_data: dict, url: str, draft: bool) -> tuple[str, str]:
 
 
 def write_post(slug: str, content: str) -> Path:
-    filepath = POSTS_DIR / f"{slug}.md"
+    # Get current date to determine directory
+    now = datetime.now(timezone(timedelta(hours=1)))
+    year = now.strftime("%Y")
+    month = now.strftime("%m")
+
+    # Create directory structure
+    post_dir = POSTS_DIR / year / month
+    post_dir.mkdir(parents=True, exist_ok=True)
+
+    filepath = post_dir / f"{slug}.md"
     if filepath.exists():
         print(f"WARNING: file already exists: {filepath}", file=sys.stderr)
         answer = input("Overwrite? [y/N] ").strip().lower()
         if answer != "y":
             print("Cancelled.", file=sys.stderr)
             sys.exit(0)
-    filepath.write_text(content, encoding="utf-8")
+    filepath.write_text(content, encoding='utf-8')
     return filepath
 
 
