@@ -1,374 +1,413 @@
-# Instrucciones para GitHub Copilot
+# GitHub Copilot Instructions
 
-Este documento contiene las directrices y contexto para que GitHub Copilot ayude eficientemente en el desarrollo de este blog.
+This document contains guidelines and context for GitHub Copilot to efficiently assist in this blog's development.
 
-## 📋 Contexto del Proyecto
+## 📋 Project Context
 
-### Tecnologías
+### Technologies
 - **Framework**: Hugo (Static Site Generator)
-- **Versión Hugo**: 0.156.0 (extended)
-- **Tema**: PaperMod (submódulo git)
-- **Deploy**: GitHub Pages con GitHub Actions
-- **Lenguaje**: Markdown para contenido, TOML para configuración
-- **Título del sitio**: Karpoke - Just Another Hugo Blog
-- **Dominio**: hugo.github.io (temporal), blog.ignaciocano.com (final)
-### Estructura del Blog
+- **Hugo Version**: 0.156.0 (extended)
+- **Theme**: PaperMod (git submodule)
+- **Deploy**: GitHub Pages with GitHub Actions
+- **Language**: Markdown for content, TOML for configuration
+- **Site Title**: Karpoke - Just Another Hugo Blog
+- **Domain**: hugo.github.io (temporary), blog.ignaciocano.com (final)
+
+### Blog Structure
 ```
 hugo.github.io/
-├── content/posts/          # Artículos del blog
-├── static/                 # Archivos estáticos (CNAME, imágenes, etc.)
-├── themes/PaperMod/        # Tema (submódulo)
+├── content/posts/          # Blog articles
+├── static/                 # Static files (CNAME, images, etc.)
+├── themes/PaperMod/        # Theme (submodule)
 ├── .github/workflows/      # CI/CD
-├── hugo.toml              # Configuración principal
-└── Makefile               # Comandos útiles
+├── hugo.toml              # Main configuration
+└── Makefile               # Useful commands
 ```
 
-## 🎯 Objetivos del Proyecto
+## 🎯 Project Goals
 
-1. **Blog técnico**: Contenido sobre programación, DevOps, bases de datos, desarrollo web
-2. **SEO crítico**: Mantener URLs legacy de Pelican (`/YYYY/MM/DD/slug/`)
-3. **Búsqueda**: Integrada con Fuse.js en el frontend
-4. **Deploy automático**: Push a `main` → GitHub Actions → GitHub Pages
+1. **Technical blog**: Content about programming, DevOps, databases, web development
+2. **Critical SEO**: Maintain Pelican legacy URLs (`/YYYY/MM/DD/slug/`)
+3. **Search**: Integrated with Fuse.js on the frontend
+4. **Automatic deploy**: Push to `main` → GitHub Actions → GitHub Pages
 
-## 🔧 Convenciones de Código
+## 🔧 Code Conventions
 
-### Formato de Posts
-Todos los artículos deben seguir este frontmatter:
+### Post Format
+All articles must follow this frontmatter:
 
 ```markdown
 ---
-title: "Título del Post"
+title: "Post Title"
 date: YYYY-MM-DDTHH:MM:SS+01:00
-draft: false
 tags: ["tag1", "tag2", "tag3"]
-slug: url-amigable-del-post
-description: "Descripción breve para SEO"
+slug: url-friendly-post-slug
+description: "Brief description for SEO"
+categories: ["category"]
 ---
 
-## Contenido aquí...
+## Content here...
 ```
 
-### Comandos Comunes
-- `make server` - Servidor de desarrollo local
-- `make build` - Generar sitio estático
-- `make new-post TITLE="Título"` - Crear nuevo post
-- `make clean` - Limpiar archivos generados
+### Common Commands
+- `make server` - Local development server
+- `make build` - Generate static site
+- `make new-post TITLE="Title"` - Create new post
+- `make new-micropost URL="https://..."` - Create micropost from URL
+- `make clean` - Clean generated files
 
-### URLs Legacy (CRÍTICO)
-Las URLs DEBEN mantener este formato exacto para SEO:
+### Legacy URLs (CRITICAL)
+URLs MUST maintain this exact format for SEO:
 ```
 /YYYY/MM/DD/slug/
 ```
 
-Configurado en `hugo.toml`:
+Configured in `hugo.toml`:
 ```toml
 [permalinks]
   posts = '/:year/:month/:day/:slug/'
 ```
 
-## 📝 Al Crear Contenido
+## 📝 When Creating Content
 
-### Posts de Blog
-- **Idioma**: Español
-- **Tono**: Técnico pero accesible
-- **Código**: Incluir ejemplos prácticos con syntax highlighting
-- **SEO**: Siempre incluir `description` en frontmatter
-- **Tags**: Usar tags relevantes y consistentes
+### Blog Posts
+- **Language**: Spanish
+- **Tone**: Technical but accessible
+- **Code**: Include practical examples with syntax highlighting
+- **SEO**: Always include `description` in frontmatter
+- **Tags**: Use consistent, relevant tags
+- **Categories**: Post must have its directory name as a category (e.g., posts in `content/posts/admin/` must have `categories: ["admin"]`)
 
-### Ejemplos de Código
-Usar bloques de código con el lenguaje especificado:
+### Code Examples
+Use code blocks with the language specified:
 
 ````markdown
 ```python
-def ejemplo():
-    return "Código con syntax highlighting"
+def example():
+    return "Code with syntax highlighting"
 ```
 ````
 
-### Imágenes
-Colocar en `static/images/` y referenciar como:
+### Images
+Place in `static/images/` and reference as:
 ```markdown
-![Descripción](/images/nombre-imagen.png)
+![Description](/images/image-name.png)
 ```
 
-## 🚫 Restricciones y Cuidados
+## 🚫 Restrictions and Precautions
 
-### NO incluir:
-- ❌ Credenciales reales (contraseñas, tokens, API keys)
-- ❌ Rutas locales del sistema (`/home/user/...`)
-- ❌ Información personal sensible
-- ❌ Claves SSH o certificados
+### DO NOT include:
+- ❌ Real credentials (passwords, tokens, API keys)
+- ❌ Local system paths (`/home/user/...`)
+- ❌ Sensitive personal information
+- ❌ SSH keys or certificates
 
-### NO modificar sin confirmar:
-- ⚠️ Formato de permalinks (URLs legacy)
-- ⚠️ Configuración de GitHub Actions
-- ⚠️ Submódulo del tema PaperMod
+### DO NOT modify without confirming:
+- ⚠️ Permalink format (legacy URLs)
+- ⚠️ GitHub Actions configuration
+- ⚠️ PaperMod theme submodule
 
-### Siempre verificar:
-- ✅ Formato de fechas en frontmatter (ISO 8601)
-- ✅ Field `slug` presente en cada post
-- ✅ Tags entre comillas y como array
-- ✅ Draft: false para posts publicados
+### Always verify:
+- ✅ Date format in frontmatter (ISO 8601)
+- ✅ `slug` field present in each post
+- ✅ Tags in quotes and as array
+- ✅ Correct categories for post location
 
-## 🔍 Búsqueda y Navegación
+## 🔍 Search and Navigation
 
-### Configuración de Búsqueda
-El sitio usa Fuse.js para búsqueda en el frontend:
-- Archivo especial: `content/search.md`
-- Output JSON configurado en `hugo.toml`
-- Índice en: `public/index.json`
+### Search Configuration
+The site uses Fuse.js for frontend search:
+- Special file: `content/search.md`
+- JSON output configured in `hugo.toml`
+- Index at: `public/index.json`
 
-### Menú Principal
-Configurado en `hugo.toml` bajo `[menu.main]`:
+### Main Menu
+Configured in `hugo.toml` under `[menu.main]`:
 - Posts
 - Tags
-- Buscar
+- Search
 
-## 🛠️ Tareas Comunes
+## 🛠️ Common Tasks
 
-### Crear un nuevo post
+### Create a new post
 ```bash
-make new-post TITLE="Mi Post"
-# Editar: content/posts/mi-post.md
-# Verificar: make server
-# Commit y push
+\make new-post TITLE="My Post"
+# Edit: content/posts/my-post.md
+# Verify: make server
+# Commit and push
 ```
 
-### Actualizar tema PaperMod
+### Create a micropost from URL
 ```bash
-make update-theme
-# Verificar cambios
-git commit -am "Update PaperMod theme"
-git push
+\make new-micropost URL="https://example.com/article"
+# Or with draft flag
+\make new-micropost URL="https://example.com" DRAFT=1
+```
+
+### Update PaperMod theme
+```bash
+\make update-theme
+# Verify changes
+\git commit -am "Update PaperMod theme"
+\git push
 ```
 
 ### Debugging
 ```bash
-# Ver errores de build
-hugo --verbose
+# View build errors
+\hugo --verbose
 
-# Limpiar y rebuild
-make clean && make build
+# Clean and rebuild
+\make clean && \make build
 
-# Ver logs de GitHub Actions
-# Ir a: https://github.com/karpoke/hugo.github.io/actions
+# View GitHub Actions logs
+# Go to: https://github.com/karpoke/hugo.github.io/actions
 ```
 
 ## 📦 Deploy
 
-### Proceso Automático
-1. Push a rama `main`
-2. GitHub Actions ejecuta workflow
-3. Hugo genera sitio estático
-4. Deploy a GitHub Pages
-5. Sitio actualizado en ~1-2 minutos
+### Automatic Process
+1. Push to `main` branch
+2. GitHub Actions runs workflow
+3. Hugo generates static site
+4. Deploy to GitHub Pages
+5. Site updated in ~1-2 minutes
 
 ### Workflow
-- Archivo: `.github/workflows/hugo.yml`
+- File: `.github/workflows/hugo.yml`
 - Hugo version: 0.156.0
-- Incluye: Dart Sass, optimizaciones, minify
+- Includes: Dart Sass, optimizations, minify
 
-## 🎨 Personalización del Tema
+## 🎨 Theme Customization
 
-### Configuración PaperMod
-En `hugo.toml` bajo `[params]`:
-- Búsqueda habilitada con Fuse.js
-- Botones de compartir en posts (X/Twitter, LinkedIn, Reddit, Facebook, WhatsApp, Telegram, HackerNews)
-- Código con botón copiar
-- TOC (tabla de contenidos)
-- Lectura estimada
+### PaperMod Configuration
+In `hugo.toml` under `[params]`:
+- Search enabled with Fuse.js
+- Share buttons in posts (X/Twitter, LinkedIn, Reddit, Facebook, WhatsApp, Telegram, HackerNews)
+- Code with copy button
+- TOC (table of contents)
+- Reading time estimate
 - Breadcrumbs
-- Icono social de GitHub en header apuntando a `https://github.com/karpoke/`
+- GitHub social icon in header pointing to `https://github.com/karpoke/`
+
 ### Overrides
-Para personalizar el tema, crear archivos en:
-- `layouts/` - Para templates
-- `assets/` - Para CSS/JS custom
-- `static/` - Para archivos estáticos
+To customize the theme, create files in:
+- `layouts/` - For templates
+- `assets/` - For custom CSS/JS
+- `static/` - For static files
 
-## 📚 Recursos
+## 📚 Resources
 
-### Documentación
+### Documentation
 - [Hugo Docs](https://gohugo.io/documentation/)
 - [PaperMod Wiki](https://github.com/adityatelange/hugo-PaperMod/wiki)
 - [Hugo Permalinks](https://gohugo.io/content-management/urls/)
 
-### Comandos Hugo Útiles
+### Useful Hugo Commands
 ```bash
-hugo --help
-hugo server --help
-hugo new --help
-hugo config
+\hugo --help
+\hugo server --help
+\hugo new --help
+\hugo config
 ```
 
 ## 🧪 Testing
 
 ### Local
 ```bash
-# Servidor con drafts
-make server
+# Server with drafts
+\make server
 
-# Build de producción
-make build
+# Production build
+\make build
 
-# Verificar enlaces rotos
-hugo --printPathWarnings
+# Check for broken links
+\hugo --printPathWarnings
 ```
 
 ### Pre-Deploy Checklist
-- [ ] ✅ Links internos funcionan
-- [ ] ✅ Imágenes cargan correctamente
-- [ ] ✅ URLs siguen formato legacy
-- [ ] ✅ Búsqueda funciona
-- [ ] ✅ Sin errores en `hugo --verbose`
-- [ ] ✅ Tags correctos
-- [ ] ✅ Fecha en formato ISO
+- [ ] ✅ Internal links work
+- [ ] ✅ Images load correctly
+- [ ] ✅ URLs follow legacy format
+- [ ] ✅ Search works
+- [ ] ✅ No errors in `hugo --verbose`
+- [ ] ✅ Correct tags
+- [ ] ✅ Date in ISO format
 
-## ⚙️ Configuración de Git
+## ⚙️ Git Configuration
 
-### Pager desactivado
-El proyecto está configurado para NO usar pager en git (útil para scripting y CI/CD):
+### Pager Disabled
+The project is configured to NOT use pager in git (useful for scripting and CI/CD):
 
 ```bash
-# Configuración aplicada en .git/config:
+# Configuration applied in .git/config:
 core.pager = cat
 pager.branch = false
 pager.log = false
 pager.diff = false
 ```
 
-Esto significa que comandos como `git log`, `git diff`, `git branch` mostrarán la salida directamente sin usar `less` o similar.
+This means commands like `git log`, `git diff`, `git branch` will show output directly without using `less` or similar.
 
-### SSH personalizado
-El repositorio usa una clave SSH específica:
+### Custom SSH
+The repository uses a specific SSH key:
 ```bash
 core.sshCommand = ssh -i /home/hbxuser/karpoke/ssh/id_rsa -o IdentitiesOnly=yes
 ```
 
-**Nota**: Esta configuración es local y no se sube al repositorio.
+**Note**: This configuration is local and not uploaded to the repository.
 
 ### Git Hooks
-El proyecto incluye un hook pre-commit que valida el build de Hugo:
+The project includes a pre-commit hook that validates Hugo builds:
 
 ```bash
-# Instalar hooks
-make install-hooks
+# Install hooks
+\make install-hooks
 
-# Ubicación del hook
-.git/hooks/pre-commit  # Hook activo (no se sube al repo)
-scripts/pre-commit     # Script fuente (se sube al repo)
+# Hook location
+.git/hooks/pre-commit  # Active hook (not in repo)
+scripts/pre-commit     # Source script (in repo)
 ```
 
-**Qué hace el pre-commit hook:**
-- ✅ Valida que Hugo puede generar el sitio sin errores
-- ✅ Ejecuta `hugo --quiet --minify`
-- ✅ Limpia archivos generados automáticamente
-- ✅ Previene commits con errores de sintaxis
+**What the pre-commit hook does:**
+- ✅ Validates Hugo can generate the site without errors
+- ✅ Runs `hugo --quiet --minify`
+- ✅ Cleans up auto-generated files
+- ✅ Prevents commits with syntax errors
 
-**Saltar el hook (solo emergencias):**
+**Skip the hook (emergencies only):**
 ```bash
-git commit --no-verify -m "mensaje"
+\git commit --no-verify -m "message"
 ```
 
-## 🎯 Reglas de Automatización
+## 🎯 Automation Rules
 
-### Comandos sin Confirmación
-Los siguientes comandos NO requieren confirmación previa, incluso si se ejecutan encadenados con `&&`:
-- `cd` - Cambiar de directorio
-- `git add` - Añadir archivos al staging
-- `git diff` - Ver diferencias en archivos
-- `git log` - Ver historial de commits
-- `git status` - Ver estado del repositorio
-- `git check-ignore` - Verificar si archivos están ignorados
-- `git show` - Mostrar commits
-- `git reflog` - Ver historial de referencias
+### Bash Command Escaping
+Always prefix bash commands with `\` to prevent alias expansion:
 
-Ejemplos que NO requieren confirmación:
 ```bash
-cd /ruta && git add archivo.txt
-git diff archivo.txt
-git status
+\git status
+\grep -r "foo" .
+\python3 script.py
 ```
 
-### Comandos que Requieren Autorización Explícita del Usuario
-- `git commit` - NO hacer commit hasta que el usuario lo pida explícitamente
-- `git push` - NUNCA hacer push sin confirmación explícita del usuario
-- `git push --force` - Comando peligroso, requiere confirmación
-- `git reset --hard` - Comando destructivo, requiere confirmación
-- `git rebase` - Comando que reescribe historia
-- `git force-push` - Variante de push --force
+This ensures the real binary is called, not a user-defined alias.
 
-**⛔ REGLA CRÍTICA**: NUNCA ejecutar `git commit` de forma proactiva, aunque los cambios estén listos y en staging. Esperar SIEMPRE a que el usuario diga explícitamente "commita", "haz commit" o similar. Esto aplica incluso al final de una tarea completada.
+### Terminal Output Verification
+When executing commands or scripts, ensure they return output (even in cases where they shouldn't return anything, like when no files are found).
 
-### Actualización Automática de Instrucciones
-Cuando se detecten nuevas reglas o convenciones durante el trabajo:
-- Actualizar este archivo automáticamente
-- Incluir en el mismo commit donde se aplique la regla
-- Documentar el cambio en la sección apropiada
+If a command would normally return no output, add output verification:
 
-## 🔐 Seguridad
+```bash
+command && echo "ok" || echo "ko"
+```
 
-### Información Sensible
-**NUNCA incluir en código/commits**:
-- Contraseñas reales
-- Tokens de API
-- Claves privadas SSH
-- Variables de entorno con secretos
+**Why**: This helps identify if the terminal is hanging, unresponsive, or if the command succeeded/failed silently.
 
-### Ejemplos de Código
-Los ejemplos en artículos **PUEDEN** incluir:
-- Contraseñas de ejemplo (`dev_password_123`)
-- URLs de ejemplo (`ejemplo.com`)
-- Datos ficticios para tutoriales
+**If the terminal returns no output**:
+- Do NOT assume success
+- Repeat the command in a new terminal
+- Add output verification (the `&& echo "ok" || echo "ko"` pattern)
+- If still no output, try breaking the command into smaller parts
+
+### Commands Without Confirmation
+The following commands do NOT require prior confirmation, even if chained with `&&`:
+- `cd` - Change directory
+- `git add` - Stage files
+- `git diff` - View file differences
+- `git log` - View commit history
+- `git status` - View repository status
+- `git check-ignore` - Check if files are ignored
+- `git show` - Show commits
+- `git reflog` - View reference history
+
+Examples that do NOT require confirmation:
+```bash
+\cd /path && \git add file.txt
+\git diff file.txt
+\git status
+```
+
+### Commands Requiring Explicit User Authorization
+- `git commit` - Do NOT commit until user explicitly asks
+- `git push` - NEVER push without explicit user confirmation
+- `git push --force` - Dangerous command, requires confirmation
+- `git reset --hard` - Destructive command, requires confirmation
+- `git rebase` - Command that rewrites history
+- `git force-push` - Variant of push --force
+
+**⛔ CRITICAL RULE**: NEVER execute `git commit` proactively, even if changes are staged and ready. ALWAYS wait for the user to explicitly say "commit", "make a commit" or similar. This applies even at the end of a completed task.
+
+### Automatic Instruction Updates
+When new rules or conventions are discovered during work:
+- Update this file automatically
+- Include in the same commit where the rule applies
+- Document the change in the appropriate section
+
+## 🔐 Security
+
+### Sensitive Information
+**NEVER include in code/commits**:
+- Real passwords
+- API tokens
+- Private SSH keys
+- Environment variables with secrets
+
+### Code Examples
+Examples in articles **CAN** include:
+- Example passwords (`dev_password_123`)
+- Example URLs (`example.com`)
+- Fictitious data for tutorials
 
 ### .gitignore
-Verificar que incluye:
+Verify it includes:
 - `public/`
 - `resources/`
 - `.env`
 - `*.log`
-- Archivos IDE (`.idea/`, `.vscode/`)
+- IDE files (`.idea/`, `.vscode/`)
 
-## 💡 Sugerencias para Copilot
+## 💡 Suggestions for Copilot
 
-### Al generar contenido de blog:
-1. Usar español técnico pero claro
-2. Incluir ejemplos de código reales
-3. Añadir tablas cuando sea útil
-4. Usar emojis con moderación (solo en títulos)
-5. Crear listas para mejor legibilidad
+### When generating blog content:
+1. Use clear technical Spanish
+2. Include real code examples
+3. Add tables when useful
+4. Use emojis sparingly (only in titles)
+5. Create lists for better readability
 
-### Al modificar configuración:
-1. Comentar cambios importantes
-2. Mantener formato TOML limpio
-3. Documentar nuevas features
-4. Verificar compatibilidad con PaperMod
+### When modifying configuration:
+1. Comment important changes
+2. Keep TOML format clean
+3. Document new features
+4. Verify PaperMod compatibility
 
-### Al crear comandos Make:
-1. Añadir comentario de ayuda (`## descripción`)
-2. Usar `.PHONY` para targets
-3. Manejar errores apropiadamente
+### When creating Make commands:
+1. Add help comments (`## description`)
+2. Use `.PHONY` for targets
+3. Handle errors appropriately
 
-## 🎓 Patrones del Proyecto
+## 🎓 Project Patterns
 
 ### Naming Conventions
-- **Archivos**: kebab-case (`mi-post.md`)
-- **Slugs**: kebab-case sin acentos (`optimizando-consultas-sql`)
-- **Tags**: lowercase, español (`python`, `bases-de-datos`)
-- **Ramas git**: kebab-case (`feature/nueva-funcionalidad`)
+- **Files**: kebab-case (`my-post.md`)
+- **Slugs**: kebab-case without accents (`optimizing-sql-queries`)
+- **Tags**: lowercase, Spanish (`python`, `databases`)
+- **Git branches**: kebab-case (`feature/new-feature`)
 
 ### Commits
-Usar semantic commit messages siguiendo el formato: `type(scope): description`
+Use semantic commit messages following the format: `type(scope): description`
 
-**Reglas de formato (importante):**
-- **La primera línea (título) debe tener como máximo 50 caracteres.**
-- El cuerpo es **opcional** y solo se incluye cuando el título no es suficiente:
-  - Se han cambiado cosas diferentes que merecen explicación individual
-  - El motivo del cambio no es obvio y añade contexto relevante
-  - Si el título es claro y completo, **no añadir cuerpo**
-- Cuando se use cuerpo, separarlo del título con **una línea en blanco**
-- **Cada línea del cuerpo debe tener como máximo 72 caracteres.**
+**Format rules (important):**
+- **The first line (title) must be maximum 50 characters.**
+- Body is **optional** and only included when title is insufficient:
+  - Different things changed that deserve individual explanation
+  - Change reason is not obvious and adds relevant context
+  - If title is clear and complete, **do not add body**
+- When using body, separate from title with **one blank line**
+- **Each body line must be maximum 72 characters.**
 
-Ejemplo:
+Example:
 ```
 feat(hugo): add archives page using PaperMod layout
 
@@ -376,25 +415,25 @@ feat(hugo): add archives page using PaperMod layout
 - Add Archivo entry to main menu in hugo.toml
 ```
 
-**Tipos de commits permitidos:**
-- `feat:` - Nueva funcionalidad
-- `fix:` - Corrección de bug
-- `docs:` - Cambios en documentación
-- `style:` - Cambios de formato (espacios, comillas, etc.) sin afectar código
-- `refactor:` - Refactorización de código sin cambiar funcionalidad
-- `perf:` - Mejoras de performance
-- `test:` - Añadir o modificar tests
-- `chore:` - Cambios en herramientas de build, dependencias, etc.
-- `ci:` - Cambios en configuración de CI/CD
+**Allowed commit types:**
+- `feat:` - New functionality
+- `fix:` - Bug fix
+- `docs:` - Documentation changes
+- `style:` - Format changes (spaces, quotes, etc.) without affecting code
+- `refactor:` - Code refactoring without changing functionality
+- `perf:` - Performance improvements
+- `test:` - Add or modify tests
+- `chore:` - Build tools, dependencies, etc.
+- `ci:` - CI/CD configuration changes
 
-**Scope (opcional pero recomendado):**
-- `hugo` - Configuración de Hugo
-- `post` - Artículos del blog
-- `theme` - Cambios en tema PaperMod
+**Scope (optional but recommended):**
+- `hugo` - Hugo configuration
+- `post` - Blog articles
+- `theme` - PaperMod theme changes
 - `hooks` - Git hooks
 - `workflow` - GitHub Actions
 
-**Ejemplos correctos:**
+**Correct examples:**
 ```
 feat(post): add new article about Docker Compose
 fix(hugo): correct date format in frontmatter
@@ -404,18 +443,19 @@ chore(deps): update PaperMod to latest version
 ci(workflow): update Hugo version to 0.156.0
 ```
 
-**Formato completo:**
+**Full format:**
 ```
 type(scope): description
 
-[cuerpo opcional - detalles adicionales si es necesario]
+[optional body - additional details if necessary]
 
-[footer opcional - referencias a issues, breaking changes, etc.]
+[optional footer - issue references, breaking changes, etc.]
 ```
 
 
 ---
 
-**Última actualización**: Febrero 2026  
-**Mantenedor**: Nacho Cano (@karpoke)  
-**Repositorio**: https://github.com/karpoke/hugo.github.io
+**Last update**: February 2026  
+**Maintainer**: Nacho Cano (@karpoke)  
+**Repository**: https://github.com/karpoke/hugo.github.io
+
