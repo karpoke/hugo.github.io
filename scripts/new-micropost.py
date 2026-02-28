@@ -119,6 +119,50 @@ def truncate_description(text: str, max_chars: int = 280) -> str:
     return truncated.rstrip(".,;:") + "…"
 
 
+def extract_tags(html: str, title: str, description: str = "") -> list[str]:
+    """Extract 2-3 relevant tags from keywords, title, and content."""
+    tags = []
+
+    # Common technical keywords to look for
+    keywords = {
+        'python': r'\bpython\b',
+        'javascript': r'\bjavascript\b|\bjs\b',
+        'typescript': r'\btypescript\b|\bts\b',
+        'django': r'\bdjango\b',
+        'react': r'\breact\b',
+        'vue': r'\bvue\b',
+        'docker': r'\bdocker\b',
+        'kubernetes': r'\bkubernetes\b|\bk8s\b',
+        'git': r'\bgit\b',
+        'sql': r'\bsql\b',
+        'database': r'\bdatabase\b|\bdb\b',
+        'linux': r'\blinux\b',
+        'security': r'\bsecurity\b|\bcybersecurity\b',
+        'api': r'\bapi\b',
+        'web': r'\bweb\b',
+        'backend': r'\bbackend\b',
+        'frontend': r'\bfrontend\b',
+        'devops': r'\bdevops\b',
+        'testing': r'\btesting\b|\btest\b',
+        'performance': r'\bperformance\b',
+        'optimization': r'\boptimization\b',
+        'tutorial': r'\btutorial\b',
+        'guide': r'\bguide\b',
+    }
+
+    # Combine all text to search
+    combined_text = (title + " " + description).lower()
+
+    # Find matching keywords
+    found_tags = []
+    for tag, pattern in keywords.items():
+        if re.search(pattern, combined_text, re.IGNORECASE):
+            found_tags.append(tag)
+
+    # Return up to 3 tags
+    return found_tags[:3]
+
+
 # ---------------------------------------------------------------------------
 # Fetch metadata based on URL type
 # ---------------------------------------------------------------------------
@@ -128,12 +172,17 @@ def get_youtube_metadata(url: str, video_id: str) -> dict:
     title = json_str(html, "title")
     author = json_str(html, "author")
     description = json_str(html, "shortDescription") or meta(html, "og:description")
+
+    # Extract tags
+    tags = extract_tags(html, title or "Untitled", description or "")
+
     return {
         "title": unescape(title or "Untitled"),
         "author": unescape(author or "Unknown"),
         "description": truncate_description(unescape(description)) if description else None,
         "video_id": video_id,
         "domain": "youtube.com",
+        "tags": tags,
     }
 
 
@@ -148,19 +197,47 @@ def get_web_metadata(url: str) -> dict:
            re.search(r"<title>(.*?)</title>", html, re.IGNORECASE | re.DOTALL).group(1).strip()
     )
 
-    # Author: json-ld author > meta author > og:site_name
-    author = (
-        json_str(html, "author")
-        or meta(html, "author")
-        or meta(html, "article:author")
-        or meta(html, "og:site_name")
-        or extract_domain(url)
-    )
-    # If the author is in JSON object format {"name": "..."}, extract the name
+    # Author: Try multiple sources
+    author = None
+
+    # 1. Try JSON-LD author name
+    author = json_str(html, "author")
     if author and author.startswith("{"):
         m = re.search(r'"name"\s*:\s*"([^"]+)"', author)
         if m:
             author = m.group(1)
+        else:
+            author = None
+
+    # 2. Try meta tags
+    if not author:
+        author = (
+            meta(html, "author")
+            or meta(html, "article:author")
+            or meta(html, "article.author")
+        )
+
+    # 3. Try byline (common in Medium and similar platforms)
+    if not author:
+        m = re.search(r'<[^>]*class=["\'].*?byline.*?["\'][^>]*>([^<]+)</[^>]*>', html, re.IGNORECASE)
+        if m:
+            author = m.group(1).strip()
+
+    # 4. Try author links or spans
+    if not author:
+        m = re.search(r'<(?:span|div)[^>]*class=["\'](?:author|writer)["\'][^>]*>([^<]+)</(?:span|div)>', html, re.IGNORECASE)
+        if m:
+            author = m.group(1).strip()
+
+    # 5. Try itemProp="author"
+    if not author:
+        m = re.search(r'<[^>]*itemprop\s*=\s*["\']author["\'][^>]*>([^<]+)</[^>]*>', html, re.IGNORECASE)
+        if m:
+            author = m.group(1).strip()
+
+    # 6. Fallback to og:site_name or domain
+    if not author:
+        author = meta(html, "og:site_name") or extract_domain(url)
 
     # Description: og:description > meta description > json-ld description
     description = (
@@ -169,11 +246,15 @@ def get_web_metadata(url: str) -> dict:
         or json_str(html, "description")
     )
 
+    # Extract tags from content
+    tags = extract_tags(html, title or "Untitled", description or "")
+
     return {
         "title": unescape(title or "Untitled"),
         "author": unescape(author or extract_domain(url)).strip(),
         "description": truncate_description(unescape(description)) if description else None,
         "domain": extract_domain(url),
+        "tags": tags,
     }
 
 
@@ -187,6 +268,7 @@ def build_content(meta_data: dict, url: str, draft: bool) -> tuple[str, str]:
     description = meta_data.get("description")
     domain = meta_data["domain"]
     video_id = meta_data.get("video_id")
+    tags = meta_data.get("tags", [])
     slug = slugify(title)
     date = now_iso()
     safe_title = title.replace('"', '\\"')
@@ -220,6 +302,9 @@ def build_content(meta_data: dict, url: str, draft: bool) -> tuple[str, str]:
         "",
     ]
 
+    # Format tags as JSON array
+    tags_str = json.dumps(tags) if tags else "[]"
+
     front_matter_lines = [
         "---",
         f'title: "{safe_title}"',
@@ -229,7 +314,7 @@ def build_content(meta_data: dict, url: str, draft: bool) -> tuple[str, str]:
         front_matter_lines.append("draft: true")
     front_matter_lines += [
         'categories: ["micropost"]',
-        "tags: []",
+        f"tags: {tags_str}",
         f'slug: "{slug}"',
         "---",
     ]
@@ -287,6 +372,8 @@ def main():
     print(f"  Author:  {meta_data['author']}")
     if meta_data.get("description"):
         print(f"  Summary: {meta_data['description'][:60]}…")
+    if meta_data.get("tags"):
+        print(f"  Tags:    {', '.join(meta_data['tags'])}")
 
     slug, content = build_content(meta_data, url, draft)
     filepath = write_post(slug, content)
