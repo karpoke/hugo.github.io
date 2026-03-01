@@ -505,6 +505,13 @@ type(scope): description
 [optional footer - issue references, breaking changes, etc.]
 ```
 
+**When adding a commit message with body in the terminal**, use the `$'...'` syntax to ensure the blank line is preserved:
+```bash
+git commit -m $'type(scope): description\n\nBody text here'
+```
+
+This ensures git correctly interprets the newlines and maintains proper formatting with a blank line between title and body.
+
 
 ---
 
