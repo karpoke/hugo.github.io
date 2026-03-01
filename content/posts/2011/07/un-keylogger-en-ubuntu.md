@@ -202,4 +202,4 @@ los respositorios, necesitaremos [instalar el módulo de CPAN][].
   [script en Perl]: http://sh.kirsle.net/keylog2
   [1]: #dependencias
   [programa en C++]: http://pastebin.com/sk7FZ6AP
-  [instalar el módulo de CPAN]: {{< relref "/posts/admin/instalar-modulos-de-cpan-usando-cpan.md" >}}
+  [instalar el módulo de CPAN]: {{< relref "/posts/2011/07/instalar-modulos-de-cpan-usando-cpan.md" >}}

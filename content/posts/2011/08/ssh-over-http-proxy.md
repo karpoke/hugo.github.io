@@ -198,12 +198,12 @@ proxy]
 » [Apache Module mod_proxy][]
 
   [bloqueo podría ser por puerto o por protocolo]: http://ha.ckers.org/trillianremote.html
-  [proxySOCKS]: {{< relref "/posts/admin/utilizar-ssh-para-establecer-un-servidor-proxy-socks.md" >}}
-  [por ejemplo apache2, que sirve conexiones seguras]: {{< relref "/posts/admin/configurar-apache-para-servir-conexiones-seguras.md" >}}
-  [SSL y SSH, compartan el puerto 443]: {{< relref "/posts/admin/sslh-compartiendo-el-puerto-443.md" >}}
+  [proxySOCKS]: {{< relref "/posts/2011/08/utilizar-ssh-para-establecer-un-servidor-proxy-socks.md" >}}
+  [por ejemplo apache2, que sirve conexiones seguras]: {{< relref "/posts/2011/06/configurar-apache-para-servir-conexiones-seguras.md" >}}
+  [SSL y SSH, compartan el puerto 443]: {{< relref "/posts/2011/07/sslh-compartiendo-el-puerto-443.md" >}}
   [pasar a través del proxy]: http://www.techrepublic.com/blog/opensource/using-corkscrew-to-tunnel-ssh-over-http/962
   [puede ser un peligro]: http://httpd.apache.org/docs/2.4/mod/mod_proxy.html#access
-  [incrementar la seguridad de nuestro servidor web]: {{< relref "/posts/admin/mejorando-la-seguridad-de-apache-con-varnish.md" >}}
+  [incrementar la seguridad de nuestro servidor web]: {{< relref "/posts/2011/05/mejorando-la-seguridad-de-apache-con-varnish.md" >}}
   [CONNECT]: http://www.w3.org/Protocols/rfc2616/rfc2616-sec9.html
   [SSH Through or Over Proxy]: http://daniel.haxx.se/docs/sshproxy.html
   [Tunneling SSH over HTTP(S)]: http://dag.wieers.com/howto/ssh-http-tunneling/

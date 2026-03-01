@@ -89,4 +89,4 @@ $ plowdown -u
 
   [plowshare]: http://code.google.com/p/plowshare/
   [Mega]: https://mega.nz/
-  [descargar de zippyshare]: {{< relref "/posts/admin/descargar-archivos-de-zippyshare-desde-el-terminal-con-plowshare.md" >}}
+  [descargar de zippyshare]: {{< relref "/posts/2016/11/descargar-archivos-de-zippyshare-desde-el-terminal-con-plowshare.md" >}}

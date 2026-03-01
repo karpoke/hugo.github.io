@@ -163,11 +163,11 @@ _Previously_
 
   [Varnish]: http://www.varnish-cache.org/docs/2.1/
   [para incrementar la seguridad]: http://www.howtoforge.com/putting-varnish-in-front-of-apache-on-ubuntu-debian
-  [eliminar]: {{< relref "/posts/admin/ocultando-cabeceras.md" >}}
-  [cabeceras]: {{< relref "/posts/admin/cabeceras-http-personalizadas-en-apache2.md" >}}
-  [modificarlas]: {{< relref "/posts/admin/cabeceras-http-personalizadas-en-apache2.md" >}}
+  [eliminar]: {{< relref "/posts/2011/03/ocultando-cabeceras.md" >}}
+  [cabeceras]: {{< relref "/posts/2011/02/cabeceras-http-personalizadas-en-apache2.md" >}}
+  [modificarlas]: {{< relref "/posts/2011/02/cabeceras-http-personalizadas-en-apache2.md" >}}
   [cambiando el nombre]: http://www.varnish-cache.org/trac/wiki/VCLExampleDisguiseServer
-  ["w00tw00t"]: {{< relref "/posts/admin/w00t-w00t.md" >}}
-  [Cabeceras HTTP]: {{< relref "/posts/admin/cabeceras-http-personalizadas-en-apache2.md" >}}
-  [Ocultando cabeceras]: {{< relref "/posts/admin/ocultando-cabeceras.md" >}}
-  [Cabeceras HTTPS personalizadas en Apache2]: {{< relref "/posts/admin/cabeceras-http-personalizadas-en-apache2.md" >}}
+  ["w00tw00t"]: {{< relref "/posts/2011/01/w00t-w00t.md" >}}
+  [Cabeceras HTTP]: {{< relref "/posts/2011/02/cabeceras-http-personalizadas-en-apache2.md" >}}
+  [Ocultando cabeceras]: {{< relref "/posts/2011/03/ocultando-cabeceras.md" >}}
+  [Cabeceras HTTPS personalizadas en Apache2]: {{< relref "/posts/2011/02/cabeceras-http-personalizadas-en-apache2.md" >}}

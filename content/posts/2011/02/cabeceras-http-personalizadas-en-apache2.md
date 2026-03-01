@@ -80,6 +80,6 @@ cabecera][].
 
 * * * * *
 
-  [cabeceras no estándar]: {{< relref "/posts/admin/cabeceras-http-personalizadas-en-apache2.md" >}}
+  [cabeceras no estándar]: {{< relref "/posts/2011/02/cabeceras-http-personalizadas-en-apache2.md" >}}
   [evitar que los buscadores indexen el contenido del fichero robots.txt]: http://www.elladodelmal.com/2015/02/como-eliminar-la-indexacion-de.html
   [las especificaciones de esta cabecera]: https://developers.google.com/webmasters/control-crawl-index/docs/robots_meta_tag

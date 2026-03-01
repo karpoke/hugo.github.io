@@ -362,7 +362,7 @@ $ ac -d | awk '{h=int($NF); m=($NF-h)*60; s=int((m-int(m))*60); m=int(m); print 
 Today   total        0.31 = 0h 18m 36s
 ```
 
-  [usuarios están conectados al sistema]: {{< relref "/posts/admin/la-guardiana-de-la-puerta.md" >}}
+  [usuarios están conectados al sistema]: {{< relref "/posts/2010/10/la-guardiana-de-la-puerta.md" >}}
   [la variable DISPLAY]: http://linux-faq.blogspot.com/2008/05/display-variable.html
   [iniciar otra sesión gráfica]: http://usuariodebian.blogspot.com/2007/08/varias-sesiones-la-misma-vez.html
   [única y exclusivamente]: /posts/memo/true/

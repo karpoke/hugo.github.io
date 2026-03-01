@@ -398,7 +398,7 @@ Desde Ubuntu Precise Pangolin 12.04, el paquete
 [1] Incluso podríamos hacer lo mismo para `/etc/pam.d/gdm` y utilizar
 2FA para iniciar sesión en Gnome.
 
-  [impida el acceso por fuerza bruta]: {{< relref "/posts/admin/detectando-intrusos-en-ubuntu-maverick-meerkat.md" >}}
+  [impida el acceso por fuerza bruta]: {{< relref "/posts/2011/03/detectando-intrusos-en-ubuntu-maverick-meerkat.md" >}}
   [aplicación móvil de Google]: https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2
   [github]: https://github.com/google/google-authenticator/wiki
   [FreeOTP]: https://fedorahosted.org/freeotp/
@@ -406,14 +406,14 @@ Desde Ubuntu Precise Pangolin 12.04, el paquete
   [HOTP]: http://www.ietf.org/rfc/rfc4226.txt
   [TOTP]: http://www.ietf.org/rfc/rfc6238.txt
   [google.com]: http://www.google.com/support/a/bin/answer.py?answer=1037451
-  [uso exclusivo de claves para conectarnos por SSH]: {{< relref "/posts/admin/conectarse-por-ssh-solo-usando-la-clave.md" >}}
+  [uso exclusivo de claves para conectarnos por SSH]: {{< relref "/posts/2011/03/conectarse-por-ssh-solo-usando-la-clave.md" >}}
   [habilitar 2FA en nuestro servidor]: http://m.techrepublic.com/blog/opensource/two-factor-ssh-authentication-via-google-secures-linux-logins/2607
   [Descargamos]: http://code.google.com/p/google-authenticator/source/checkout
   [versión de mercurial un poco vieja]: http://code.google.com/p/google-authenticator/issues/detail?id=85
   [no encuentra la librería libdl]: http://code.google.com/p/google-authenticator/issues/detail?id=71
   [1]: #2fa-gdm
-  [leer el código desde el terminal para ver lo que contiene]: {{< relref "/posts/admin/creando-y-leyendo-codigos-qr-desde-python.md" >}}
-  [conexiones por SSH compartidas]: {{< relref "/posts/admin/compartiendo-una-conexion-por-ssh.md" >}}
+  [leer el código desde el terminal para ver lo que contiene]: {{< relref "/posts/2011/03/creando-y-leyendo-codigos-qr-desde-python.md" >}}
+  [conexiones por SSH compartidas]: {{< relref "/posts/2011/06/compartiendo-una-conexion-por-ssh.md" >}}
   [conexiones desde la misma LAN]: http://code.google.com/p/google-authenticator/wiki/PamModuleInstructions
   [una nueva regla]: http://clearimagery.net/blog/2011/03/two-factor-auth-with-pam-google-authenticator.html
   [depende únicamente de la clave secreta inicial]: http://www.idontplaydarts.com/2011/07/google-totp-two-factor-authentication-for-php/

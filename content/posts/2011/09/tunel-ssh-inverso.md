@@ -64,4 +64,4 @@ Como último comentario, si vamos a utilizar este sistema para
 administrar equipos remotos, quizá sería interesante utilizar algún
 sistema de [contraseñas de un solo uso][] en el servidor.
 
-  [contraseñas de un solo uso]: {{< relref "/posts/admin/servicio-de-ssh-con-sistema-de-verificacion-en-dos-pasos-de-google-en-ubuntu-natty-narwhal.md" >}}
+  [contraseñas de un solo uso]: {{< relref "/posts/2011/08/servicio-de-ssh-con-sistema-de-verificacion-en-dos-pasos-de-google-en-ubuntu-natty-narwhal.md" >}}

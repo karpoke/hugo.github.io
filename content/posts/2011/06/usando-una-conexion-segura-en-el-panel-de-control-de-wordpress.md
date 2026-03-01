@@ -37,7 +37,7 @@ iniciado sesión continúen usando una conexión segura en todo el sitio.
 Además, con este complemento, ya no será necesario modificar el fichero
 `wp-config.php`.
 
-  [instalado un WordPress]: {{< relref "/posts/admin/la-infame-actualizacion-de-wordpress-en-15-segundos.md" >}}
+  [instalado un WordPress]: {{< relref "/posts/2010/12/la-infame-actualizacion-de-wordpress-en-15-segundos.md" >}}
   [iniciar sesión a través de una conexión segura]: http://rackerhacker.com/2009/07/31/requiring-ssl-encryption-for-wordpress-administration/
-  [Apache esté configurado para servir conexiones seguras]: {{< relref "/posts/admin/configurar-apache-para-servir-conexiones-seguras.md" >}}
+  [Apache esté configurado para servir conexiones seguras]: {{< relref "/posts/2011/06/configurar-apache-para-servir-conexiones-seguras.md" >}}
   [SSL for logged in users]: https://wordpress.org/plugins/ssl-for-logged-in-users/

@@ -183,8 +183,8 @@ Referencias
 » En el directorio público de Ubuntu One tengo subidos varios [libros y artículos sobre GNU/Linux, software libre, programación y seguridad][].
 
   [la versión 0.7.1]: http://www.dropbox.com/install?os=lnx
-  [el número de línea haya cambiado]: {{< relref "/posts/admin/multiples-cuentas-de-dropbox-en-ubuntu-maverick-meerkat.md" >}}
+  [el número de línea haya cambiado]: {{< relref "/posts/2011/03/multiples-cuentas-de-dropbox-en-ubuntu-maverick-meerkat.md" >}}
   [gestionar todas las cuentas]: http://wiki.dropbox.com/TipsAndTricks/MultipleInstancesOnUnix
-  [añadir el icono de Dropbox al área de notificación]: {{< relref "/posts/admin/aplicaciones-en-el-area-de-notificacion-de-ubuntu-natty-narwhal.md" >}}
+  [añadir el icono de Dropbox al área de notificación]: {{< relref "/posts/2011/05/aplicaciones-en-el-area-de-notificacion-de-ubuntu-natty-narwhal.md" >}}
   [_ezines_ sobre GNU/Linux, software libre, programación y seguridad]: http://dl.dropbox.com/u/13647978/index.html
   [libros y artículos sobre GNU/Linux, software libre, programación y seguridad]: http://ubuntuone.com/p/NoU/

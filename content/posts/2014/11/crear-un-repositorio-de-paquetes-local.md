@@ -63,4 +63,4 @@ CD, basta ejecutar el siguiente comando para tener ese CD como fuente:
 $ sudo apt-cdrom add
 ```
 
-  [crear paquetes .deb mediante checkinstall]: {{< relref "/posts/admin/crear-paquetes-deb-con-checkinstall.md" >}}
+  [crear paquetes .deb mediante checkinstall]: {{< relref "/posts/2014/05/crear-paquetes-deb-con-checkinstall.md" >}}

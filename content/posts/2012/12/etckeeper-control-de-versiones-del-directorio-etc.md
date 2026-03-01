@@ -150,6 +150,6 @@ Referencias
 » [Using Version Control For Your /etc Directory With etckeeper And
 Bazaar On Debian Squeeze][]
 
-  [actualizar el fichero /etc/hosts]: {{< relref "/posts/admin/hphosts-evitando-la-navegacion-por-dominios-maliciosos.md" >}}
-  [rkhunter]: {{< relref "/posts/admin/buscando-rootkits-y-troyanos.md" >}}
+  [actualizar el fichero /etc/hosts]: {{< relref "/posts/2012/06/hphosts-evitando-la-navegacion-por-dominios-maliciosos.md" >}}
+  [rkhunter]: {{< relref "/posts/2010/12/buscando-rootkits-y-troyanos.md" >}}
   [Using Version Control For Your /etc Directory With etckeeper And Bazaar On Debian Squeeze]: http://www.howtoforge.com/using-version-control-for-your-etc-directory-with-etckeeper-and-bazaar-on-debian-squeeze

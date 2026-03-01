@@ -147,5 +147,5 @@ Referencias
 
 » [Creating an Ubuntu repository mirror with apt-mirror][]
 
-  [utilizar un _proxy/caché_ de paquetes]: {{< relref "/posts/admin/cache-de-paquetes-descargados-en-ubuntu-trusty-tahr.md" >}}
+  [utilizar un _proxy/caché_ de paquetes]: {{< relref "/posts/2014/05/cache-de-paquetes-descargados-en-ubuntu-trusty-tahr.md" >}}
   [Creating an Ubuntu repository mirror with apt-mirror]: http://popey.com/blog/2006/10/24/creating_an_ubuntu_repositoryespejowith_apt-mirror/

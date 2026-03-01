@@ -139,8 +139,8 @@ Referencias
 » [phpMyAdmin doc: tracking][]
 
   [aquí]: http://www.phpmyadmin.net/localized_docs/es/Documentation.html#tracking
-  [recuperar la contraseña de MySQL]: {{< relref "/posts/admin/cambiar-la-contrasena-de-administrador-en-mysql-5-1.md" >}}
-  [importando los datos]: {{< relref "/posts/admin/importar-un-volcado-de-datos-en-mysql.md" >}}
+  [recuperar la contraseña de MySQL]: {{< relref "/posts/2011/07/cambiar-la-contrasena-de-administrador-en-mysql-5-1.md" >}}
+  [importando los datos]: {{< relref "/posts/2011/03/importar-un-volcado-de-datos-en-mysql.md" >}}
   [phpMyAdmin doc: almacenamiento de configuración para phpMyAdmin]: http://www.phpmyadmin.net/localized_docs/es/Documentation.html#linked-tables
   [phpMyAdmin doc: pmadb]: http://www.phpmyadmin.net/localized_docs/es/Documentation.html#pmadb
   [phpMyAdmin doc: tracking]: http://www.phpmyadmin.net/documentation/#tracking

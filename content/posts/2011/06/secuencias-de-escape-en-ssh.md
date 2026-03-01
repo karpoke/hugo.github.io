@@ -56,4 +56,4 @@ The following connections are open:
 ```
 
   [cerrar la sesión cuando se nos queda colgada]: http://www.commandlinefu.com/commands/view/8665/control-ssh-connection
-  [compartiendo una conexión SSH]: {{< relref "/posts/admin/compartiendo-una-conexion-por-ssh.md" >}}
+  [compartiendo una conexión SSH]: {{< relref "/posts/2011/06/compartiendo-una-conexion-por-ssh.md" >}}

@@ -266,5 +266,5 @@ Referencias
 » [Upstart][]
 
   [pam_usb]: http://pamusb.org/
-  [sistema de autenticación en dos pasos (2FA)]: {{< relref "/posts/admin/servicio-de-ssh-con-sistema-de-verificacion-en-dos-pasos-de-google-en-ubuntu-natty-narwhal.md" >}}
+  [sistema de autenticación en dos pasos (2FA)]: {{< relref "/posts/2011/08/servicio-de-ssh-con-sistema-de-verificacion-en-dos-pasos-de-google-en-ubuntu-natty-narwhal.md" >}}
   [Upstart]: http://upstart.ubuntu.com/wiki/Stanzas

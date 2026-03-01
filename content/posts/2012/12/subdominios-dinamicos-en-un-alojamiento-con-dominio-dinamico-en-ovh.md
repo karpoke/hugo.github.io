@@ -154,8 +154,8 @@ Referencias
 subdominio]
 
   [vhost_alias]: http://httpd.apache.org/docs/2.2/mod/mod_vhost_alias.html
-  [las conexiones a estos subdominios sean seguras]: {{< relref "/posts/admin/configurar-apache-para-servir-conexiones-seguras.md" >}}
+  [las conexiones a estos subdominios sean seguras]: {{< relref "/posts/2011/06/configurar-apache-para-servir-conexiones-seguras.md" >}}
   [no se puede utilizar para estos subdominios de un subdominio]: http://tools.ietf.org/html/rfc2818#section-3.1
-  [forzar el uso de HTTPS]: {{< relref "/posts/admin/forzar-el-uso-de-sslhttps-de-un-directorio-en-apache2-mediante-htaccess-y-mod_rewrite.md" >}}
+  [forzar el uso de HTTPS]: {{< relref "/posts/2012/05/forzar-el-uso-de-sslhttps-de-un-directorio-en-apache2-mediante-htaccess-y-mod_rewrite.md" >}}
   [Redirect of wildcard subdomain to subfolder]: http://forum.nginx.org/read.php?9,221859
   [Wildcard subdomain directory names]: http://serverfault.com/questions/182929/wildcard-subdomain-directory-names/182933#182933

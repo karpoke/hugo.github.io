@@ -67,4 +67,4 @@ Por último, si hemos actualizado la dirección de WordPress y estamos
 usando alguna [técnica _anti-hotlinking_][], deberíamos revisar el
 archivo `.htaccess`, por si debiéramos actualizarlo.
 
-  [técnica _anti-hotlinking_]: {{< relref "/posts/admin/evitando-el-hotlinking.md" >}}
+  [técnica _anti-hotlinking_]: {{< relref "/posts/2011/08/evitando-el-hotlinking.md" >}}

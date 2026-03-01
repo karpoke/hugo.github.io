@@ -479,8 +479,8 @@ Referencias
   [Raspberry Pi]: http://www.raspberrypi.org/
   [RS-Online]: http://uk.rs-online.com/web/generalDisplay.html?id=raspberrypi
   [descargas]: http://www.raspberrypi.org/downloads
-  [utilizando claves para conectarnos]: {{< relref "/posts/admin/conectarse-por-ssh-solo-usando-la-clave.md" >}}
-  [reutilización de la conexión SSH]: {{< relref "/posts/admin/compartiendo-una-conexion-por-ssh.md" >}}
+  [utilizando claves para conectarnos]: {{< relref "/posts/2011/03/conectarse-por-ssh-solo-usando-la-clave.md" >}}
+  [reutilización de la conexión SSH]: {{< relref "/posts/2011/06/compartiendo-una-conexion-por-ssh.md" >}}
   [antena WiFi USB]: http://omer.me/2012/04/setting-up-wireless-networks-under-debian-on-raspberry-pi/
   [la Raspberry Pi no aporta suficiente potencia para la antena WIFI]: http://www.raspberrypi.org/phpBB3/viewtopic.php?t=7241&p=99068
   [expEYES]: http://expeyes.in/

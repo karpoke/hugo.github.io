@@ -198,4 +198,4 @@ $ cat screenshot.png | ssh -C user@remotehost "DISPLAY=:0 display -format png -"
   [configurar el servidor SSH del equipo remoto]: http://www.guia-ubuntu.org/index.php?title=Servidor_ssh
   [en el servidor gráfico del equipo remoto]: http://www.carballude.es/blog/2010/05/02/ejecutar-programas-en-la-pantalla-remota-mediante-ssh/
   [consumo de ancho de banda]: http://www.vanemery.com/Linux/XoverSSH/X-over-SSH2.html
-  [protector de pantalla]: {{< relref "/posts/admin/salvapantallas-con-el-codigo-fuente-del-kernel.md" >}}
+  [protector de pantalla]: {{< relref "/posts/2011/07/salvapantallas-con-el-codigo-fuente-del-kernel.md" >}}

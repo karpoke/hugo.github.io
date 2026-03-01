@@ -276,5 +276,5 @@ fichero `/etc/services`.
   [securizar Ubuntu Maverick Meerkat]: http://dzulkifli.com/index.php?option=com_content&view=article&id=109:securing-maverick-meerkat&catid=35:ubuntu&Itemid=85
   [1]: #servicios
   [evitar el aviso]: http://blogs.unbolt.net/index.php/brinley/2010/08/07/filesystem-devtmpfs-used-by-none-is-not-recognised-as-a-valid-filesystem
-  [recibir demasiados mensajes]: {{< relref "/posts/admin/kernel-time-sync-status-change.md" >}}
-  [un usuario inicia sesión en el sistema]: {{< relref "/posts/admin/la-guardiana-de-la-puerta.md" >}}
+  [recibir demasiados mensajes]: {{< relref "/posts/2011/01/kernel-time-sync-status-change.md" >}}
+  [un usuario inicia sesión en el sistema]: {{< relref "/posts/2010/10/la-guardiana-de-la-puerta.md" >}}

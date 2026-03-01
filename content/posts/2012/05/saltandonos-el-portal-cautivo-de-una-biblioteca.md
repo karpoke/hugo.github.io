@@ -81,4 +81,4 @@ Nunca se sabe quién puede estar escuchando nuestra conexión y los datos
 que viajan por ella, como contraseñas, _cookies_ de sesión, mensajes,
 correos...
 
-  [_proxy_ SOCKS]: {{< relref "/posts/admin/utilizar-ssh-para-establecer-un-servidor-proxy-socks.md" >}}
+  [_proxy_ SOCKS]: {{< relref "/posts/2011/08/utilizar-ssh-para-establecer-un-servidor-proxy-socks.md" >}}

@@ -53,4 +53,4 @@ usar el argumento `-O`, que vuelca el contenido a la salida estándar:
 $ tar xvzf backup.tgz home/user/projects/django/projectname/myapp/app.config -O | tee app.config
 ```
 
-  [por ssh]: {{< relref "/posts/admin/compartiendo-una-conexion-por-ssh.md" >}}
+  [por ssh]: {{< relref "/posts/2011/06/compartiendo-una-conexion-por-ssh.md" >}}

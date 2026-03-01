@@ -58,6 +58,6 @@ $ sudo update-grub2
 
 » imagen de [BlackMooon][]
 
-  [problemas que tenía con el arranque]: {{< relref "/posts/admin/solucion-de-problemas-con-plymouth-y-ati-en-ubuntu-maverick-meerkat.md" >}}
+  [problemas que tenía con el arranque]: {{< relref "/posts/2011/01/solucion-de-problemas-con-plymouth-y-ati-en-ubuntu-maverick-meerkat.md" >}}
   [temas para Plymouth]: http://sliceoflinux.com/2010/05/14/cambia-el-tema-plymouth-de-tu-ubuntu-10-04/
   [BlackMooon]: http://blackmoondev.com/official-blackmoons-wallpapers/

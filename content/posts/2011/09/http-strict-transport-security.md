@@ -61,4 +61,4 @@ RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI}
   [HTTP Strict Transport Security]: http://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security
   [podría suceder que nos redirija a la versión segura]: http://hacks.mozilla.org/2010/08/firefox-4-http-strict-transport-security-force-https/
   [donde configuramos la conexión SSL]: http://mikkel.hoegh.org/blog/2010/sep/9/protecting-your-users-phishing-apache-rules-hsts
-  [conexión al panel de control se haga a través de una conexión segura]: {{< relref "/posts/admin/usando-una-conexion-segura-en-el-panel-de-control-de-wordpress.md" >}}
+  [conexión al panel de control se haga a través de una conexión segura]: {{< relref "/posts/2011/06/usando-una-conexion-segura-en-el-panel-de-control-de-wordpress.md" >}}

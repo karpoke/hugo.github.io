@@ -54,5 +54,5 @@ The following hashes were cracked:
 Via [segu-info.com.ar][]
 
   [@AnonNewsSource]: http://twitter.com/#!/AnonNewsSource/status/141733919501467649
-  [findmyhash.py]: {{< relref "/posts/hack/encuentra-el-hash.md" >}}
+  [findmyhash.py]: {{< relref "/posts/2011/09/encuentra-el-hash.md" >}}
   [segu-info.com.ar]: http://blog.segu-info.com.ar/2011/12/usuario-y-contrasena-de-barack-obama.html

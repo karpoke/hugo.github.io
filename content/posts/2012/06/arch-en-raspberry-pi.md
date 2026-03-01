@@ -377,11 +377,11 @@ Referencias
 » [pacman: gestor de paquetes de Arch][gestor de paquetes de Arch]
 » [Arch Linux ARM: Raspberry Pi Forum][]
 
-  [Raspberry Pi con Debian]: {{< relref "/posts/admin/raspberry-pi.md" >}}
+  [Raspberry Pi con Debian]: {{< relref "/posts/2012/06/raspberry-pi.md" >}}
   [descargas]: http://www.raspberrypi.org/downloads
   [Raspbmc]: http://www.raspbmc.com
   [PwnPi]: http://www.pwnpi.com
-  [pbzip2]: {{< relref "/posts/admin/pbzip2-un-bzip2-mas-rapido.md" >}}
+  [pbzip2]: {{< relref "/posts/2012/06/pbzip2-un-bzip2-mas-rapido.md" >}}
   [dependiendo de la tarjeta SD]: http://www.sakoman.com/OMAP/microsd-card-perfomance-test-results.html
   [gestor de paquetes de Arch]: http://archlinuxarm.org/support/guides/applications/package-management
   [evitar algunos problemas]: http://www.raspberrypi.org/phpBB3/viewtopic.php?f=53&t=7435

@@ -172,13 +172,13 @@ Panel lateral / Firesheep* o `Ctrl+Shft+s`.
 
   [Firesheep]: http://codebutler.com/firesheep
   [robar la identidad]: http://alt1040.com/2010/10/firesheep-facebook-google-twitter-windows-live-wordpress-google
-  [Dropbox]: {{< relref "/posts/admin/como-publicar-directorios-en-ubuntu-one-y-dropbox.md" >}}
-  [Facebook]: {{< relref "/posts/hack/senoras-que-se-ponen-un-nombre-falso-en-facebook-pero-usan-su-direccion-de-correo-personal.md" >}}
-  [Google]: {{< relref "/posts/hack/csrf-en-las-busquedas-de-google.md" >}}
-  [Wordpress]: {{< relref "/posts/admin/la-infame-actualizacion-de-wordpress-en-15-segundos.md" >}}
+  [Dropbox]: {{< relref "/posts/2010/10/como-publicar-directorios-en-ubuntu-one-y-dropbox.md" >}}
+  [Facebook]: {{< relref "/posts/2010/10/senoras-que-se-ponen-un-nombre-falso-en-facebook-pero-usan-su-direccion-de-correo-personal.md" >}}
+  [Google]: {{< relref "/posts/2010/12/csrf-en-las-busquedas-de-google.md" >}}
+  [Wordpress]: {{< relref "/posts/2010/12/la-infame-actualizacion-de-wordpress-en-15-segundos.md" >}}
   [evitarlo]: http://alt1040.com/2010/11/como-protegerse-de-firesheep
   [HTTPS-everywhere]: http://www.eff.org/https-everywhere
   [Blacksheep]: http://www.zscaler.com/blacksheep.html
   [recompilamos la extensión]: http://research.zscaler.com/2010/11/blacksheep-for-linux.html
   [complemento]: http://ubuntuone.com/p/NoU/
-  [directorio público]: {{< relref "/posts/admin/como-publicar-directorios-en-ubuntu-one-y-dropbox.md" >}}
+  [directorio público]: {{< relref "/posts/2010/10/como-publicar-directorios-en-ubuntu-one-y-dropbox.md" >}}

@@ -184,10 +184,10 @@ Referencias
 
   [entregará tus ficheros al gobierno de Estados Unidos]: http://www.businessinsider.com/dropbox-updates-security-terms-of-service-to-say-it-can-decrpyt-files-if-the-government-asks-it-to-2011-4?op=1
   [saltarse las restricciones]: http://www.hispasec.com/unaaldia/4558
-  [una de nuestras cuentas de Dropbox]: {{< relref "/posts/admin/multiples-cuentas-de-dropbox-en-ubuntu-maverick-meerkat.md" >}}
+  [una de nuestras cuentas de Dropbox]: {{< relref "/posts/2011/03/multiples-cuentas-de-dropbox-en-ubuntu-maverick-meerkat.md" >}}
   [Linux Journal]: http://www.linuxjournal.com/article/9400
   [cifrado]: http://manpages.ubuntu.com/manpages/intrepid/man7/ecryptfs.7.html
   [opciones]: http://wiki.archlinux.org/index.php/System_Encryption_with_eCryptfs#Mounting
-  [bit de `sutuid`]: {{< relref "/posts/admin/setuid-y-setgid.md" >}}
+  [bit de `sutuid`]: {{< relref "/posts/2011/02/setuid-y-setgid.md" >}}
   [ezines sobre GNU/Linux, software libre, programación y seguridad]: http://dl.dropbox.com/u/13647978/index.html
   [libros y artículos sobre GNU/Linux, software libre, programación y seguridad]: http://ubuntuone.com/p/NoU/

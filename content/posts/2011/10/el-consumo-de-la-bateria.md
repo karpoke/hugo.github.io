@@ -52,7 +52,7 @@ segundos tras los cuales el [módulo de sonido][] se deshabilita.
 ```
 
   [consumo de la batería se había disparado]: http://www.phoronix.com/scan.php?page=article&item=linux_mobile_uffda#=1
-  [alargar su tiempo de vida]: {{< relref "/posts/admin/la-bateria-del-portatil.md" >}}
+  [alargar su tiempo de vida]: {{< relref "/posts/2010/09/la-bateria-del-portatil.md" >}}
   [este elevado consumo podría deberse a un fallo]: http://elsoftwarelibre.wordpress.com/2011/09/29/el-elevado-consumo-de-energia-de-las-ultimas-versiones-del-kernel-de-linux-%C2%BFverdad-o-mito/
   [parámetros del kernel]: http://www.fewt.com/2011/09/about-kernel-30-power-regression-myth.html
   [interrupciones no enmascarables]: http://www.mjmwired.net/kernel/Documentation/nmi_watchdog.txt

@@ -61,4 +61,4 @@ Al final, también comenzó a hacerlo en los terminales de texto,
 ![Terminus TTY](/images/terminus_tty-300x225.jpg)
 
   [La Fundación]: http://es.wikipedia.org/wiki/Terminus
-  [pasó a mejor vida]: {{< relref "/posts/admin/la-bateria-del-portatil.md" >}}
+  [pasó a mejor vida]: {{< relref "/posts/2010/09/la-bateria-del-portatil.md" >}}

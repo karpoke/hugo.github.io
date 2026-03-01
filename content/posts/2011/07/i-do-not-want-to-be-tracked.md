@@ -49,6 +49,6 @@ siempre que ésta esté disponible
   [1]: http://duckduckgo.com/
   [no registra información]: http://duckduckgo.com/about.html
   [HTTP-Everywhere]: http://www.eff.org/https-everywhere
-  [conexión segura al servidor web]: {{< relref "/posts/admin/configurar-apache-para-servir-conexiones-seguras.md" >}}
+  [conexión segura al servidor web]: {{< relref "/posts/2011/06/configurar-apache-para-servir-conexiones-seguras.md" >}}
   [Blacksheep]: http://ubuntuone.com/p/NoU/
   [utilizando Firesheep en la misma red]: /posts/hack/robando-la-identidad-del-vecino/

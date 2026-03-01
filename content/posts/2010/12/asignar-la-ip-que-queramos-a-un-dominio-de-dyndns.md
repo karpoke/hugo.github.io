@@ -154,6 +154,6 @@ dominios.
 
 * * * * *
 
-  [dominios]: {{< relref "/posts/admin/dyndns-e-inadyn.md" >}}
+  [dominios]: {{< relref "/posts/2010/12/dyndns-e-inadyn.md" >}}
   [actualizar el dominio con la IP que queramos]: http://dyn.com/support/developers/api/perform-update/
-  [iniciar sesión]: {{< relref "/posts/admin/iniciar-sesion-en-dyndns-desde-el-terminal.md" >}}
+  [iniciar sesión]: {{< relref "/posts/2013/06/iniciar-sesion-en-dyndns-desde-el-terminal.md" >}}

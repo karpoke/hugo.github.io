@@ -139,4 +139,4 @@ $ ./configure prefix=/usr sysconfdir=/etc && make && sudo make uninstall
 
   [Latch]: https://latch.elevenpaths.com/
   [área de desarrolladores]: https://latch.elevenpaths.com/www/developers/editapplication
-  [servicio de SSH con sistema de verificación en dos pasos de Google]: {{< relref "/posts/admin/servicio-de-ssh-con-sistema-de-verificacion-en-dos-pasos-de-google-en-ubuntu-natty-narwhal.md" >}}
+  [servicio de SSH con sistema de verificación en dos pasos de Google]: {{< relref "/posts/2011/08/servicio-de-ssh-con-sistema-de-verificacion-en-dos-pasos-de-google-en-ubuntu-natty-narwhal.md" >}}

@@ -185,7 +185,7 @@ O que sólo se escuche el audio:
 $ ssh -C user@host cat movie.ogv | mplayer -vc null -
 ```
 
-  [acceso por ssh]: {{< relref "/posts/admin/conectarse-por-ssh-solo-usando-la-clave.md" >}}
+  [acceso por ssh]: {{< relref "/posts/2011/03/conectarse-por-ssh-solo-usando-la-clave.md" >}}
   [micrófono]: #microfono-local-altavoces-remotos
   [viceversa]: #microfono-remoto-altavoces-locales
   [escribe]: #texto-local-altavoces-remotos

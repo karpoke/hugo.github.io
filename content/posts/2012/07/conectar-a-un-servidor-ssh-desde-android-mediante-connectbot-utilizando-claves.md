@@ -91,5 +91,5 @@ Referencias
 » [ConnectBot][1] en el _market_
 
   [ConnectBot]: http://code.google.com/p/connectbot/
-  [configurado para aceptar claves]: {{< relref "/posts/admin/conectarse-por-ssh-solo-usando-la-clave.md" >}}
+  [configurado para aceptar claves]: {{< relref "/posts/2011/03/conectarse-por-ssh-solo-usando-la-clave.md" >}}
   [1]: http://play.google.com/store/apps/details?id=org.connectbot

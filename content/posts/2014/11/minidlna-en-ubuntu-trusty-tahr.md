@@ -225,7 +225,7 @@ Referencias
 » Anand Subramanian | [The Ultimate Guide to Compile and Install MiniDLNA on Ubuntu][]
 » Justin Maggard | [MiniDLNA (ReadyMedia)][]
 
-  [crear un paquete .deb con checkinstall]: {{< relref "/posts/admin/crear-paquetes-deb-con-checkinstall.md" >}}
+  [crear un paquete .deb con checkinstall]: {{< relref "/posts/2014/05/crear-paquetes-deb-con-checkinstall.md" >}}
   [el puerto UDP 1900]: http://en.wikipedia.org/wiki/Simple_Service_Discovery_Protocol
   [Media House]: https://play.google.com/store/apps/details?id=com.dbapp.android.mediahouse&hl=en
   [The Ultimate Guide to Compile and Install MiniDLNA on Ubuntu]: http://www.htpcbeginner.com/install-minidlna-on-ubuntu-ultimate-guide/

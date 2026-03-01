@@ -49,6 +49,6 @@ Referencias
   [Firefox]: https://github.com/pykiss/anti-AEDE/blob/master/script.user.js
   [Chrome]: https://chrome.google.com/webstore/detail/aede-blocker/olfbaiingdbeoihdemklgmakblhcgpmn?hl=es
   [añadir los dominios en el fichero /etc/hosts]: http://anotacionsalmarge.wordpress.com/2014/02/17/bloquejar-pagines-web/
-  [dominios maliciosos]: {{< relref "/posts/admin/hphosts-evitando-la-navegacion-por-dominios-maliciosos.md" >}}
+  [dominios maliciosos]: {{< relref "/posts/2012/06/hphosts-evitando-la-navegacion-por-dominios-maliciosos.md" >}}
   [WordPress]: https://wordpress.org/plugins/canon-aede/
   [Los usuarios de Menéame se levantan contra los medios de AEDE]: http://www.elconfidencial.com/tecnologia/2014-02-17/los-usuarios-de-meneame-se-levantan-contra-los-medios-de-aede_90486/

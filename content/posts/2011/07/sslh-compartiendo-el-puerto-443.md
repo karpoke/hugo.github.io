@@ -165,7 +165,7 @@ $ sudo ufw delete allow tcp/22
 ```
 
   [ya tenemos un servidor web]: http://dischord.org/blog/2010/08/25/multiplexing-ssh-and-ssl/
-  [las conexiones seguras]: {{< relref "/posts/admin/configurar-apache-para-servir-conexiones-seguras.md" >}}
-  [logcheck]: {{< relref "/posts/admin/detectando-intrusos-en-ubuntu-maverick-meerkat.md" >}}
-  [no queremos que nos lleguen estos avisos]: {{< relref "/posts/admin/kernel-time-sync-status-change.md" >}}
+  [las conexiones seguras]: {{< relref "/posts/2011/06/configurar-apache-para-servir-conexiones-seguras.md" >}}
+  [logcheck]: {{< relref "/posts/2011/03/detectando-intrusos-en-ubuntu-maverick-meerkat.md" >}}
+  [no queremos que nos lleguen estos avisos]: {{< relref "/posts/2011/01/kernel-time-sync-status-change.md" >}}
   [regla para permitir las conexiones]: http://pka.engr.ccny.cuny.edu/~jmao/node/28

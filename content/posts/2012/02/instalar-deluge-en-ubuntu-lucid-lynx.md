@@ -117,7 +117,7 @@ Referencias
 » [Deluge FAQ][]
 
   [deluge-daemon]: http://terminus.ignaciocano.com/wp-uploads/linked/deluge-daemon
-  [tiene activado un cortafuegos]: {{< relref "/posts/admin/detectando-intrusos-en-ubuntu-maverick-meerkat.md" >}}
+  [tiene activado un cortafuegos]: {{< relref "/posts/2011/03/detectando-intrusos-en-ubuntu-maverick-meerkat.md" >}}
   [How to install Deluge (v1.2.x/v1.3.x) headless on Ubuntu Server]: http://www.havetheknowhow.com/Install-the-software/Install-Deluge-Headless.html
   [Ubuntu Init Script]: http://dev.deluge-torrent.org/wiki/UserGuide/InitScript/Ubuntu
   [Bandwith Tweaking]: http://dev.deluge-torrent.org/wiki/UserGuide/BandwidthTweaking

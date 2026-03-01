@@ -269,8 +269,8 @@ realmente cifrados en los servidores de Mega.
 En el siguiente artículo, podemos ver [cómo cifrar un directorio en Mega
 con `encfs`][cómo cifrar un directorio en Mega con encfs].
 
-  [correos]: {{< relref "/posts/admin/copia-de-seguridad-de-gmail-con-getmail.md" >}}
-  [bases de datos]: {{< relref "/posts/admin/importar-un-volcado-de-datos-en-mysql.md" >}}
+  [correos]: {{< relref "/posts/2011/07/copia-de-seguridad-de-gmail-con-getmail.md" >}}
+  [bases de datos]: {{< relref "/posts/2011/03/importar-un-volcado-de-datos-en-mysql.md" >}}
   [descargamos el paquete]: https://mega.co.nz/#sync!linux
   [exportar la clave principal]: https://mega.co.nz/#backup
   [megatools]: https://github.com/megous/megatools
@@ -278,5 +278,5 @@ con `encfs`][cómo cifrar un directorio en Mega con encfs].
   [ya no está mantenido]: http://aplicacionesysistemas.com/feed/
   [compilaciones ya preparadas]: http://megatools.megous.com/builds
   [paralelo]: http://www.exvagos.com/showthread.php?t=530204
-  [directorio cifrado]: {{< relref "/posts/admin/cifrar-el-contenido-de-dropbox.md" >}}
-  [cómo cifrar un directorio en Mega con encfs]: {{< relref "/posts/admin/cifrar-un-directorio-sincronizado-en-mega-con-encfs.md" >}}
+  [directorio cifrado]: {{< relref "/posts/2011/04/cifrar-el-contenido-de-dropbox.md" >}}
+  [cómo cifrar un directorio en Mega con encfs]: {{< relref "/posts/2015/01/cifrar-un-directorio-sincronizado-en-mega-con-encfs.md" >}}

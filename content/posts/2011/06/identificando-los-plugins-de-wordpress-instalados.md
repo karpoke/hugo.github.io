@@ -274,6 +274,6 @@ Checking for 2162 total plugins... 1% complete.
   [http-wp-plugins]: http://seclists.org/nmap-dev/2011/q1/att-806/http-wp-plugins.nse
   [detectar los complementos instalados en WordPress]: http://blog.alexos.com.br/?p=2302
   [diccionario]: http://seclists.org/nmap-dev/2011/q1/att-806/wp-plugins_lst_tar.gz
-  [WordPress actualizado]: {{< relref "/posts/admin/la-infame-actualizacion-de-wordpress-en-15-segundos.md" >}}
+  [WordPress actualizado]: {{< relref "/posts/2010/12/la-infame-actualizacion-de-wordpress-en-15-segundos.md" >}}
   [wpfinger]: http://code.google.com/p/wpfinger/
   [WPScan]: http://code.google.com/p/wpscan/

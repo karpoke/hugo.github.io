@@ -118,6 +118,6 @@ algún equipo que esté conectado a la red, utilizando algún programa como
 
   [wikipedia]: http://en.wikipedia.org/wiki/MAC_address
   [hexadecimales]: http://en.wikipedia.org/wiki/Hexspeak
-  [tenga un identificador válido]: {{< relref "/posts/admin/obteniendo-la-ip-publica-la-ip-privada-y-la-direccion-mac-en-bash.md" >}}
+  [tenga un identificador válido]: {{< relref "/posts/2011/08/obteniendo-la-ip-publica-la-ip-privada-y-la-direccion-mac-en-bash.md" >}}
   [aleatoria]: /posts/dev/random-bash/
   [sustituir a ifconfig]: http://www.tty1.net/blog/2010/ifconfig-ip-comparison_en.html

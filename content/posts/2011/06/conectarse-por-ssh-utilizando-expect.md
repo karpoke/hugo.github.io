@@ -147,6 +147,6 @@ $ expect -c "
 "
 ```
 
-  [conectarse utilizando la clave]: {{< relref "/posts/admin/conectarse-por-ssh-solo-usando-la-clave.md" >}}
+  [conectarse utilizando la clave]: {{< relref "/posts/2011/03/conectarse-por-ssh-solo-usando-la-clave.md" >}}
   [muestra cómo podemos conectarnos]: http://ubuntuforums.org/showpost.php?p=5433300&postcount=5
   [conectar para ejecutar un comando]: http://bash.cyberciti.biz/security/expect-ssh-login-script/

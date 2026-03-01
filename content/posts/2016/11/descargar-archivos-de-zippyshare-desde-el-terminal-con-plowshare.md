@@ -67,4 +67,4 @@ Si queremos que modifique el fichero para que comente los enlaces que se han
 descargado correctamente, no tenemos más que pasarle el argumento `-m`.
 
   [plowshare]: https://github.com/mcrapet/plowshare
-  [descargar archivos de Megaupload]: {{< relref "/posts/admin/descargar-archivos-de-megaupload-desde-el-terminal-con-plowshare.md" >}}
+  [descargar archivos de Megaupload]: {{< relref "/posts/2011/09/descargar-archivos-de-megaupload-desde-el-terminal-con-plowshare.md" >}}

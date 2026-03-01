@@ -171,7 +171,7 @@ Referencias
 
 » [Configuring a NetworkManager Wireless Connection without Graphics][]
 
-  [El otro día]: {{< relref "/posts/admin/raspbmc.md" >}}
+  [El otro día]: {{< relref "/posts/2012/06/raspbmc.md" >}}
   [el consumo de la antena]: https://help.ubuntu.com/community/WifiDocs/Driver/zydas_zd1211
   [configurarla en debian]: http://terminus.ignaciocano.com/k/2012/06/21/raspberry-pi#conexion-inalambrica-con-una-antena-wifi-usb
   [consultar el UUID]: http://askubuntu.com/questions/14195/get-uuid-of-specific-connection

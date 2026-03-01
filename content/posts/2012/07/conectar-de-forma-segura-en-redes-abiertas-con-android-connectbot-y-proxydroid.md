@@ -74,7 +74,7 @@ Referencias
 » [ProxyDroid][1] en el _market_
 
   [ProxyDroid]: http://code.google.com/p/proxydroid/
-  [conectarnos con ConnectBot al servidor SSH mediante claves]: {{< relref "/posts/admin/conectar-a-un-servidor-ssh-desde-android-mediante-connectbot-utilizando-claves.md" >}}
+  [conectarnos con ConnectBot al servidor SSH mediante claves]: {{< relref "/posts/2012/07/conectar-a-un-servidor-ssh-desde-android-mediante-connectbot-utilizando-claves.md" >}}
   [saltarnos dicho portal cautivo]: /posts/hack/saltandonos-el-portal-cautivo-de-una-biblioteca/
   [ConnectBot]: http://play.google.com/store/apps/details?id=org.connectbot
   [1]: http://play.google.com/store/apps/details?id=org.proxydroid

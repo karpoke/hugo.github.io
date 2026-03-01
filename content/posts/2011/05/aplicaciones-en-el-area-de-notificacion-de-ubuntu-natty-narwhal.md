@@ -55,4 +55,4 @@ $ MultipleDropboxInstances.sh
 * * * * *
 
   [nueva API]: http://pricklytech.wordpress.com/2011/04/30/ubuntu-11-4-natty-customizing-the-notification-area-in-unity/
-  [utilizando múltiples cuentas de Dropbox]: {{< relref "/posts/admin/multiples-cuentas-de-dropbox-en-ubuntu-maverick-meerkat.md" >}}
+  [utilizando múltiples cuentas de Dropbox]: {{< relref "/posts/2011/03/multiples-cuentas-de-dropbox-en-ubuntu-maverick-meerkat.md" >}}

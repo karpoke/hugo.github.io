@@ -122,7 +122,7 @@ aparezca, sin tener que compilar, son:
 
 * * * * *
 
-  [cabeceras de la página]: {{< relref "/posts/admin/cabeceras-http-personalizadas-en-apache2.md" >}}
+  [cabeceras de la página]: {{< relref "/posts/2011/02/cabeceras-http-personalizadas-en-apache2.md" >}}
   [compilar Apache]: http://www.flu-project.com/seguridad-en-los-banner-de-los-servidores-web-apache-ocultando-informacion.html
-  [utilizar el módulo mod_security]: {{< relref "/posts/admin/apache2-y-mod_security-en-ubuntu-lucid-lynx-10-04.md" >}}
-  [utilizar Varnish]: {{< relref "/posts/admin/mejorando-la-seguridad-de-apache-con-varnish.md" >}}
+  [utilizar el módulo mod_security]: {{< relref "/posts/2012/04/apache2-y-mod_security-en-ubuntu-lucid-lynx-10-04.md" >}}
+  [utilizar Varnish]: {{< relref "/posts/2011/05/mejorando-la-seguridad-de-apache-con-varnish.md" >}}

@@ -179,11 +179,11 @@ para controlar XBMC][].
 
   [Raspbmc]: http://www.raspbmc.com/
   [retrocomputers.eu]: http://www.retrocomputers.eu/2012/06/20/watching-micro-men-via-xbmc-on-the-raspberry-pi/
-  [modificar las particiones para aprovechar al máximo el espacio de la tarjeta SD]: {{< relref "/posts/admin/raspberry-pi.md" >}}
+  [modificar las particiones para aprovechar al máximo el espacio de la tarjeta SD]: {{< relref "/posts/2012/06/raspberry-pi.md" >}}
   [comment]: # (fragment eliminado del enlace anterior #aprovechando-todo-el-espacio-de-la-tarjeta-sd)
-  [las primeras cosas que debamos cambiar nada más terminar la instalación]: {{< relref "/posts/admin/raspberry-pi.md" >}}
+  [las primeras cosas que debamos cambiar nada más terminar la instalación]: {{< relref "/posts/2012/06/raspberry-pi.md" >}}
   [comment]: # (fragment eliminado del enlace anterior #despues-de-instalar-debian)
-  [la antena WIFI USB no funciona si no es con _hub_ USB con alimentación]: {{< relref "/posts/admin/raspberry-pi.md" >}}
+  [la antena WIFI USB no funciona si no es con _hub_ USB con alimentación]: {{< relref "/posts/2012/06/raspberry-pi.md" >}}
   [comment]: # (fragment eliminado del enlace anterior #conexion-inalambrica-con-una-antena-wifi-usb)
   [conectarla por cable a un portátil]: http://www.raspberrypi.org/phpBB3/viewtopic.php?t=6997&p=94689
   [aplicación para Android para controlar XBMC]: https://play.google.com/store/apps/details?id=org.xbmc.android.remote

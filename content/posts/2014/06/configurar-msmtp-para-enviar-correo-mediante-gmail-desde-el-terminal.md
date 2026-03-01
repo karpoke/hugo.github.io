@@ -63,5 +63,5 @@ Referencias
 
 » [Send Gmail from the Linux Command Line][]
 
-  [ssmtp]: {{< relref "/posts/admin/configurar-ssmtp-para-enviar-correo-mediante-gmail-desde-el-terminal.md" >}}
+  [ssmtp]: {{< relref "/posts/2012/01/configurar-ssmtp-para-enviar-correo-mediante-gmail-desde-el-terminal.md" >}}
   [Send Gmail from the Linux Command Line]: http://tuxtweaks.com/2012/10/send-gmail-from-the-linux-command-line/

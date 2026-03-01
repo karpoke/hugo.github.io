@@ -229,4 +229,4 @@ $ libdecodeqr-webcam
   [solución]: http://sourceforge.net/projects/pyqrcode/forums/forum/886787/topic/3805055
   [error]: http://sourceforge.net/projects/pyqrcode/forums/forum/886787/topic/3897537
   [python egg]: http://ubuntuone.com/p/jig/
-  [directorio público]: {{< relref "/posts/admin/como-publicar-directorios-en-ubuntu-one-y-dropbox.md" >}}
+  [directorio público]: {{< relref "/posts/2010/10/como-publicar-directorios-en-ubuntu-one-y-dropbox.md" >}}

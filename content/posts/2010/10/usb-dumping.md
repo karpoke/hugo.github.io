@@ -171,6 +171,6 @@ tener nuestros archivos independientemente del ordenador en el que
 estemos, o bien cifrar el contenido del USB, en todo o en parte.
 
   [USB Dumping]: http://www.seguridadapple.com/2010/10/usb-dumping-en-mac-os-x.html
-  [contenido de un USB]: {{< relref "/posts/admin/recuperando-archivos-del-usb.md" >}}
+  [contenido de un USB]: {{< relref "/posts/2010/10/recuperando-archivos-del-usb.md" >}}
   [regla de udev]: http://www.reactivated.net/writing_udev_rules.html
-  [eliminado de su USB]: {{< relref "/posts/admin/recuperando-archivos-del-usb.md" >}}
+  [eliminado de su USB]: {{< relref "/posts/2010/10/recuperando-archivos-del-usb.md" >}}

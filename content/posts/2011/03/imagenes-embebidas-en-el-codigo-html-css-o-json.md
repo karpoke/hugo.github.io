@@ -77,4 +77,4 @@ $ urldec $(cat img.b64) | base64 -d > img.png
   [incluir imágenes codificadas]: http://mark.koli.ch/2009/07/howto-include-binary-image-data-in-cascading-style-sheets-css.html
   [JSON]: http://mark.koli.ch/2011/01/more-fun-with-rfc-2397----the-data-url-scheme.html
   [no es apropiado para URL]: http://es.wikipedia.org/wiki/Base64#Aplicaciones_en_URL
-  [codificaremos]: {{< relref "/posts/dev/urlencode-y-urldecode.md" >}}
+  [codificaremos]: {{< relref "/posts/2011/03/urlencode-y-urldecode.md" >}}

@@ -38,6 +38,6 @@ Fuente: [numberspiral.com]
 19
 ```
 
-  [zen]: {{< relref "/posts/dev/python-zen.md" >}}
+  [zen]: {{< relref "/posts/2011/02/python-zen.md" >}}
   [elegante]: http://blog.garlicsim.org/post/3504711416#comment-156082460
   [numberspiral.com]: http://www.numberspiral.com/

@@ -291,7 +291,7 @@ Referencias
   [ClouDNS]: https://cloudns.com.au
   [OpenNIC project]: http://www.opennicproject.org/
   [instalar previamente la librería libsodium]: http://askubuntu.com/questions/330589/how-to-compile-and-install-dnscrypt/330611#330611
-  [he creado los paquetes .deb para libsodium y dnscrypt]: {{< relref "/posts/admin/crear-paquetes-deb-con-checkinstall.md" >}}
+  [he creado los paquetes .deb para libsodium y dnscrypt]: {{< relref "/posts/2014/05/crear-paquetes-deb-con-checkinstall.md" >}}
   [OpenDNS aún no lo soporta]: http://forums.opendns.com/comments.php?DiscussionID=15361#Item_9
   [dnscrypt-proxy]: http://github.com/opendns/dnscrypt-proxy
   [Introducing DNSCrypt (Preview Release)]: http://www.opendns.com/technology/dnscrypt/

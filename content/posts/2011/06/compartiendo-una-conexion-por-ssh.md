@@ -109,5 +109,5 @@ maestra utilizando el argumento `-N` para que no nos ofrezca un terminal, y
 matar el proceso cuando ya no la necesitemos.
 
   [compartir las conexiones seguras]: http://protempore.net/~calvins/howto/ssh-connection-sharing/
-  [inicio de sesión por clave]: {{< relref "/posts/admin/conectarse-por-ssh-solo-usando-la-clave.md" >}}
-  [comando expect para evitar introducir la contraseña]: {{< relref "/posts/admin/conectarse-por-ssh-utilizando-expect.md" >}}
+  [inicio de sesión por clave]: {{< relref "/posts/2011/03/conectarse-por-ssh-solo-usando-la-clave.md" >}}
+  [comando expect para evitar introducir la contraseña]: {{< relref "/posts/2011/06/conectarse-por-ssh-utilizando-expect.md" >}}

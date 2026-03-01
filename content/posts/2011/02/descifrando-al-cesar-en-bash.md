@@ -63,4 +63,4 @@ $ echo "=@C6> :ADF> 5@=@C D:E 2>6E" | tr 'P-~!-O' '!-~'
 lorem ipsum dolor sit amet
 ```
 
-  [descifra al César en Python]: {{< relref "/posts/dev/descifrando-al-cesar-en-python.md" >}}
+  [descifra al César en Python]: {{< relref "/posts/2011/02/descifrando-al-cesar-en-python.md" >}}

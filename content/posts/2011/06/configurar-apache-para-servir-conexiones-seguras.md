@@ -385,11 +385,11 @@ Algunas utilidades para analizar la configuración SSL del servidor:
 * * * * *
 
   [no queremos que nos vuelva a pedir la contraseña]: http://www.madboa.com/geek/openssl/#key-removepass
-  [el cortafuegos deja pasar las peticiones]: {{< relref "/posts/admin/detectando-intrusos-en-ubuntu-maverick-meerkat.md" >}}
+  [el cortafuegos deja pasar las peticiones]: {{< relref "/posts/2011/03/detectando-intrusos-en-ubuntu-maverick-meerkat.md" >}}
   [comprobar las fechas de validez del certificado]: http://systemadmin.es/2013/03/ver-las-fechas-de-validez-de-un-certificado
   [la calidad de una conexión segura]: http://www.securitybydefault.com/2010/10/bancos-y-ssl-quien-aprueba.html
   [SSL Server Test, de Qualys SSL Labs]: https://www.ssllabs.com/ssltest/analyze.html
   [Mitigating the BEAST attack on TLS]: https://community.qualys.com/blogs/securitylabs/2011/10/17/mitigating-the-beast-attack-on-tls
   [RC4 in TLS is Broken: Now What?]: https://community.qualys.com/blogs/securitylabs/2013/03/19/rc4-in-tls-is-broken-now-what
-  [TLSSLed]: {{< relref "/posts/admin/tlssled-v1-2.md" >}}
-  [SSLyze]: {{< relref "/posts/admin/sslyze.md" >}}
+  [TLSSLed]: {{< relref "/posts/2011/10/tlssled-v1-2.md" >}}
+  [SSLyze]: {{< relref "/posts/2013/03/sslyze.md" >}}

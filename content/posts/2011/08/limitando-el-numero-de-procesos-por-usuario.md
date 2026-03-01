@@ -145,7 +145,7 @@ username          hard    nproc           240
 En el próximo reinicio, o si cerramos todas las sesiones y volvemos a entrar,
 los cambios tendrán efecto.
 
-  [procesos que puedan ser iniciados desde ella]: {{< relref "/posts/admin/mejora-del-rendimiento-interactivo-agrupando-tareas-por-terminal.md" >}}
+  [procesos que puedan ser iniciados desde ella]: {{< relref "/posts/2010/12/mejora-del-rendimiento-interactivo-agrupando-tareas-por-terminal.md" >}}
   [bomba fork]: http://secure.wikimedia.org/wikipedia/es/wiki/Bomba_fork
-  [usuario]: {{< relref "/posts/admin/controlando-la-actividad-de-los-usuarios-conectados.md" >}}
+  [usuario]: {{< relref "/posts/2011/08/controlando-la-actividad-de-los-usuarios-conectados.md" >}}
   [limitando el número máximo de procesos que se puedan ejecutar por usuario]: http://stolowski.blogspot.com/2011/04/protect-your-linux-box-against-fork.html

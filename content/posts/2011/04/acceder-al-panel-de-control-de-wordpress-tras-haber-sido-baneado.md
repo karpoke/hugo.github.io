@@ -32,5 +32,5 @@ mysql> delete from wp_lockdowns where lockdown_ID=1;
 Query OK, 1 row affected (0.00 sec)
 ```
 
-  [fail2ban para ssh]: {{< relref "/posts/admin/detectando-intrusos-en-ubuntu-maverick-meerkat.md" >}}
+  [fail2ban para ssh]: {{< relref "/posts/2011/03/detectando-intrusos-en-ubuntu-maverick-meerkat.md" >}}
   [Login LockDown]: http://wordpress.org/extend/plugins/login-lockdown/

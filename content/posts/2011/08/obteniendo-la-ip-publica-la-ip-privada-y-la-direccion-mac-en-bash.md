@@ -316,7 +316,7 @@ $ ip2arpa 65.52.108.12
   [RFC 1918]: http://tools.ietf.org/html/rfc1918#page-4
   [_script_ realiza la comprobación de una IP privada]: http://terminus.ignaciocano.com/wp-uploads/linked/is-valid-private-ip.sh
   [dirección MAC]: http://www.commandlinefu.com/commands/view/4974/get-all-mac-address
-  [cambiar la dirección MAC de una tarjeta]: {{< relref "/posts/admin/cambiar-la-direccion-mac.md" >}}
+  [cambiar la dirección MAC de una tarjeta]: {{< relref "/posts/2011/02/cambiar-la-direccion-mac.md" >}}
   [listado de OUIs válidos]: http://standards.ieee.org/develop/regauth/oui/oui.txt
   [el último bit del primer byte a 0]: http://www.streamreader.org/superuser/questions/91699/spoof-mac-address-from-ip-command
   [aleatoria]: /posts/dev/random-bash/

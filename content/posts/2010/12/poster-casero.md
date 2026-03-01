@@ -35,5 +35,5 @@ encontrar en mi [directorio público][] de [Ubuntu One][].
 
   [Block posters]: http://www.hogargeek.com/posters-de-hagalo-usted-mismo-con-block-posters/
   [mapa del software libre]: http://www.es.gnu.org/~reneme/fsmap/
-  [directorio público]: {{< relref "/posts/admin/como-publicar-directorios-en-ubuntu-one-y-dropbox.md" >}}
+  [directorio público]: {{< relref "/posts/2010/10/como-publicar-directorios-en-ubuntu-one-y-dropbox.md" >}}
   [Ubuntu One]: http://ubuntuone.com/p/NoU/

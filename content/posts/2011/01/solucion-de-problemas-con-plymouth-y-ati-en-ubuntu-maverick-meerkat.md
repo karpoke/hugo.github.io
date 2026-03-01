@@ -153,6 +153,6 @@ GRUB_CMDLINE_LINUX=" gfxpayload=true gfxpayload=1280x960x24"
 
 Cuando reiniciemos ya estará solucionado.
 
-  [actualizar a Maverick Meerkat]: {{< relref "/posts/admin/actualizando-ubuntu-a-la-ultima-distribucion-de-forma-remota.md" >}}
+  [actualizar a Maverick Meerkat]: {{< relref "/posts/2011/01/actualizando-ubuntu-a-la-ultima-distribucion-de-forma-remota.md" >}}
   [funcionó con una ATI Radeon]: http://www.nosinmiubuntu.com/2010/10/solucion-para-el-plymouth-en-ubuntu.html
   [problema con el arranque]: http://achmadz.blogspot.com/2010/03/ubuntu-910-karmic-koala-error-is.html

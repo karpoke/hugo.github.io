@@ -36,7 +36,7 @@ Referencias
 » [sshpass: Login To SSH Server / Provide SSH Password Using A Shell
 Script][]
 
-  [utilizar claves]: {{< relref "/posts/admin/conectarse-por-ssh-solo-usando-la-clave.md" >}}
-  [autenticación en dos pasos]: {{< relref "/posts/admin/servicio-de-ssh-con-sistema-de-verificacion-en-dos-pasos-de-google-en-ubuntu-natty-narwhal.md" >}}
-  [quede escrita en el historial]: {{< relref "/posts/admin/evitar-el-registro-de-comandos-en-el-historial.md" >}}
+  [utilizar claves]: {{< relref "/posts/2011/03/conectarse-por-ssh-solo-usando-la-clave.md" >}}
+  [autenticación en dos pasos]: {{< relref "/posts/2011/08/servicio-de-ssh-con-sistema-de-verificacion-en-dos-pasos-de-google-en-ubuntu-natty-narwhal.md" >}}
+  [quede escrita en el historial]: {{< relref "/posts/2012/03/evitar-el-registro-de-comandos-en-el-historial.md" >}}
   [sshpass: Login To SSH Server / Provide SSH Password Using A Shell Script]: http://www.cyberciti.biz/faq/noninteractive-shell-script-ssh-password-provider/

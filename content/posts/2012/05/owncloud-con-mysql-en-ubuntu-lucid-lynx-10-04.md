@@ -305,7 +305,7 @@ Referencias
 
   [ownCloud]: http://owncloud.org/
   [aplicaciones de terceros]: http://apps.owncloud.com/
-  [a través de una conexión segura]: {{< relref "/posts/admin/forzar-el-uso-de-sslhttps-de-un-directorio-en-apache2-mediante-htaccess-y-mod_rewrite.md" >}}
+  [a través de una conexión segura]: {{< relref "/posts/2012/05/forzar-el-uso-de-sslhttps-de-un-directorio-en-apache2-mediante-htaccess-y-mod_rewrite.md" >}}
   [mejoras de la versión 4.0.0]: http://owncloud.org/features/
   [archivos han desaparecido]: http://forum.owncloud.org/viewtopic.php?f=3&t=2536
   [fallo conocido]: http://forum.owncloud.org/viewtopic.php?f=3&t=1880#p2702

@@ -168,6 +168,6 @@ Referencias
 
 » [Encrypted filesystem on Mega.co.nz][]
 
-  [megatools instaladas]: {{< relref "/posts/admin/megasync-y-megatools-para-acceder-a-mega-desde-ubuntu.md" >}}
-  [utilizar ecrypt tal como hicimos con Dropbox]: {{< relref "/posts/admin/cifrar-el-contenido-de-dropbox.md" >}}
+  [megatools instaladas]: {{< relref "/posts/2015/01/megasync-y-megatools-para-acceder-a-mega-desde-ubuntu.md" >}}
+  [utilizar ecrypt tal como hicimos con Dropbox]: {{< relref "/posts/2011/04/cifrar-el-contenido-de-dropbox.md" >}}
   [Encrypted filesystem on Mega.co.nz]: https://archimedesden.wordpress.com/2013/05/18/encrypted-filesystem-on-mega-co-nz/
