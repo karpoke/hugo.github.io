@@ -33,6 +33,11 @@ hugo.github.io/
 
 ## 🔧 Code Conventions
 
+### Language in Code
+All generated code **must be in English**: templates, CSS, JavaScript, comments, variable names, function names, and documentation. Spanish is only used for blog post content.
+
+
+
 ### Post Format
 All articles must follow this frontmatter:
 
