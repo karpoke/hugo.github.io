@@ -4,11 +4,12 @@ date: 2011-03-29T18:54:00+01:00
 categories: ["dev"]
 tags: ["ecuaciones de segundo grado", "latex", "plugin", "wordpress"]
 slug: "latex-en-wordpress"
+math: true
 ---
 Descarga el [plugin de LaTeX para Wordpress][]. Luego, escribe:
 
-```
-\large\begin{align*}
+```latex
+\begin{align*}
 ax^2+bx+c &= 0 \\
 x^2+\frac{b}{a}x+\frac{c}{a} &= 0 \\
 x^2+\frac{b}{a}x &= -\frac{c}{a} \\
@@ -22,9 +23,9 @@ x &= \frac{-b\pm\sqrt{b^2-4ac}}{2a}
 
 El resultado será parecido a éste:
 
-```
+<div>
 $$
-\large\begin{align*}
+\begin{align*}
 ax^2+bx+c &= 0 \\
 x^2+\frac{b}{a}x+\frac{c}{a} &= 0 \\
 x^2+\frac{b}{a}x &= -\frac{c}{a} \\
@@ -35,6 +36,6 @@ x+\frac{b}{2a} &= \frac{\pm\sqrt{b^2-4ac}}{2a} \\
 x &= \frac{-b\pm\sqrt{b^2-4ac}}{2a}
 \end{align*}
 $$
-```
+</div>
 
   [plugin de LaTeX para Wordpress]: http://wordpress.org/extend/plugins/latex/

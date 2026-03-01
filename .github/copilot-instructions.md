@@ -196,6 +196,54 @@ To customize the theme, create files in:
 - `assets/` - For custom CSS/JS
 - `static/` - For static files
 
+## 📐 LaTeX and Mathematical Equations
+
+### Enabling Math Support
+The blog uses **MathJax 3** to render LaTeX equations. It's configured via:
+- `hugo.toml`: `params.math = true` (global) or per-post via frontmatter
+- `layouts/partials/math.html`: MathJax script loader
+- `assets/css/math.css`: Custom styling for equations
+
+### Using LaTeX in Posts
+
+**In frontmatter** (to enable for specific post):
+```yaml
+---
+title: "My Post"
+math: true
+---
+```
+
+**Display equations** (centered, on own line):
+```markdown
+$$
+\frac{-b \pm \sqrt{b^2 - 4ac}}{2a}
+$$
+```
+
+**Inline equations**:
+```markdown
+The quadratic formula is $\frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$ for equation $ax^2 + bx + c = 0$.
+```
+
+**Complex expressions** (using align environment):
+```markdown
+$$
+\begin{align*}
+ax^2 + bx + c &= 0 \\
+x &= \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}
+\end{align*}
+$$
+```
+
+### MathJax Delimiters
+- **Display math**: `$$...$$` or `\[...\]`
+- **Inline math**: `$...$` or `\(...\)`
+- **LaTeX environments**: `\begin{align*}...\end{align*}`, `\begin{equation}...\end{equation}`, etc.
+
+### Example Post
+See `content/posts/2011/03/latex-en-wordpress.md` for a complete example with quadratic formula.
+
 ## 📚 Resources
 
 ### Documentation

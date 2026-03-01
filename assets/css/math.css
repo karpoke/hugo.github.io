@@ -1,0 +1,33 @@
+/* Estilos personalizados para ecuaciones matemáticas con MathJax */
+
+.post-content mjx-container {
+  display: flex;
+  justify-content: center;
+  margin: 1.5em 0;
+  overflow-x: auto;
+}
+
+.post-content mjx-container[display="true"] {
+  display: flex;
+  justify-content: center;
+  margin: 1.5em 0;
+}
+
+/* Ecuaciones inline */
+.post-content mjx-container[display="false"] {
+  display: inline;
+  margin: 0 0.25em;
+}
+
+/* Mejora la legibilidad de ecuaciones grandes */
+.post-content mjx-container {
+  font-size: 1.1em;
+}
+
+/* Oscuro en modo dark */
+@media (prefers-color-scheme: dark) {
+  .post-content mjx-container {
+    color: #e0e0e0;
+  }
+}
+

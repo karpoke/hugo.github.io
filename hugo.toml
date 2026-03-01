@@ -27,6 +27,9 @@ enableRobotsTXT = true
   showtoc = true
   tocopen = false
 
+  # MathJax para soporte de LaTeX/ecuaciones matemáticas
+  math = true
+
   # Búsqueda con Fuse.js
   [params.fuseOpts]
     isCaseSensitive = false
@@ -76,6 +79,11 @@ enableRobotsTXT = true
     name = "Who am I?"
     url = "/who-am-i/"
     weight = 35
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
 [outputs]
   home = ["HTML", "RSS", "JSON", "Robots"]
