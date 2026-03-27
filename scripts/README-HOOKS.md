@@ -1,173 +1,173 @@
-# Git Hooks - Documentación
+# Git Hooks - Documentation
 
-## 🎯 Objetivo
+## 🎯 Purpose
 
-- **pre-commit**: Valida automáticamente que Hugo puede generar el sitio antes de cada commit, previniendo errores de sintaxis o configuración que rompan el build.
-- **pre-push**: Comprueba si hay una nueva versión de Hugo disponible antes de cada push y avisa si hay actualización pendiente.
+- **pre-commit**: Automatically validates that Hugo can generate the site before each commit, preventing syntax or configuration errors that would break the build.
+- **pre-push**: Checks if a newer Hugo version is available before each push and warns if an update is pending.
 
-## 📁 Archivos
+## 📁 Files
 
-### 1. `.git/hooks/pre-commit` (local, no se sube)
-El hook activo que git ejecuta antes de cada commit.
+### 1. `.git/hooks/pre-commit` (local, not tracked)
+The active hook that git runs before each commit.
 
-### 2. `.git/hooks/pre-push` (local, no se sube)
-El hook activo que git ejecuta antes de cada push.
+### 2. `.git/hooks/pre-push` (local, not tracked)
+The active hook that git runs before each push.
 
-### 3. `scripts/pre-commit` (se sube al repo)
-Versión compartible del hook pre-commit.
+### 3. `scripts/pre-commit` (tracked in repo)
+Shareable source for the pre-commit hook.
 
-### 4. `scripts/pre-push` (se sube al repo)
-Versión compartible del hook pre-push.
+### 4. `scripts/pre-push` (tracked in repo)
+Shareable source for the pre-push hook.
 
 ### 5. `scripts/install-hooks.sh`
-Script de instalación para facilitar el setup de ambos hooks.
+Installation script to set up both hooks easily.
 
-## 🔧 Instalación
+## 🔧 Installation
 
-Para nuevos desarrolladores que clonen el repositorio:
+For new developers cloning the repository:
 
 ```bash
 make install-hooks
 ```
 
-O manualmente:
+Or manually:
 ```bash
 bash scripts/install-hooks.sh
 ```
 
-## ✅ ¿Qué valida el hook?
+## ✅ What does the pre-commit hook validate?
 
-1. **Hugo está instalado**: Verifica que el comando `hugo` esté disponible
-2. **Build exitoso**: Ejecuta `hugo --quiet --minify` 
-3. **Sin errores**: Si hay errores de sintaxis, configuración o contenido, el commit es rechazado
-4. **Limpieza automática**: Elimina `public/` y `resources/` después de la validación
+1. **Hugo is installed**: Verifies that the `hugo` command is available
+2. **Successful build**: Runs `hugo --quiet --minify`
+3. **No errors**: If there are syntax, configuration or content errors, the commit is rejected
+4. **Auto cleanup**: Removes `public/` and `resources/` after validation
 
-## 🚀 Flujo de trabajo
+## 🚀 Workflow
 
 ```bash
-# 1. Modificas archivos
-vim content/posts/mi-post.md
+# 1. Edit files
+vim content/posts/my-post.md
 
-# 2. Añades al staging
-git add content/posts/mi-post.md
+# 2. Stage changes
+git add content/posts/my-post.md
 
-# 3. Intentas hacer commit
+# 3. Attempt to commit
 git commit -m "Add new post"
 
-# 4. El hook se ejecuta automáticamente:
-#    🔍 Pre-commit hook: Validando build de Hugo...
-#    ✅ Build de Hugo exitoso
+# 4. The hook runs automatically:
+#    🔍 Pre-commit hook: Validating Hugo build...
+#    ✅ Hugo build successful
 #    [main abc1234] Add new post
 
-# 5. Si hay errores:
-#    ❌ Error: El build de Hugo falló
-#    [muestra los errores]
-#    Commit rechazado
+# 5. If there are errors:
+#    ❌ Error: Hugo build failed
+#    [shows errors]
+#    Commit rejected
 ```
 
-## 🆘 Saltar el hook (emergencias)
+## 🆘 Skip the hook (emergencies only)
 
-En casos excepcionales donde necesitas hacer commit aunque el build falle:
+In exceptional cases where you need to commit despite a failing build:
 
 ```bash
-git commit --no-verify -m "WIP: trabajo en progreso"
+git commit --no-verify -m "WIP: work in progress"
 ```
 
-**⚠️ Advertencia**: Solo usar en emergencias, ya que puede romper el deploy automático.
+**⚠️ Warning**: Only use in emergencies, as it may break the automatic deploy.
 
-## 🧪 Probar el hook manualmente
+## 🧪 Test the hook manually
 
 ```bash
-# Ejecutar el hook sin hacer commit
+# Run the hook without committing
 bash .git/hooks/pre-commit
 
-# O ejecutar el script fuente
+# Or run the source script
 bash scripts/pre-commit
 ```
 
-## 📊 Ejemplo de salida
+## 📊 Output examples
 
-### Build exitoso:
+### Successful build:
 ```
-🔍 Pre-commit hook: Validando build de Hugo...
-✅ Build de Hugo exitoso
+🔍 Pre-commit hook: Validating Hugo build...
+✅ Hugo build successful
 ```
 
-### Build con errores:
+### Build with errors:
 ```
-🔍 Pre-commit hook: Validando build de Hugo...
-❌ Error: El build de Hugo falló
+🔍 Pre-commit hook: Validating Hugo build...
+❌ Error: Hugo build failed
 
-Errores encontrados:
+Errors found:
 ERROR the "date" front matter field is not a parsable date: see /path/to/post.md
 ERROR render of "page" failed: template error
 
-Por favor, corrige los errores antes de hacer commit.
-Puedes ejecutar 'hugo --verbose' para más detalles.
+Please fix the errors before committing.
+You can run 'hugo --verbose' for more details.
 ```
 
-## 🔄 Actualizar el hook
+## 🔄 Update the hooks
 
-Si el hook se actualiza en el repositorio:
+If the hooks are updated in the repository:
 
 ```bash
-make install-hooks  # Reinstalar la última versión
+make install-hooks  # Reinstall the latest version
 ```
 
-## 🛠️ Personalización
+## 🛠️ Customization
 
-Para modificar el hook, edita `scripts/pre-commit` y luego ejecuta:
+To modify a hook, edit the corresponding `scripts/` file and then run:
 
 ```bash
 make install-hooks
 ```
 
-## 📝 Beneficios
+## 📝 Benefits
 
-- ✅ **Prevención temprana**: Detecta errores antes de hacer commit
-- ✅ **CI/CD más rápido**: Evita pushes que fallarían en GitHub Actions
-- ✅ **Consistencia**: Todos los desarrolladores usan la misma validación
-- ✅ **Feedback inmediato**: Errores reportados en segundos, no minutos
+- ✅ **Early detection**: Catches errors before committing
+- ✅ **Faster CI/CD**: Avoids pushes that would fail in GitHub Actions
+- ✅ **Consistency**: All developers use the same validation
+- ✅ **Immediate feedback**: Errors reported in seconds, not minutes
 
 ## ❓ Troubleshooting
 
-### El hook no se ejecuta
+### Hook not running
 ```bash
-# Verificar que existe y es ejecutable
+# Check it exists and is executable
 ls -la .git/hooks/pre-commit
 
-# Si no existe, reinstalar
+# If missing, reinstall
 make install-hooks
 ```
 
-### Hugo no encontrado
+### Hugo not found
 ```bash
-# Instalar Hugo
-# Ver: https://gohugo.io/installation/
+# Install Hugo
+# See: https://gohugo.io/installation/
 ```
 
-### Quiero deshabilitar el hook permanentemente
+### Disable a hook permanently
 ```bash
-# Renombrar el hook
+# Rename the hook file
 mv .git/hooks/pre-commit .git/hooks/pre-commit.disabled
 mv .git/hooks/pre-push .git/hooks/pre-push.disabled
 ```
 
 ---
 
-## 🚀 Hook pre-push: Comprobación de versión de Hugo
+## 🚀 pre-push hook: Hugo version check
 
-### ¿Qué hace?
+### What does it do?
 
-Antes de cada `git push`, consulta la API de GitHub para comprobar si existe una versión más reciente de Hugo que la instalada localmente. Si la hay, muestra un aviso con el enlace a la release y recuerda actualizar el workflow.
+Before each `git push`, it queries the GitHub API to check if a newer Hugo version exists than the one installed locally. If so, it shows a warning with the release link and reminds you to update the workflow.
 
-### Comportamiento
+### Behaviour
 
-- ✅ Si Hugo está actualizado → push continúa sin interrupción
-- ⚠️ Si hay nueva versión → muestra aviso pero **el push continúa** (no lo bloquea)
-- ⚠️ Si no hay internet o falla la API → aviso y push continúa
+- ✅ Hugo is up to date → push continues uninterrupted
+- ⚠️ New version available → shows warning but **push continues** (not blocked)
+- ⚠️ No internet or API failure → warning shown, push continues
 
-### Ejemplo de salida
+### Output example
 
 ```
 🔍 Pre-push hook: Checking Hugo version...
@@ -181,7 +181,7 @@ Antes de cada `git push`, consulta la API de GitHub para comprobar si existe una
    Push continues. Update Hugo when convenient.
 ```
 
-### Saltar el hook
+### Skip the hook
 
 ```bash
 \git push --no-verify
@@ -189,4 +189,4 @@ Antes de cada `git push`, consulta la API de GitHub para comprobar si existe una
 
 ---
 
-**Nota**: Los archivos en `.git/hooks/` son locales y no se suben al repositorio. Por eso incluimos `scripts/pre-commit`, `scripts/pre-push` y `scripts/install-hooks.sh` en el repo para que otros puedan instalarlo fácilmente.
+**Note**: Files in `.git/hooks/` are local and not tracked by git. That's why we include `scripts/pre-commit`, `scripts/pre-push` and `scripts/install-hooks.sh` in the repo so others can install them easily.

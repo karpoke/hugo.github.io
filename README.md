@@ -1,139 +1,143 @@
-# Blog de Nacho Cano
+# Nacho Cano's Blog
 
-Blog técnico construido con [Hugo](https://gohugo.io/) y el tema [PaperMod](https://github.com/adityatelange/hugo-PaperMod).
+Technical blog built with [Hugo](https://gohugo.io/) and the [PaperMod](https://github.com/adityatelange/hugo-PaperMod) theme.
 
-Migrado desde Pelican manteniendo URLs legacy para compatibilidad SEO.
+Migrated from Pelican while preserving legacy URLs for SEO compatibility.
 
-## 🚀 Desarrollo Local
+## 🚀 Local Development
 
-### Requisitos
+### Requirements
 - Hugo (extended version)
 - Git
-- Make (opcional, para comandos simplificados)
+- Make (optional, for simplified commands)
 
-### Clonar el repositorio
+### Clone the repository
 
 ```bash
-git clone https://github.com/USUARIO/hugo.github.io.git
+git clone https://github.com/karpoke/hugo.github.io.git
 cd hugo.github.io
 git submodule update --init --recursive
-make install-hooks  # Instalar git hooks (recomendado)
+make install-hooks  # Install git hooks (recommended)
 ```
 
-### Ejecutar servidor local
+### Run local server
 
-Con Make:
+With Make:
 ```bash
 make server
 ```
 
-Sin Make:
+Without Make:
 ```bash
 hugo server -D
 ```
 
-El sitio estará disponible en `http://localhost:1313`
+The site will be available at `http://localhost:1313`
 
-## 📝 Crear nuevo post
+## 📝 Create a new post
 
-Con Make:
+With Make:
 ```bash
-make new-post TITLE="Mi Nuevo Post"
+make new-post TITLE="My New Post"
 ```
 
-Sin Make:
+Without Make:
 ```bash
-hugo new posts/mi-nuevo-post.md
+hugo new posts/my-new-post.md
 ```
 
 ## 🏗️ Build
 
 ```bash
 make build
-# o
+# or
 hugo --minify
 ```
 
-El sitio generado estará en `./public/`
+The generated site will be in `./public/`
 
 ## 📦 Deploy
 
-El deploy a GitHub Pages se realiza automáticamente mediante GitHub Actions cuando se hace push a la rama `main`.
+Deploy to GitHub Pages happens automatically via GitHub Actions on every push to the `main` branch.
 
-### Configuración en GitHub
+### GitHub Configuration
 
-1. Ve a Settings > Pages
+1. Go to Settings > Pages
 2. Source: GitHub Actions
-3. El dominio personalizado `blog.ignaciocano.com` ya está configurado en `static/CNAME`
+3. The custom domain `blog.ignaciocano.com` is already configured in `static/CNAME`
 
-## 📁 Estructura del proyecto
+## 📁 Project structure
 
 ```
 .
 ├── .github/workflows/  # GitHub Actions
 ├── content/
-│   ├── posts/         # Artículos del blog
-│   └── search.md      # Página de búsqueda
-├── static/            # Archivos estáticos (CNAME, etc.)
-├── themes/PaperMod/   # Tema (submódulo)
-├── hugo.toml          # Configuración de Hugo
-└── Makefile           # Comandos útiles
+│   ├── posts/         # Blog articles
+│   └── search.md      # Search page
+├── static/            # Static files (CNAME, etc.)
+├── themes/PaperMod/   # Theme (submodule)
+├── hugo.toml          # Hugo configuration
+└── Makefile           # Useful commands
 ```
 
-## 🔗 URLs Legacy
+## 🔗 Legacy URLs
 
-Las URLs mantienen el formato de Pelican para compatibilidad SEO:
+URLs follow the Pelican format for SEO compatibility:
 ```
 /YYYY/MM/DD/slug/
 ```
 
-Ejemplo: `/2026/02/19/migracion-pelican-a-hugo/`
+Example: `/2026/02/19/migracion-pelican-a-hugo/`
 
-## ⚙️ Comandos Make disponibles
+## ⚙️ Available Make commands
 
 ```bash
-make help           # Mostrar ayuda
-make server         # Servidor de desarrollo
-make build          # Generar sitio estático
-make clean          # Limpiar archivos generados
-make deploy         # Build para producción
-make new-post       # Crear nuevo post
-make update-theme   # Actualizar tema PaperMod
-make install-hooks  # Instalar git hooks
+make help           # Show help
+make server         # Development server
+make build          # Generate static site
+make clean          # Clean generated files
+make deploy         # Production build
+make new-post       # Create a new post
+make update-theme   # Update PaperMod theme
+make install-hooks  # Install git hooks
 ```
 
 ## 🎣 Git Hooks
 
-El proyecto incluye un hook pre-commit que valida que Hugo puede generar el sitio antes de cada commit.
+The project includes two git hooks. Install them with:
 
-### Instalación
 ```bash
 make install-hooks
 ```
 
-### ¿Qué hace?
-- Ejecuta `hugo --minify` antes de cada commit
-- Valida que no hay errores de build
-- Limpia automáticamente los archivos generados
-- Previene commits con errores de sintaxis o configuración
+### pre-commit
+- Runs `hugo --quiet --minify` before each commit
+- Validates there are no build errors
+- Automatically cleans up generated files
+- Prevents commits with syntax or configuration errors
 
-### Saltar el hook (emergencia)
-Si necesitas hacer un commit urgente sin validación:
+### pre-push
+- Checks if a newer Hugo version is available (via GitHub API)
+- Shows a warning with the release URL if an update exists
+- Never blocks the push (warning only)
+
+### Skip hooks (emergencies only)
 ```bash
-git commit --no-verify -m "mensaje"
+git commit --no-verify -m "message"
+git push --no-verify
 ```
 
-## 🔍 Características
+## 🔍 Features
 
-- ✅ Búsqueda integrada con Fuse.js
-- ✅ URLs legacy de Pelican
-- ✅ Diseño responsivo
+- ✅ Integrated search with Fuse.js
+- ✅ Pelican legacy URLs
+- ✅ Responsive design
 - ✅ Syntax highlighting
 - ✅ RSS feed
-- ✅ Tags y categorías
-- ✅ Deploy automático con GitHub Actions
-- ✅ Dominio personalizado
+- ✅ Tags and categories
+- ✅ Automatic deploy with GitHub Actions
+- ✅ Custom domain
 
-## 📄 Licencia
+## 📄 License
 
-Contenido: Todos los derechos reservados © Nacho Cano
+Content: All rights reserved © Nacho Cano
