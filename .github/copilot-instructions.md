@@ -59,6 +59,7 @@ categories: ["category"]
 - `make build` - Generate static site
 - `make new-post TITLE="Title"` - Create new post
 - `make new-micropost URL="https://..."` - Create micropost from URL
+- `make import-bookmarks YEAR=2026 [DRY_RUN=1]` - Import bookmarks from saved-YYYY.json
 - `make clean` - Clean generated files
 
 ### Legacy URLs (CRITICAL)
@@ -148,6 +149,19 @@ Configured in `hugo.toml` under `[menu.main]`:
 # Or with draft flag
 \make new-micropost URL="https://example.com" DRAFT=1
 ```
+
+### Create microposts from yearly bookmarks JSON
+```bash
+\make import-bookmarks YEAR=2026
+# Dry run without creating files
+\make import-bookmarks YEAR=2026 DRY_RUN=1
+```
+
+What this task must do:
+- Read `title`, `url`, `date` from `static/bookmarks/saved-YYYY.json`
+- Resolve final URL when domain is `meneame.net`
+- Extract summary, author and up to 3 relevant tags
+- Create posts in `content/posts/YYYY/MM/` with category `micropost`
 
 ### Update PaperMod theme
 ```bash

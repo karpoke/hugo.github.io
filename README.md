@@ -46,6 +46,26 @@ Without Make:
 hugo new posts/my-new-post.md
 ```
 
+## 🔖 Import bookmarks as microposts
+
+With Make:
+```bash
+make import-bookmarks YEAR=2026
+# Dry run (no files created)
+make import-bookmarks YEAR=2026 DRY_RUN=1
+```
+
+Direct script:
+```bash
+python3 scripts/import-bookmarks.py static/bookmarks/saved-2026.json
+python3 scripts/import-bookmarks.py static/bookmarks/saved-2026.json --dry-run
+```
+
+This workflow:
+- Reads `title`, `url`, `date` from `saved-YYYY.json`
+- Resolves final URL when source domain is `meneame.net`
+- Generates microposts with summary, author and relevant tags
+
 ## 🏗️ Build
 
 ```bash
@@ -92,14 +112,16 @@ Example: `/2026/02/19/migracion-pelican-a-hugo/`
 ## ⚙️ Available Make commands
 
 ```bash
-make help           # Show help
-make server         # Development server
-make build          # Generate static site
-make clean          # Clean generated files
-make deploy         # Production build
-make new-post       # Create a new post
-make update-theme   # Update PaperMod theme
-make install-hooks  # Install git hooks
+make help               # Show help
+make server             # Development server
+make build              # Generate static site
+make clean              # Clean generated files
+make deploy             # Production build
+make new-post           # Create a new post
+make new-micropost      # Create a micropost from URL
+make import-bookmarks   # Import bookmarks from saved-YYYY.json
+make update-theme       # Update PaperMod theme
+make install-hooks      # Install git hooks
 ```
 
 ## 🎣 Git Hooks

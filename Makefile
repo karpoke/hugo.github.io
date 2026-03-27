@@ -1,4 +1,4 @@
-.PHONY: help server build clean deploy new-post new-micropost update-theme init-submodules install-hooks
+.PHONY: help server build clean deploy new-post new-micropost import-bookmarks update-theme init-submodules install-hooks
 
 help: ## Show this help
 	@echo "Available commands:"
@@ -33,6 +33,17 @@ new-micropost: ## Create a micropost from a URL (usage: make new-micropost URL="
 		exit 1; \
 	fi; \
 	python3 scripts/new-micropost.py "$(URL)" $(if $(DRAFT),--draft,)
+
+import-bookmarks: ## Import bookmarks from static/bookmarks/saved-$(YEAR).json (usage: make import-bookmarks YEAR=2026 [DRY_RUN=1])
+	@if [ -z "$(YEAR)" ]; then \
+		echo "Error: YEAR is required. Example: make import-bookmarks YEAR=2026"; \
+		exit 1; \
+	fi; \
+	if [ ! -f "static/bookmarks/saved-$(YEAR).json" ]; then \
+		echo "Error: File not found: static/bookmarks/saved-$(YEAR).json"; \
+		exit 1; \
+	fi; \
+	python3 scripts/import-bookmarks.py "static/bookmarks/saved-$(YEAR).json" $(if $(DRY_RUN),--dry-run,)
 
 update-theme: ## Update PaperMod theme
 	git submodule update --remote --merge
