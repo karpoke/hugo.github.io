@@ -6,7 +6,7 @@ This document contains guidelines and context for GitHub Copilot to efficiently 
 
 ### Technologies
 - **Framework**: Hugo (Static Site Generator)
-- **Hugo Version**: 0.156.0 (extended)
+- **Hugo Version**: 0.159.0 (extended)
 - **Theme**: PaperMod (git submodule)
 - **Deploy**: GitHub Pages with GitHub Actions
 - **Language**: Markdown for content, TOML for configuration
@@ -180,7 +180,7 @@ Configured in `hugo.toml` under `[menu.main]`:
 
 ### Workflow
 - File: `.github/workflows/hugo.yml`
-- Hugo version: 0.156.0
+- Hugo version: 0.159.0
 - Includes: Dart Sass, optimizations, minify
 
 ## 🎨 Theme Customization
@@ -493,7 +493,7 @@ fix(hugo): correct date format in frontmatter
 docs(copilot-instructions): clarify semantic commit rules
 feat(theme): add custom CSS for syntax highlighting
 chore(deps): update PaperMod to latest version
-ci(workflow): update Hugo version to 0.156.0
+ci(workflow): update Hugo version to 0.159.0
 ```
 
 **Full format:**
