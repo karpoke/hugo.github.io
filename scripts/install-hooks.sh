@@ -16,8 +16,19 @@ else
     exit 1
 fi
 
+# Copiar pre-push hook
+if [ -f "scripts/pre-push" ]; then
+    cp scripts/pre-push .git/hooks/pre-push
+    chmod +x .git/hooks/pre-push
+    echo "✅ Pre-push hook instalado"
+else
+    echo "❌ Error: No se encontró scripts/pre-push"
+    exit 1
+fi
+
 echo ""
 echo "🎉 Git hooks instalados correctamente"
 echo ""
 echo "El hook pre-commit validará que Hugo puede generar el sitio antes de cada commit."
-echo "Si necesitas saltarte la validación en algún commit, usa: git commit --no-verify"
+echo "El hook pre-push comprobará si hay una nueva versión de Hugo disponible."
+echo "Si necesitas saltarte la validación, usa: git commit --no-verify / git push --no-verify"

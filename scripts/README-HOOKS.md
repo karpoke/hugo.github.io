@@ -1,19 +1,26 @@
-# Git Pre-Commit Hook - Documentación
+# Git Hooks - Documentación
 
 ## 🎯 Objetivo
 
-El hook pre-commit valida automáticamente que Hugo puede generar el sitio antes de cada commit, previniendo errores de sintaxis o configuración que rompan el build.
+- **pre-commit**: Valida automáticamente que Hugo puede generar el sitio antes de cada commit, previniendo errores de sintaxis o configuración que rompan el build.
+- **pre-push**: Comprueba si hay una nueva versión de Hugo disponible antes de cada push y avisa si hay actualización pendiente.
 
-## 📁 Archivos creados
+## 📁 Archivos
 
 ### 1. `.git/hooks/pre-commit` (local, no se sube)
 El hook activo que git ejecuta antes de cada commit.
 
-### 2. `scripts/pre-commit` (se sube al repo)
-Versión compartible del hook que otros desarrolladores pueden instalar.
+### 2. `.git/hooks/pre-push` (local, no se sube)
+El hook activo que git ejecuta antes de cada push.
 
-### 3. `scripts/install-hooks.sh`
-Script de instalación para facilitar el setup del hook.
+### 3. `scripts/pre-commit` (se sube al repo)
+Versión compartible del hook pre-commit.
+
+### 4. `scripts/pre-push` (se sube al repo)
+Versión compartible del hook pre-push.
+
+### 5. `scripts/install-hooks.sh`
+Script de instalación para facilitar el setup de ambos hooks.
 
 ## 🔧 Instalación
 
@@ -143,8 +150,43 @@ make install-hooks
 ```bash
 # Renombrar el hook
 mv .git/hooks/pre-commit .git/hooks/pre-commit.disabled
+mv .git/hooks/pre-push .git/hooks/pre-push.disabled
 ```
 
 ---
 
-**Nota**: Los archivos en `.git/hooks/` son locales y no se suben al repositorio. Por eso incluimos `scripts/pre-commit` y `scripts/install-hooks.sh` en el repo para que otros puedan instalarlo fácilmente.
+## 🚀 Hook pre-push: Comprobación de versión de Hugo
+
+### ¿Qué hace?
+
+Antes de cada `git push`, consulta la API de GitHub para comprobar si existe una versión más reciente de Hugo que la instalada localmente. Si la hay, muestra un aviso con el enlace a la release y recuerda actualizar el workflow.
+
+### Comportamiento
+
+- ✅ Si Hugo está actualizado → push continúa sin interrupción
+- ⚠️ Si hay nueva versión → muestra aviso pero **el push continúa** (no lo bloquea)
+- ⚠️ Si no hay internet o falla la API → aviso y push continúa
+
+### Ejemplo de salida
+
+```
+🔍 Pre-push hook: Checking Hugo version...
+   Installed version: v0.159.0
+   Latest version:    v0.160.0
+
+⚠️  A new Hugo version is available: v0.160.0 (installed: v0.159.0)
+   Update: https://github.com/gohugoio/hugo/releases/tag/v0.160.0
+   Remember to also update HUGO_VERSION in .github/workflows/hugo.yml
+
+   Push continues. Update Hugo when convenient.
+```
+
+### Saltar el hook
+
+```bash
+\git push --no-verify
+```
+
+---
+
+**Nota**: Los archivos en `.git/hooks/` son locales y no se suben al repositorio. Por eso incluimos `scripts/pre-commit`, `scripts/pre-push` y `scripts/install-hooks.sh` en el repo para que otros puedan instalarlo fácilmente.

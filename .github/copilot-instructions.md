@@ -311,15 +311,17 @@ core.sshCommand = ssh -i /home/hbxuser/karpoke/ssh/id_rsa -o IdentitiesOnly=yes
 **Note**: This configuration is local and not uploaded to the repository.
 
 ### Git Hooks
-The project includes a pre-commit hook that validates Hugo builds:
+The project includes a pre-commit hook that validates Hugo builds and a pre-push hook that checks for new Hugo versions:
 
 ```bash
 # Install hooks
 \make install-hooks
 
-# Hook location
-.git/hooks/pre-commit  # Active hook (not in repo)
-scripts/pre-commit     # Source script (in repo)
+# Hook locations
+.git/hooks/pre-commit  # Active pre-commit hook (not in repo)
+.git/hooks/pre-push    # Active pre-push hook (not in repo)
+scripts/pre-commit     # Source pre-commit script (in repo)
+scripts/pre-push       # Source pre-push script (in repo)
 ```
 
 **What the pre-commit hook does:**
@@ -328,23 +330,34 @@ scripts/pre-commit     # Source script (in repo)
 - ✅ Cleans up auto-generated files
 - ✅ Prevents commits with syntax errors
 
-**Skip the hook (emergencies only):**
+**What the pre-push hook does:**
+- ✅ Checks if a newer Hugo version is available (via GitHub API)
+- ✅ Shows update URL and reminds to update `hugo.yml` if outdated
+- ✅ Never blocks the push (warning only)
+
+**Skip the hooks (emergencies only):**
 ```bash
 \git commit --no-verify -m "message"
+\git push --no-verify
 ```
 
 ## 🎯 Automation Rules
 
 ### Bash Command Escaping
-Always prefix bash commands with `\` to prevent alias expansion:
+**ALL** bash commands must be prefixed with `\`, without exception, including
+`cd`, `grep`, `git`, `python3`, `hugo`, `make`, etc.:
 
 ```bash
+\cd /path
 \git status
 \grep -r "foo" .
 \python3 script.py
+\make build
+\hugo --verbose
 ```
 
 This ensures the real binary is called, not a user-defined alias.
+No exceptions: even `cd` and other builtins must use `\`.
 
 ### Terminal Output Verification
 When executing commands or scripts, ensure they return output (even in cases where they shouldn't return anything, like when no files are found).
