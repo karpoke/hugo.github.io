@@ -16,7 +16,7 @@ import time
 import unicodedata
 import urllib.parse
 import urllib.request
-from datetime import datetime, timezone, timedelta
+from datetime import datetime
 from pathlib import Path
 
 POSTS_DIR = Path('content/posts')
@@ -100,7 +100,7 @@ def slugify(text: str) -> str:
     text = text.lower()
     text = re.sub(r"[^a-z0-9]+", "-", text)
     text = re.sub(r"-+", "-", text).strip("-")
-    return text[:80]
+    return text[:80].strip("-")
 
 
 def extract_domain(url: str) -> str:
@@ -381,6 +381,7 @@ def main():
 
     for i, bm in enumerate(bookmarks, 1):
         title = bm["title"]
+        canonical_title = unescape(title).strip()
         url = bm["url"].strip()
         date = bm["date"]
 
@@ -414,6 +415,10 @@ def main():
             if meta_data["title"] in ("Untitled", "") or len(meta_data["title"]) < 5:
                 meta_data["title"] = title
 
+            # Keep bookmark title as canonical to avoid generic page titles like "Artículos".
+            if canonical_title:
+                meta_data["title"] = canonical_title
+
             print(f"  Author: {meta_data['author']}")
             print(f"  Tags: {meta_data.get('tags', [])}")
             if meta_data.get("description"):
@@ -433,11 +438,11 @@ def main():
             print(f"  Using bookmark title as fallback...")
             # Create post with fallback metadata from the bookmark itself
             fallback_meta = {
-                "title": title,
+                "title": canonical_title or title,
                 "author": extract_domain(url),
                 "description": None,
                 "domain": extract_domain(url),
-                "tags": extract_tags(title, ""),
+                "tags": extract_tags(canonical_title or title, ""),
             }
             slug, content = build_content(fallback_meta, url, date)
             filepath = write_post(slug, content, date, dry_run)
@@ -456,5 +461,4 @@ def main():
 
 if __name__ == "__main__":
     main()
-
 

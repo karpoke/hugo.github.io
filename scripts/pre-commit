@@ -1,8 +1,21 @@
 #!/bin/bash
 # Pre-commit hook to validate the Hugo build
-# This hook runs before each commit to ensure the site can be generated
+# Only runs when staged files could affect the site output
+
+# Patterns that require a Hugo build validation
+HUGO_PATTERNS='content/|hugo\.toml|layouts/|assets/|static/|i18n/|data/|themes/'
+
+# Check if any staged file matches a Hugo-relevant pattern
+STAGED_FILES=$(git diff --cached --name-only --diff-filter=ACMR)
+HUGO_FILES=$(echo "$STAGED_FILES" | grep -E "$HUGO_PATTERNS")
+
+if [ -z "$HUGO_FILES" ]; then
+    echo "⏭️  Pre-commit hook: No Hugo content changes, skipping build"
+    exit 0
+fi
 
 echo "🔍 Pre-commit hook: Validating Hugo build..."
+echo "   Changed files affecting site: $(echo "$HUGO_FILES" | wc -l)"
 
 # Verify Hugo is installed
 if ! command -v hugo &> /dev/null; then
