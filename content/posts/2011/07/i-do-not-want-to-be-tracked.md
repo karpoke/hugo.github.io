@@ -5,7 +5,7 @@ categories: ["admin"]
 tags: ["anonimato", "blacksheep", "duckduckgo", "firefox", "firesheep", "foxyproxy", "ghostery", "https", "noscript", "plugin", "privacidad", "proxy"]
 slug: "i-do-not-want-to-be-tracked"
 ---
-![firefox-preferences-privacy-tracking]({static}/images/firefox-preferences-privacy-tracking-300x72.png)
+![firefox-preferences-privacy-tracking](/images/firefox-preferences-privacy-tracking-300x72.png)
 
 *Firefox > Menú Editar > Preferencias > Privacidad > No deseo ser
 rastreado*

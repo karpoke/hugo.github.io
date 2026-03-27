@@ -10,7 +10,7 @@ el número de direcciones gratuitas que se podían gestionar con una
 cuenta de usuario de 5 a 2, y reduciendo también el número de dominios
 entre los que escoger.
 
-![Karpoke]({static}/extra/favicon.ico)
+![Karpoke](/extra/favicon.ico)
 
 Sin embargo, si antes de que cambiaran la política ya teníamos más de 2
 direcciones o eran de dominios que ya no están disponibles, podremos

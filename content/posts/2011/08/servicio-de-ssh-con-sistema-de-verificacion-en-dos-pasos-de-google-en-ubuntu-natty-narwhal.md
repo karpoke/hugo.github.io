@@ -37,7 +37,7 @@ perfectamente para nuestro propósito.
 
 * * * * *
 
-![Google Authenticator Android]({static}/images/google-authenticator-android3-180x300.gif)
+![Google Authenticator Android](/images/google-authenticator-android3-180x300.gif)
 
 _Fuente: [google.com][]_
 

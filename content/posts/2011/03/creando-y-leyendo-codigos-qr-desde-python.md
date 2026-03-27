@@ -8,7 +8,7 @@ slug: "creando-y-leyendo-codigos-qr-desde-python"
 Un código QR (Quick Response Barcode) permite almacenar información en
 un código de barras de dos dimensiones.
 
-![cc.qr.code.capacity`]({static}/images/cc.qr_.code_.capacity-300x166.jpg)
+![cc.qr.code.capacity`](/images/cc.qr_.code_.capacity-300x166.jpg)
 
 Hay bastantes servicios en la web que nos permiten crear nuestros
 propios códigos, por ejemplo [el de Google][], que podemos emplear desde
@@ -18,7 +18,7 @@ la línea de comandos:
 $ curl http://chart.apis.google.com/chart?chs=150x150&cht=qr&chld=H|0&chl=texto -o qr.png
 ```
 
-![QR Code Python]({static}/images/qrcode-python.png)
+![QR Code Python](/images/qrcode-python.png)
 
 Un pequeño alias para tenerlo siempre a mano:
 

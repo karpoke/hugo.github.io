@@ -8,7 +8,7 @@ slug: "encuentra-las-diferencias-desde-el-terminal"
 Supongamos que queremos [encontrar las diferencias][] en la siguiente
 imagen:
 
-![diferencias]({static}/images/diferencias-300x233.png)
+![diferencias](/images/diferencias-300x233.png)
 
 _Fuente: [taringa.net][]_
 
@@ -30,7 +30,7 @@ Vamos a obtener las diferencias:
 $ composite out-0.png out-1.png -compose difference diferencias-out.png
 ```
 
-![diferencias out]({static}/images/diferencias-out-193x300.png)
+![diferencias out](/images/diferencias-out-193x300.png)
 
   [encontrar las diferencias]: http://www.linuxhispano.net/2011/03/29/diferencias/
   [taringa.net]: http://www.taringa.net/posts/imagenes/6577248/encuentra-las-diferencias.html

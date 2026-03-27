@@ -15,7 +15,7 @@ E: No se pudieron analizar o abrir las listas de paquetes o el archivo de estado
 E: No se pudo reconstruir el almacén de paquetes
 ```
 
-![Deb packages]({static}/images/icono-paquete-deb.png)
+![Deb packages](/images/icono-paquete-deb.png)
 
 La [solución][] para resolver el conflicto, que parece ser debido a una
 corrupción en las listas, pasa por borrarlas, y ya podremos actualizar

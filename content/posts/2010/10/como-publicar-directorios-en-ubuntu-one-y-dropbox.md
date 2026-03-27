@@ -90,7 +90,7 @@ públicos intermedios, pero teniendo en cuenta que aparece un enlace para
 ir subiendo en la jerarquía de directorios hasta llegar al directorio
 raíz.
 
-![UbuntuOne Index]({static}/images/ubuntuone-index-300x89.png)
+![UbuntuOne Index](/images/ubuntuone-index-300x89.png)
 
 ubuntuone-index.py
 ------------------

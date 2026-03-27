@@ -10,7 +10,7 @@ tarjeta de crédito que puede reproducir vídeo en alta definición (HDMI)
 y cuesta, dependiendo del modelo, 25&#36; sin _ethernet_ o 35&#36; con
 _ethernet_ [1].
 
-![Raspi Colour]({static}/images/Raspi_Colour_R-248x300.png)
+![Raspi Colour](/images/Raspi_Colour_R-248x300.png)
 
 Cuenta con un procesador ARM11 a 700Mhz, 256MB RAM, USB 2.0, conectores
 de audio y RCA. Se alimenta a través de un puerto mini-USB y tiene una
@@ -18,7 +18,7 @@ ranura para una tarjeta SD (de hasta 32GB) que es donde se instala el
 sistema operativo. No tiene WiFi, pero se le puede añadir una antena
 WiFi USB.
 
-![Raspi Iso Blue]({static}/images/Raspi_Iso_Blue-300x220.png)
+![Raspi Iso Blue](/images/Raspi_Iso_Blue-300x220.png)
 
 _Diagrama de Paul Beech_
 

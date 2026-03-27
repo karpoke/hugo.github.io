@@ -8,7 +8,7 @@ slug: "la-guardiana-de-la-puerta"
 ¿A veces no os gustaría saber si el que se mete en vuestra casa no es el
 maestro de las llaves?
 
-![la guardiana de la puerta]({static}/images/guardiana-300x260.jpg)
+![la guardiana de la puerta](/images/guardiana-300x260.jpg)
 
 En [ubuntu][], los _scripts_ que estén en el directorio `/etc/profile.d`
 se ejecutan cada vez que un usuario inicia la sesión. Si nuestro

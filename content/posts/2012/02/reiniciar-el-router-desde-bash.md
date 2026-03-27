@@ -158,7 +158,7 @@ $username $password $gateway)
 ret=$?
 ```
 
-![Router reboot]({static}/images/router-reboot-300x179.png)
+![Router reboot](/images/router-reboot-300x179.png)
 
 Si le damos a aceptar, la variable `$action` contendrá el valor de las
 variables `$username`, `$password` y `$gateway` separados por un

@@ -147,7 +147,7 @@ Cada vez que conectemos el disco nos saldrá el cuadro de diálogo que nos
 pedirá la contraseña para montar la inferfaz al disco y si introducimos
 la correcta, lo montará en el directorio esperado.
 
-![Disco cifrado con contraseña]({static}/images/contrasena-disco-cifrado-300x204.png)
+![Disco cifrado con contraseña](/images/contrasena-disco-cifrado-300x204.png)
 
 La primera vez que lo montemos de esta manera, habrá que modificar los
 permisos del directorio para que tengamos permisos de escritura:

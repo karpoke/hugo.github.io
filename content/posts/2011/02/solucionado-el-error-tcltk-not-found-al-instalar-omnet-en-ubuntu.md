@@ -17,7 +17,7 @@ de ejecución gráfico y otras herramientas. Hay extensiones para
 simulación en tiempo real, emulación de redes, lenguages de programación
 alternativos (Java, C\#), integración con bases de datos, etc.
 
-![Onmetpp]({static}/images/omnetpp-300x224.png)
+![Onmetpp](/images/omnetpp-300x224.png)
 
 Para instalarlo en Ubuntu, nos bajamos el [código fuente][] y lo
 descomprimimos, por ejemplo, en nuestro directorio personal:

@@ -21,7 +21,7 @@ Prompt=normal
 Si contiene `Prompt=lts` sólo nos actualizará si hay una [LTS][] nueva.
 Si contiene `Prompt=never`... no actualizará nada.
 
-![Ape Man Evolution]({static}/images/ape_man_evolution.png)
+![Ape Man Evolution](/images/ape_man_evolution.png)
 
 Y ejecutamos el comando `do-release-upgrade`:
 

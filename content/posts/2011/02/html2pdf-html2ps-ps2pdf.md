@@ -16,7 +16,7 @@ Con la opción `-W b` le decimos a `html2ps` que siga sólo los enlaces
 que están en el mismo directorio, o a partir de él,
 respecto a la ruta proporcionada.
 
-![Cool HTML Codes]({static}/images/cool-html-codes-300x225.jpg)
+![Cool HTML Codes](/images/cool-html-codes-300x225.jpg)
 
 _Fuente: [techpin.com][]_
 

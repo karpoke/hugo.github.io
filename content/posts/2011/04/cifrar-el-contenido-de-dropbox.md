@@ -15,7 +15,7 @@ los datos que subimos a nuestra cuenta.
 Utilizaremos `ecryptfs` para cifrar un directorio, y todo su contenido,
 dentro del directorio de [una de nuestras cuentas de Dropbox][].
 
-![ecryptfs]({static}/images/ecryptfs-300x224.jpg)
+![ecryptfs](/images/ecryptfs-300x224.jpg)
 
 _Fuente: [Linux Journal][]_
 
@@ -105,7 +105,7 @@ $ ls ~/.dropbox/Dropbox/ecryptDropbox
 ECRYPTFS_FNEK_ENCRYPTED.FWbsAyi5CB4yVkY0czFjSWaXh52n0e59-VIQYq1x1vpJm6ZBDtj-4PILQwWaU--
 ```
 
-[!Dropbox ecryptfs]({static}/images/dropbox-ecryptfs-300x97.png)
+[!Dropbox ecryptfs](/images/dropbox-ecryptfs-300x97.png)
 
 Para que el directorio se monte al arrancar el sistema deberemos añadir
 al fichero `/etc/fstab`, pasándole las opciones directamente:

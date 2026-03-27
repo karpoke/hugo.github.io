@@ -73,7 +73,7 @@ se ejecuten al inicio, haremos lo siguiente.
 
 Desactivamos el autoarranque de la cuenta de Dropbox que ya teníamos.
 
-![Dropbox preferences]({static}/images/dropbox-preferences-247x300.png)
+![Dropbox preferences](/images/dropbox-preferences-247x300.png)
 
 Para tenerlo todo un poco más ordenado, vamos a mover las credenciales
 de la cuenta que ya teníamos al directorio `~/.dropbox1`:

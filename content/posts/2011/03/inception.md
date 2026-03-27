@@ -11,6 +11,6 @@ _[Inception][]_ en C:
 $ git clone https://github.com/karthick18/inception.git
 ```
 
-![inception]({static}/images/inception-300x203.png)
+![inception](/images/inception-300x203.png)
 
   [Inception]: http://github.com/karthick18/inception

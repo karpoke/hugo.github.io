@@ -5,7 +5,7 @@ categories: ["admin"]
 tags: ["10.04", "https", "mysql", "nautilus", "nube", "owncloud", "soberanía de datos", "ubuntu lucid lynx", "webdav"]
 slug: "owncloud-con-mysql-en-ubuntu-lucid-lynx-10-04"
 ---
-![Owncloud logo]({static}/images/owncloud-logo-300x148.png)
+![Owncloud logo](/images/owncloud-logo-300x148.png)
 
 [ownCloud][] es una aplicación de código abierto que nos facilita tener
 nuestra propia nube, permitiendo guardar, sincronizar y compartir todo
@@ -14,7 +14,7 @@ la posibilidad de incluir [aplicaciones de terceros][] tales como un
 calendario, un gestor de contactos, un editor de texto, gestión de
 enlaces, etc.
 
-![Owncloud files]({static}/images/owncloud-files-300x119.png)
+![Owncloud files](/images/owncloud-files-300x119.png)
 
 Para instalarlo en Ubuntu Lucid Lynx 10.04, seguiremos los siguientes
 pasos.

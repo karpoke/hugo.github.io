@@ -10,7 +10,7 @@ particular, lo relacionado con las cabeceras no estándar, es decir, las
 que comienzan por `X-`, se me ha ocurrido que estaría bien ver qué debe
 haber por el mundo:
 
-![HTTP Header]({static}/images/http_header.jpg)
+![HTTP Header](/images/http_header.jpg)
 
 Suponiendo que el archivo [sites.txt][] contiene un listado de los
 sitios que queremos comprobar:

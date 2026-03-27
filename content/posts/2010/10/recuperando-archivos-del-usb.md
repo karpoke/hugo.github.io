@@ -10,7 +10,7 @@ Tengo la mala costumbre de borrar archivos utilizando la combinación
 Llegará el momento en que borre algo que no debería o algo que
 necesitaré más tarde.
 
-![Sushi USB2]({static}/images/sushi_usb_2-300x190.jpg)
+![Sushi USB2](/images/sushi_usb_2-300x190.jpg)
 
 Si esto sucediese, lo mejor podría ser:
 

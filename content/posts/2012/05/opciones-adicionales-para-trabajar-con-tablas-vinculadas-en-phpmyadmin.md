@@ -5,7 +5,7 @@ categories: ["admin"]
 tags: ["consultas sql", "mysql", "phpMyAdmin", "pmadb", "seguimiento", "tablas vinculadas", "tracking"]
 slug: "opciones-adicionales-para-trabajar-con-tablas-vinculadas-en-phpmyadmin"
 ---
-![PhpMyAdmin Logo]({static}/images/PhpMyAdmin-Logo-300x212.png)
+![PhpMyAdmin Logo](/images/PhpMyAdmin-Logo-300x212.png)
 
 Puede que alguna vez hayamos visto este mensaje en el panel de
 administración de phpMyAdmin:

@@ -9,7 +9,7 @@ Si queremos que cada vez que aparezca el salvapantallas, lo haga
 mostrando algunas líneas del código fuente del _kernel_ por pantalla,
 sólo necesitamos configurar el salvapantallas `phosphor`.
 
-![Phosphor]({static}/images/phosphor-300x178.png)
+![Phosphor](/images/phosphor-300x178.png)
 
 Lo primero es instalar el código fuente del `kernel`:
 

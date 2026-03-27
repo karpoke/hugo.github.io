@@ -43,7 +43,7 @@ WALLPAPER="/usr/share/images/desktop-base/moreblue-orbit-grub.png"
 
 para que apunte a la ruta de la imagen que queramos.
 
-![Gimp Splash BM]({static}/images/gimp_splash_bm-296x300.png)
+![Gimp Splash BM](/images/gimp_splash_bm-296x300.png)
 
 No hace falta que sea una del directorio `/usr/share/images/grub`,
 podemos crearla nosotros, pero debe respetar la resolución que tiene la

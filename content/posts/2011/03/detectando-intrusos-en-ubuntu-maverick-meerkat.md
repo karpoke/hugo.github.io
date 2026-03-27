@@ -109,7 +109,7 @@ denyhosts
 por SSH fallidos en `/var/log/auth.log` y añade las IPs al fichero
 `/etc/hosts.deny`.
 
-![You are being monitored]({static}/images/you-are-being-monitored1-300x300.jpg)
+![You are being monitored](/images/you-are-being-monitored1-300x300.jpg)
 
 psad
 ----

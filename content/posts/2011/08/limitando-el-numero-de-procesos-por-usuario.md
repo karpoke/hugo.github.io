@@ -71,7 +71,7 @@ ejecuten nuevos programas hasta que no se cierre alguno, provocando que la
 máquina deje de responder. Un solo [usuario][] podría dejar el sistema sin
 respuesta.
 
-![Fork bomb]({static}/images/fork-bomb.png)
+![Fork bomb](/images/fork-bomb.png)
 
 _Fuente: [Wikipedia][bomba fork]_
 

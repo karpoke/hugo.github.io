@@ -11,7 +11,7 @@ registrada nuestra MAC real (todavía se podría ser más paranoico), ya
 sea porqué hay un filtrado por MAC y la nuestra no se encuentra en la
 lista de las MAC autorizadas para conectarse.
 
-![MAC Address]({static}/images/mac_address-300x252.png)
+![MAC Address](/images/mac_address-300x252.png)
 
 _Fuente: [wikipedia][]_
 
@@ -114,7 +114,7 @@ Si es una conexión inalámbrica, podemos obtener alguna MAC válida de
 algún equipo que esté conectado a la red, utilizando algún programa como
 `kismet`.
 
-![Kismet Client List WEP]({static}/images/kismet_client_list_wep-300x231.png)
+![Kismet Client List WEP](/images/kismet_client_list_wep-300x231.png)
 
   [wikipedia]: http://en.wikipedia.org/wiki/MAC_address
   [hexadecimales]: http://en.wikipedia.org/wiki/Hexspeak

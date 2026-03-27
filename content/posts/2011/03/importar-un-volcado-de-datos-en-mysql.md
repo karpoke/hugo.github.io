@@ -11,7 +11,7 @@ Para realizar un volcado de datos, podemos ejecutar:
 $ mysqldump -uuser -p --all-databases --host localhost > mysql.sql
 ```
 
-![MySQL Dump]({static}/images/mysqldump.png )
+![MySQL Dump](/images/mysqldump.png )
 
 _Fuente: [luauf.com][]_
 

@@ -44,7 +44,7 @@ existen los comandos `esddsp`, que permite redirigir datos de audio
 no-esd a través de [esd][] y `padsp`, que permite lo mismo pero mediante
 PulseAudio.
 
-![Pulseaudio diagram]({static}/images/Pulseaudio-diagram-246x300.png)
+![Pulseaudio diagram](/images/Pulseaudio-diagram-246x300.png)
 
 _Fuente: [es.wikipedia.org][]_
 

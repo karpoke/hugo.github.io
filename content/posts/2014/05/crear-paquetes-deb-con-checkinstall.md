@@ -189,7 +189,7 @@ Referencias
 
   [libsodium]: https://download.libsodium.org/libsodium/releases/
   [opciones]: http://www.asic-linux.com.mx/~izto/checkinstall/docs/README
-  [libsodium_0.4.5-1_i386.deb]: {static}/deb/libsodium_0.4.5-1_i386.deb
-  [dnscrypt-proxy_1.4.0-1_i386.deb]: {static}/deb/dnscrypt-proxy_1.4.0-1_i386.deb
+  [libsodium_0.4.5-1_i386.deb]: /deb/libsodium_0.4.5-1_i386.deb
+  [dnscrypt-proxy_1.4.0-1_i386.deb]: /deb/dnscrypt-proxy_1.4.0-1_i386.deb
   [Checkinstall, crear paquetes .deb fácilmente a partir del código]: http://ubuntulife.wordpress.com/2010/08/05/checkinstall-crear-paquetes-deb-facilmente-a-partir-del-codigo/
   [How to compile and install DNScrypt]: http://askubuntu.com/questions/330589/how-to-compile-and-install-dnscrypt/330611#330611

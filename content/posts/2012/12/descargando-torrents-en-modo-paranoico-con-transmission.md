@@ -9,7 +9,7 @@ Si utilizamos Transmission para descargar _torrents_ podemos activar dos
 características interesantes: cifrado de la conexión y uso de listas de
 bloqueo de IPs.
 
-![Preferencias del Transmission]({static}/images/preferencias-transmission-300x173.png)
+![Preferencias del Transmission](/images/preferencias-transmission-300x173.png)
 
 Vamos al menú Editar > Preferencias > Privacidad:
 

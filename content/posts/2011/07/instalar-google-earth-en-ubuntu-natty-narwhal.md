@@ -10,7 +10,7 @@ de su página—además de que, ahora mismo, baja el fichero
 [GoogleEarthLinux.bin][]—, ni [googleearth-package][], ni
 [gdebi][], ni [nada][].
 
-![Google Earth]({static}/images/google-earth-300x178.png)
+![Google Earth](/images/google-earth-300x178.png)
 
 [Bajamos el paquete estable][] y lo instalamos:
 

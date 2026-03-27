@@ -68,7 +68,7 @@ que hemos autorizado nosotros:
 $ ssh username@remotehost
 ```
 
-![OpenSSH]({static}/images/openssh.png)
+![OpenSSH](/images/openssh.png)
 
 _Fuente: [openssh.com][]_
 

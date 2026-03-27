@@ -26,7 +26,7 @@ algunos sistemas de ficheros no gestionan eficientemente grandes
 cantidades de ficheros pequeños, además de que la búsqueda de texto, que
 requiere abrir todos los ficheros puede ser lenta.
 
-![Maildir]({static}/images/maildir-300x270.png)
+![Maildir](/images/maildir-300x270.png)
 
 Fuente: [mattcutss.com][copia de seguridad de GMail]
 
@@ -39,7 +39,7 @@ los inconvenientes están los problemas de bloqueo del fichero para cada
 operación (añadir, borrar y buscar), problemas cuando se usa en sistemas
 de ficheros de red y que el formato se corrompe fácilmente.
 
-![mbox]({static}/images/mbox.png)
+![mbox](/images/mbox.png)
 
 Fuente: [mattcutss.com][copia de seguridad de GMail]
 
@@ -55,7 +55,7 @@ $ sudo aptitude install getmail4
 [Activamos POP3 en GMail][]. Vamos a *Configuración del correo >
 Reenvío y POP > Activar POP para todo el correo*.
 
-![POP]({static}/images/pop-300x166.gif)
+![POP](/images/pop-300x166.gif)
 
 Fuente: [mail.google.com][Activamos POP3 en GMail]
 

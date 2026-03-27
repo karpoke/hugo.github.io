@@ -9,7 +9,7 @@ slug: "jelly-bean-con-androvm-en-virtualbox-ose"
 probarla, lo único que tenemos que hacer es [descargarla][] y configurar
 VirtualBox OSE para ejecutarla.
 
-![jelly bean]({static}/images/jelly-bean-300x183.png)
+![jelly bean](/images/jelly-bean-300x183.png)
 
 Descarga
 --------

@@ -9,14 +9,14 @@ slug: "raspbmc"
 XBMC en la Raspberry Pi, lo que la transforma en un interesante
 reproductor multimedia casero (HTPC).
 
-![Raspbmc logo]({static}/images/raspbmc-logo.png)
+![Raspbmc logo](/images/raspbmc-logo.png)
 
 Esta distribución recibe actualizaciones constantes que añaden mejoras,
 actualizaciones de _drivers_ y nuevas funcionalidades. Además, permite
 compartir el contenido multimedia a través de NFS, SMB, FTP y HTTP.
 Raspbmc ha sido creada y está siendo mantenida por Sam Nazarko.
 
-![Raspbmc XBMC]({static}/images/raspbmc-xbmc-300x196.jpg)
+![Raspbmc XBMC](/images/raspbmc-xbmc-300x196.jpg)
 
 _Fuente [retrocomputers.eu][]_
 

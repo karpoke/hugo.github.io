@@ -78,7 +78,7 @@ $ cd jperf-2.0.2.zip
 $ sh jperf.sh
 ```
 
-![jperf-2.0.2]({static}/images/jperf-2.0.2-300x216.png)
+![jperf-2.0.2](/images/jperf-2.0.2-300x216.png)
 
 * * * * *
 
