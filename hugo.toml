@@ -4,13 +4,13 @@ title = "Karpoke - Just Another Blog"
 theme = 'PaperMod'
 enableRobotsTXT = true
 
-# Permalinks en formato legacy de Pelican: /YYYY/MM/DD/slug/
+# Legacy Pelican permalink format: /YYYY/MM/DD/slug/
 [permalinks]
   posts = '/:year/:month/:day/:slug/'
 
 [params]
   author = 'Nacho Cano'
-  description = 'Blog técnico de Nacho Cano'
+  description = 'Technical blog'
   ShowReadingTime = true
   ShowShareButtons = true
   ShowPostNavLinks = true
