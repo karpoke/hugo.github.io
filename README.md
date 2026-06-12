@@ -84,7 +84,7 @@ Deploy to GitHub Pages happens automatically via GitHub Actions on every push to
 
 1. Go to Settings > Pages
 2. Source: GitHub Actions
-3. The custom domain `blog.ignaciocano.com` is already configured in `static/CNAME`
+3. The custom domain `karpoke.ignaciocano.com` is already configured in `static/CNAME`
 
 ## 📁 Project structure
 

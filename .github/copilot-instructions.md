@@ -11,7 +11,7 @@ This document contains guidelines and context for GitHub Copilot to efficiently 
 - **Deploy**: GitHub Pages with GitHub Actions
 - **Language**: Markdown for content, TOML for configuration
 - **Site Title**: Karpoke - Just Another Hugo Blog
-- **Domain**: hugo.github.io (temporary), blog.ignaciocano.com (final)
+- **Domain**: hugo.github.io (temporary), karpoke.ignaciocano.com (final)
 
 ### Blog Structure
 ```

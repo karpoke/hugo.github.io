@@ -1,4 +1,4 @@
-baseURL = 'https://hugo.github.io/'
+baseURL = 'https://karpoke.ignaciocano.com/'
 languageCode = 'es'
 title = "Karpoke - Just Another Blog"
 theme = 'PaperMod'
