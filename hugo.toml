@@ -1,5 +1,5 @@
 baseURL = 'https://karpoke.ignaciocano.com/'
-languageCode = 'es'
+locale = 'es'
 title = "Karpoke - Just Another Blog"
 theme = 'PaperMod'
 enableRobotsTXT = true
